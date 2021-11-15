@@ -1,0 +1,20 @@
+1) Which tasks have been completed?
+Finalize datasets, libraries to be used to extract topics. We decided to use nltk, gensim and spacy for implementation. 
+
+Training Data and selection. We decided to use the AMI meeting transcript corpus to train our data and to test on self-generated transcripts.
+
+Model experimentation and training. We experimented with a selection of modes including LDA, NMF and PLSA (see difference). We selected the LDA algorithm with bag-of- words and tf-idf for topic assignment based on it performing the best on our training data set. 
+
+ 2) Which tasks are pending? 
+Model fine-tuning. Adjust the parameters of the model we selected.
+
+Build a user interface for the model.
+
+Test our model and program on self-generated transcripts.
+
+Iterate after training. 
+
+3) Are you facing any challenges? 
+Availability of data sets was a challenge and we are relying on self-generated transcripts to complete a task. 
+
+Reducing overfitting problem of the algorithms. 
