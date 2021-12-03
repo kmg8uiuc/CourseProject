@@ -1,0 +1,1915 @@
+welcome back to another episode of the
+waveform podcast we're your hosts i'm
+marquez and i'm
+andrew just kidding i'm andrew
+i'm marquez yeah there we go in today's
+episode we have tesla hitting a new
+milestone while simultaneously taking a
+step backwards we're gonna bring david
+on later uh kind of have our final
+thoughts on pixel six but first
+you had a really busy weekend
+uh yeah i was so every my entire
+timeline right now is where are the
+videos where is the macbook pro review
+where is the pixel six review where is
+the airpad airpods video um i've been
+actually with the last video i published
+that from the hotel yeah at uh nationals
+we're uh we're representing new york for
+club ultimate frisbees national
+championships in san diego for the past
+four days
+um it was a good time we it was it's
+been a crazy year and yeah not a lot of
+normal things about this season but it
+was uh it ended with us losing by one
+point in the finals to raleigh so we
+came in second place
+um
+extremely impressive like uh yes lost in
+finals but i don't think people
+understand how many like this nationals
+is
+the top 16 teams in the country 16 or 20
+these 16 16. i mean there are hundreds
+and hundreds of teams out there every
+year you have to go through sectionals
+and you have to go through regionals
+then you get to nationals something i
+never did in my ultimate career and now
+you have been to finals twice
+it's wildly impressive yeah we lost in
+semifinals in 2019 and then we lost in
+finals on universe point so by one point
+to raleigh so congrats to raleigh some
+of you who might have followed the audl
+pro season might know we also lost to
+raleigh in the finals in the pro league
+as well which is incredible for raleigh
+but yeah for new york great for great
+for rally bad for new york good for
+noah's all bad for isaac saul
+there's any ultimate listeners out here
+they're brothers that are good friends
+of ours but we pl we played a good a
+good tournament we were technically the
+nines that is really impressive but
+seas were funny because seeds almost
+meant nothing the four seed ended up
+coming in last place so it was uh it was
+all over the map ultimate seedings
+had never been great it was a crazy year
+but i'm sure
+i mean it kind of sucks that it's in the
+middle of the busiest segment but it
+also is probably nice to just have four
+days to focus on that and kind of yes uh
+take a break so that's where the video
+that's why the videos weren't right on
+time because i was out in a field
+all right so we want to do a few tech
+headlines first right yeah we can start
+off with macbook pro i'm actually if
+you're watching the video version i am
+now sitting with the new macbook pro in
+front of me i am testing both the 14
+inch m1
+pro and a 16 inch m1 max macbook pro
+so you're you're testing the 14 and the
+16 which one
+i'm assuming you brought the 14 with you
+to travel uh yeah yeah so i actually
+started testing the 14 when i was out
+there but that was just like for regular
+everyday
+stuff which this is massively overkill
+for
+i'm back in the studio now i can't wait
+to start i'm going to be trying to edit
+a video on this for the first time in a
+while i haven't edited a video on a
+laptop
+on the 16. okay okay so the 16-inch that
+we're testing is fully maxed out it's
+got the the highest end chip with the
+most gpu cores with all of the ram and
+everything
+and uh
+that's what i'm gonna give a shot but i
+took the 14 with me
+it's been great i think it i it did
+everything just as well as the m1
+13-inch macbook pro did which is to say
+web browsing answering emails the couple
+of things i got the chance to do out
+there but i'm gonna really put it
+through its paces but my initial
+impressions this thing is nice i mean
+just looking at it i love the black
+keyboard rather than this
+garbage it is nice love the keyboard
+love the touch id the real buttons are
+back no
+touch bar anymore out of here uh the
+screen is much nicer and very bright
+battery life about the same magsafe can
+confirm pretty fast charging okay love
+that i haven't had to use the ports yet
+but i love that there's an sd card slot
+so if i were to just like take some
+photos and
+you know toss my pixelmator in here i'd
+have that with me
+how nice is it to not have to dig for
+your sd card reader like that inevitably
+gets lost at the bottom of your bag
+whenever you travel it's so nice yeah it
+is really nice um the notch is just kind
+of sitting there i feel like i'm over it
+at this point it's just cool it's just
+in the screen speaking of notch quinn
+from snazzy labs had a pretty fantastic
+video
+yesterday i think yeah i think even just
+last podcast i was saying you are never
+going to fill the menu bar and
+notifications or whatever up on a laptop
+uh we'll see i've been proven wrong very
+quickly um quinn did have that happen
+i can't even believe this is real so oh
+my gosh a lot of people have been asking
+and wondering with the notch in the way
+now what happens if your app menus go
+too far to the right or your status
+menus go too far to the left do they
+like you know get smaller or do they
+jump to the other side or are they
+scrollable the answer is freaking
+nothing if i turn on istat menus look at
+that
+there is stuff behind the menu bar that
+i can't see
+yeah so the top of the screen where the
+notch is the notch cuts into the menu
+bar yeah so that's where your like file
+edit view all those menus are and on the
+other side that's where your time
+notifications wi-fi all those things are
+if you use a program with enough menu
+bar items you can actually fill up the
+menu bar and then the question would be
+okay what happens does it skip to the
+other side of the notch
+and quinn
+had a couple i think he was using
+resolve or something like that and he
+had istat menus
+there's always a bunch of stuff on the
+left eye stat magnus is a bunch of stuff
+on the right and they collided in the
+middle and there was just stuff hidden
+by the notch
+which is really strange and uh didn't
+realize that was gonna be a problem i i
+don't have that many apps that have that
+many menu bar items but if you do
+that's something to consider resolve is
+a pro app yeah and like what's funny is
+it works totally normal it just pretends
+the notch isn't there so the menu will
+pop down under it so ultimately it's not
+really restricting you unless you know
+you're new to that program and some i'm
+just waiting for someone to like look up
+a tutorial be like go to this menu uh
+category and now oh i don't have that
+yeah oh it's behind the number it's
+hidden behind the notch but you can
+still click it you just won't yeah it's
+still there i'm sure people will find
+out but that's
+super weird pretty funny feels like an
+oversight but i guess ultimately what
+else would they do my
+only
+like resolve to it would maybe be um if
+there are too many you add like a drop
+down arrow and then you know you drop a
+menu down to now get into the extra
+menu selections that would be there i
+think it was between that and making it
+scrollable horizontally which would be
+kind of
+maybe less intuitive than we think i
+think we'd know to scroll but i think a
+drop down is easier to see would be
+easier i mean i guess you have the side
+scroll on a track pad or more reason to
+buy a uh magic mouse which is terrible
+stopped by a magic mouse
+uh but yeah that i did see quinn's video
+that you know other than that i think
+this laptop's been pretty great but
+again my conclusion on it
+hasn't been determined yet it will come
+down to how well the pro workflow works
+m1
+cruised through all of my casual stuff
+like pixelmator like of course web
+browsing slack my to-do list all that
+like basic stuff any laptop can do so
+i'm looking forward to notching it up
+pun intended and uh getting into the
+maxed out inch and throwing 8k red raw
+and transcoding at it and seeing seeing
+what it can handle so it'll be
+interesting too because like renee's put
+some videos a lot of people put videos
+out on this already um and
+some of the times they're getting while
+you know they're in prores a lot of the
+the stuff they're editing and doing time
+like export examples of and they're
+destroying the times so prores i would
+expect to do exactly an order of
+magnitude better because there is a
+specific section of the m1 max and m1
+pro chip dedicated to prores processing
+and transcoding and all that so if you
+have a prores workflow i don't even have
+to test it you should get these laptops
+this laptop will do incredible work with
+prores but that's the thing like okay
+it's it's built for that and has a
+section for that but what about other
+things like of course shared memory and
+faster bandwidth and all that stuff is
+going to have a major performance
+increase but it won't be the same as
+dedicating a piece of it like if i had a
+an afterburner card that would
+be dedicated to transcoding uh redcode
+raw that would be a totally different
+story
+so we'll see what the new performance
+stuff does but yeah of course it'll
+crush with prores happy about that
+um all right next up we have i feel like
+i have to talk about facebook a little
+bit here they've
+literally been in the news every day for
+the last like two weeks it seems like
+aren't they gonna change their name yeah
+that's kind of what i want to get to um
+before that the the main thing we're
+seeing is these whistleblower papers um
+i
+don't really want to get much into it
+because i don't feel like um uh well
+enough first in what's going on but
+there are a million resources out there
+i highly suggest reading some of them um
+what i did read was super interesting
+but yeah we
+and what feels like kind of a
+coincidence because of all the stuff
+coming out i'm sure for other reasons as
+well facebook wants to
+change their name but less of you know
+changing facebook.com more of changing
+the full-blown company name kind of
+similar to what uh google google like
+went under alphabet when they started
+doing more ventures than just being a
+search engine i see something like that
+so facebook would be one of the
+companies under a parent company and
+that parent company would also have
+instagram and oculus and stuff like that
+yeah yeah what's happening what stuff
+like that
+um
+it
+like i said it it makes sense um first
+of all because it's when you think of
+facebook you think of the social media
+the terrible social media
+i think most of us
+come and if you are you know oculus is
+fantastic whatsapp is great
+instagram's pretty great too they've had
+a lot of stuff in the news lately as
+well but um if i were any of those i
+would never want to be associated with
+facebook and try and
+break off of that as much as possible
+yeah i think i was thinking of like the
+car analogy where when you buy like a
+genesis for example in the u.s those are
+like somewhat popular luxury cars but
+they're made by hyundai and you would
+never spend that much money on a hyundai
+yeah but hyundai has a sub brand called
+genesis that is completely separate from
+it you never see the word hyundai in any
+of their cars but that allows them to
+have a different reputation
+uh kind of the same thing with alphabet
+like it's a parent company that holds
+google and they run google and i'm sure
+they do a bunch of other stuff but that
+makes sense like instagram doesn't it
+say a facebook app when you log in it
+does i
+yeah that's a good point will that
+change to what they don't have one name
+yet by the time this episode comes out
+it might be out i think they have an
+event tomorrow where they might announce
+it okay um some people are speculating
+horizon because they have this new
+i don't want to call it a game but like
+new vr metaverse experience called
+horizon world so people are thinking
+like that's horizon is going to they
+zuckerberg has mentioned it really wants
+to focus on the metaverse and they're
+obviously doing a lot of ar vr stuff um
+and
+so horizon seems to be the front-running
+rumor but there's not
+much about it quite yet it would be
+instagram a horizon app interesting
+instagram instagram or horizon app i
+mean
+i would much prefer that over i'm sure a
+lot of like younger people who really
+enjoy
+instagram would
+love to not have it say facebook and
+have it correlate with facebook anymore
+for however much that's worth you still
+know it's a facebook company though yeah
+ultimately i guess but
+so yeah that's pretty much it um i
+think it's the right move and in the
+future people will forget but i don't
+think anyone will ever really forget
+until like zucker
+no one will ever forget it's just always
+going to be correlated with what i
+consider just like the swamp of the
+internet i despise facebook how much
+facebook's reputation has
+sort of tanked over the years it's
+especially in the last probably
+five to seven years like it had it's it
+was already the sort of older social
+media yeah and that's why facebook ended
+up like literally buying instagram is
+could because people exactly went to
+instagram and never even made a facebook
+account after a certain age so you're
+like all right how are we going to get
+these new people and all of their data
+we'll buy instagram and that'll keep us
+on the forefront but like facebook
+hasn't really done anything to shift
+itself back into like do you think 10
+year olds are like itching to make a
+facebook account no no they're on tick
+tock
+if anything and then instagram and then
+facebook maybe someday so that's the
+reputation now and that's what changes
+but it's the thing is like they've gone
+further than just being the old person
+app like kind of how we see yahoo or
+hotmail email addresses like it just
+seems but uh but you know those yahoo
+email address didn't do anything wrong
+it just became synonymous with like the
+kind of boomer mentality uh whereas
+facebook is now not just for old people
+but essentially destroying democracy so
+get rid of that aol.com
+yes you cringe sometimes when you see an
+aol.com email address
+yeah there's still some out there though
+i do do you like remember those days of
+how long it took you to get onto the
+internet it's just just barely before my
+time but i've heard i've heard the sound
+it was brutal i like
+imagine trying to like load david into
+this podcast how long do you think that
+would take that would take a while
+probably about like
+as long as an ad break yeah probably all
+right let's let's do it this episode of
+waveform is brought to you by peloton if
+home is where the heart is it can also
+be where the cardio is so with peloton
+you can get one of the best workouts
+your life without ever having to step
+outside your front door peloton has
+revolutionized the at-home exercise
+experience because when you bring
+peloton home you're not just purchasing
+a piece of machinery you're gaining
+access to an entire world so peloton has
+really increased my workout volume way
+more than i expected it's very
+motivating so just being able to have
+not only a stationary bike but to have
+classes on the thing that i can take
+even with my friends right in my house
+as a game changer i don't ever have to
+worry about whether weather is nice for
+riding to go for an actual bike ride i
+don't have to drive to the gym after a
+long day of editing it was great to be
+able to help stay in shape for my
+ultimate season getting ready for
+nationals it wasn't easy during tectober
+but we went to finals and proved we were
+one of the best teams in the nation so
+even though we're working out from home
+peloton plugs you into a global network
+of riders we can cheer each other on
+challenge each other to be better and no
+matter what you're doing building
+strength building endurance or even
+building a meditation practice so pelton
+has you covered however you like to move
+cardio yoga pilates running it's all
+there on your schedule so with the
+peloton bike there's nothing like
+working out from home learn more at one
+peloton.com new members can try peloton
+classes for free for 30 days at
+1pelton.com
+app terms apply that's
+o-n-e-p-e-l-o-t-o-n.com right welcome
+back we've brought uh david onto the
+podcast and we're going to talk pixel
+6. slowly loaded
+slowly loaded him in with our good
+old-fashioned internet here actually my
+legs are still loading but um okay so we
+we've used these phones so i've mostly
+been testing the pixel 6 pro david's
+been uh rocking the what's the color of
+that this is kind of coral the kind of
+coral kind of rng yeah pixel 6. every
+time i look at it it looks like a
+different color right now you've got the
+laptop the rose gold laptop yeah yeah it
+kinda looks like it's the rose gold it
+does look the same when i look at the
+camera monitor but when you look at it
+next to an orange thing suddenly it
+looks orange and you wouldn't believe me
+until you saw it in the video even the
+renders online look different than it
+looks in real life like yeah this color
+is an enigma it's like the dress yeah
+exactly yeah blue or gold blue or gold
+we try our best in the video but the
+review is up now it's a review of both
+phones in one so there's that um but we
+wanted to talk a little more about some
+of the more nuanced stuff i've always
+gotten like the comment that i spend i
+spend too much time on the camera in
+these phone videos it's just a phone why
+are you talking about the camera so much
+but this is the pixel yeah so we have a
+lot to say about the cameras because
+they're sort of known for the cameras
+but big old deal let's uh let's talk
+pixel for a bit so
+do you have any other
+like burning thoughts that didn't get
+into the review i mean you've used this
+90 hertz flat 1080p screen for a bit
+how are you feeling about that 5.99 yeah
+i mean i think the 599 is makes this
+phone one of the best deals as an
+overall package on android right now
+yeah um i agree a lot of people would
+probably say like oh there's you know
+cheaper phones that are have a faster
+geekbench score or something or have
+like a 120 hertz display but like
+considering all of the smarts that you
+only get on pixel as an overall package
+5.99 isn't a price that i don't think
+any of us were expecting we guessed in
+slack and i guessed 6.99 8.99 but right
+5.99 is just like the cherry on top yeah
+i remember before we got briefed on the
+prices we were told all about these
+phones and tensor and these new cameras
+and the phones share a lot of parts yeah
+and then we were told one of them will
+be mid-range and one of them will be
+flagship and with just that information
+i think i was guessing 799 999
+just
+like that's what i think of when i think
+of mid-range maybe i could be 699 or 750
+like the baseline iphone but
+that's what i was thinking yeah um so
+when we got to 5.99 8.99 i was like okay
+8.99 is pretty premium but 5.99 for the
+pixel with that same chip it's the same
+primary camera yeah the same software
+like that's a really good deal of a
+phone same storage 128
+and even the design i'll be honest i
+i would almost prefer yeah the standard
+pixel so the they've curved the screen
+over the edges on the six pro just a
+little bit and it's all right it shrinks
+those bezels a little bit
+um but it's got these glossy sides
+they're both aluminum sides but this is
+much more fingerprint prone than the
+matte sides on the six so i actually i
+would rather have
+that build this mat is not quite the
+matte that you got on the pixel four if
+you have a pixel 4 or pixel 4 xl that's
+a nicer matte in my opinion yeah this
+one's definitely like aluminum with like
+a matte texture but it's not the same
+thing yeah um my theory on the pricing
+with pixel 6 and pixel 6 pro means 5.99
+um you obviously get the 120 hertz
+display over 90 you get the telephoto 4x
+telephoto camera over the no telephoto
+camera at all you get the wider angle
+front facing camera with the higher
+resolution it's 11 megapixels over eight
+um but i think everyone was kind of just
+like the penultimate question for all of
+this has just been like is that 300
+worth of stuff and i have this theory
+that actually that extra 100 right
+because maybe they could charge an extra
+200 for the pro my theory is the
+millimeter wave
+because i really cuz
+verizon and other telecom providers
+often charge a lot more like the oneplus
+8 i remember when that came out
+the uw version on verizon which stands
+for ultra wide band
+was 100 more than the regular one right
+and
+i i don't
+you know
+they're probably just trying to make up
+for the money that they put into the
+infrastructure and that's this is how
+they're trying to make it up
+but for people that don't know the pixel
+6 has 5g low band and mid band but it
+doesn't have millimeter wave right
+whereas the
+pro has millimeter weight millimeter
+weight by default there are some carrier
+effects of the pixel six with millimeter
+ways
+we're still trying to figure it out the
+verizon and the 18 t ones are
+100 140 140
+more for this that
+like almost no longer becomes a deal but
+like this is yeah yeah it's it's wild so
+well that matches with your theory
+though perfectly yeah 100 verizon is
+costs or charging one hundred dollars
+more how 18d is charging another 40 on
+top of that the funny thing is verizon
+is charging another hundred dollars on
+top of the hundred dollars that i think
+was already put into
+you know making oh wait no no you're
+right i'm saying right because they
+added if they added it to this yeah yeah
+so
+yeah
+that's i mean yeah that sounds but i
+would say that like for most people like
+the funny thing is like a lot of android
+enthusiasts are going to want to get the
+pro obviously yeah that's why they made
+it yeah because i have this theory that
+they need to
+pixels need to be pro and not pro at the
+same time all of the google assistant
+features in every
+pixel and the reason that i love the 4a
+so much is that all the assistant
+features are helpful in a way that you
+don't need to interact with your phone
+physically as much
+you've got now playing you've got hold
+for me like all these things that make
+it so like it just automatically does
+things google assistant google voice
+um well not google is google assistant
+but
+the ant the android enthusiast community
+are the people that buy pixels in the
+first place so then google has bounced
+back back and forth over and over again
+on whether it wants the pixel be premium
+or affordable or premiere affordable and
+it still hasn't gained market share on
+either of those so now it's just like
+let's do both sure and i think that's a
+really good move yeah so we've got
+there's a couple really there's some
+standout things about the phone that we
+can dive into a little more watch the
+video review if you haven't already it's
+like 20 minutes long but let's talk
+about a couple things first of all
+should we just do camera right off the
+bat
+i know david has a lot of i guess
+yeah okay um my general overall take
+that we can pick apart is
+they are over processing a bit and my
+you know you look at a lot of the photos
+and
+it takes a 10 out of 10 photo sometimes
+and it takes
+weirdly a below average like 7 out of 10
+photo other times
+and i feel like i can see
+i can see the camera like with its
+potential it's a 50 megapixel huge
+sensor taking in way more light i can
+see that potential in a lot of the shots
+but then the over processing and over
+hdr look that i get from it
+uh makes it look worse than it should
+so in a lot of like totally normal
+average looking scenarios it'll it'll
+start peeling in like highlights and
+shadows that don't need to be pulled in
+where in like the tough situation like
+out the windshield of my car at night
+with the ultra wide wall moving it'll be
+an incredible shot and i'm like wow this
+is this is an incredible camera and
+that's the 10 out of 10. yeah but then a
+7 out of 10 is like the normal shot
+where it over hdr stuff yeah so
+i'm i'm thinking it can get better with
+software updates like i've seen really
+good shots in a lot of situations where
+a lot of phones can't compare and so
+that makes me really like this camera
+but
+it's gonna it's gonna need a little bit
+of tweaking i think yeah
+okay so uh
+the point of computational photography
+is to get around physical boundaries to
+cheat physics to
+and in in previous devices smartphones
+have had the some of the smallest
+sensors out of any camera right we kind
+of moved from these large format cameras
+down to this and then we kept getting
+smaller and smaller and smaller and
+smartphone cameras have traditionally
+been the smallest uh one of the earliest
+examples of computational photography
+portrait mode right that's a great
+example it's grabbing the edges of a
+thing and creating a foreground and a
+background and over time they tried to
+create more than just a foreground and a
+background they tried to create more
+depth levels in order to try to emulate
+the way that lenses actually work
+um that was all
+a stop gap
+until we got to bigger sensors and
+smartphones and i think that that is
+like one of the first examples the other
+examples are like hdr and that kind of
+stuff and those are the things that i
+think
+are becoming a problem now that
+smartphone sensors are getting so big
+capturing so much light and
+one of the things that a big sensor does
+is give you
+natural depth of field and it also gives
+you more light capture yeah sometimes
+too much depth of field right right yeah
+like cringy and like a little bit like
+two wide open right we saw this on the
+s20 ultra and i think this is having a
+similar first generation problem but not
+quite as bad yeah yeah there's also two
+software features that they added in uh
+the camera modes that are also both
+software tricks to simulate things you
+do with hardware so you know that like
+uh action pan shot that you get where if
+like a car is driving by and you get
+your shutter speed just right and you
+turn the camera fast enough you get the
+sharp subject and the blurred background
+you can in the pixel's action pan mode
+hold still let an object pass through
+the frame take the shot and it'll blur
+the background in the direction that the
+object is moving to create that effect
+so it's again a software trick to do
+something you would have done with
+hardware it's pretty smart and it's good
+the other is long exposure mode same
+idea you find like a waterfall or even
+like light streaks from car headlights
+at night and you just hold still take a
+quick exposure you don't have to hold
+there for very long it'll look at
+everything moving and go okay here's the
+direction they're moving blur and it
+just makes this cool long exposure
+effect so we're getting a lot of google
+smarts in that direction which is like
+solving for not amazing hardware yeah
+don't forget about the thing with the
+faces where the face is blurry it will
+take a photo with the wide angle camera
+at a faster shutter speed and
+superimpose it yeah it's always running
+a higher faster shutter speed with the
+ultra wide and if it notices blurry
+faces it will stitch in the sharper face
+from the ultrawide into the regular shot
+it's good stuff one of my favorite
+things about yearly pixel launches is
+that they almost always introduce some
+new crazy computational photography mode
+that you're just like you weren't even
+thinking of like the astro mode in the
+pixel 4
+is literally just an extension of uh hdr
+the way that the original create
+originally created hdr with stacking and
+and that kind of stuff and like
+realigning that that stuff this year was
+definitely very cool um the funny thing
+is like
+some of the earliest use cases for
+machine learning especially in
+photography has been like object
+identification and knowing what an
+object is because you're just comparing
+hundreds of thousands of objects against
+each other and then coming up with a
+tighter and tighter confidence interval
+and so the thing like the action pan is
+built on top of that right because
+you're saying this is the car this is
+exactly where i'm gonna sketch out the
+car to be everything else is gonna have
+like a blur effect yeah and we'll talk
+about magic eraser in a second but i
+think that is one of the most
+interesting approaches to doing a camera
+there's been a lot of huawei phones i've
+noticed in the past that have like an ai
+camera mode and you turn on i think it's
+on by default actually yeah and it will
+scene detection it will yeah exactly
+scene detection and it'll it'll notice
+like hundreds of different varieties of
+things and adjust the shot according to
+how it thinks you want it
+and that's the common theme i've noticed
+with all these is it's adjusting the
+shot based on how it thinks you want it
+it sees grass on the ground we'll bump
+that grass up to be more green oh you're
+taking a landscape shot we're gonna make
+the sky more blue here oh you're taking
+a shot of your dog we're gonna bump the
+contrast and sharpness here
+versus maybe apple's approach with uh
+photographic styles which is like here's
+a rich contrast one if you want that
+here's a vibrant one if you want that
+here's a warm one here's a cool one
+and i think the pixel is just doing
+the good old-fashioned make everything
+bright and contrasty and hope you like
+that every time yeah and i think it
+would win the blind smartphone test yeah
+for the first time because contrasty is
+like what people generally like yeah but
+i don't know that the enthusiast
+photographer in us actually likes that
+more yeah some of that's interesting
+something that mark lavoy um who is the
+former head of computational photography
+for pixel at google now is that adobe
+told me when i interviewed him a few
+years ago was we're not trying to make a
+camera in the pixel we're trying to make
+a magic imaging box
+you press a button and everything just
+gets done for you that's why
+traditionally the pixel cameras ui has
+been really stripped of any additional
+settings and actually if you want to
+change settings for pixel ui i think
+they've rolled that back a little bit
+but most of the photo camera settings
+have been in the settings menu not in
+the camera app itself sounds kind of
+like a little closer to the apple
+approach before we got the photographic
+stuff before photography styles that's
+the thing is like i feel like they want
+to minimize the interaction because they
+just want you to be able to like take
+out your phone open the camera double
+tap or like tap on the yeah a screen
+um kind of going back to the
+way that they're you said that it's like
+a 7 out of 10 a lot of the time
+sometimes a 10 out of 10.
+um our theory for this
+is that
+google's used the same sensor in like
+almost all its pixels two through five
+exact same sensor pixel one almost
+exactly the same as two yep uh actually
+slightly bigger photo sights which was
+interesting they like went backwards
+um
+but
+they had like we said before the point
+of computational photography is to make
+up for the physical boundaries in a
+device
+and so google kind of figured out like
+okay well
+hdr is something that you can't really
+get with a small sensor naturally
+because you're brightening things a lot
+right you're like bringing up the
+shadows and you're lowering the
+highlights and then also contrast and
+sharpening and generally when you have a
+crappy sensor
+contrast and sharpening kind of allow
+uh an image to look a little bit better
+than it normally would if it was like
+out of a blurry three megapixel
+like
+feature phone yeah but it'll start to
+look a little more processed exactly so
+so they did this for years and everyone
+like was like the pixel camera's amazing
+the pixel camera was amazing every
+single year they got more intense with
+the hdr
+and i think that was the wrong move
+personally like yes you can see more
+detail in the shadows and yes you can
+retain more highlights but the point of
+like
+contour
+and contrast is what gives images depth
+and at some point people start to look
+like zombies because it lifts the
+shadows in their face they look dead
+grass starts to look gray like
+everything sort of starts to look gray
+yeah and now we have this new 50
+megapixel sensor which like you said
+earlier is a 12.5 i heard something
+about it's like it's a physical bin
+instead of a software bin and that's the
+reason that you can't like switch it to
+um
+fifth full 50 megapixels don't
+understand that i don't understand that
+either
+50 megapixel isn't it not a 50 megapixel
+sensor then if you can never ever ever
+get a 50 megapixel image from it my
+guess is that apple bought up all the
+good 12 megapixel large sensors oh wow
+yeah and so then they had to go with
+whatever is available and if it's a sony
+or samsung sony and samsung like to just
+be like let go high resolution our
+smartphone sensors are
+um but now they've got this huge sensor
+and we did all this testing right i was
+like okay if you shoot raw photos out of
+the pixel because you can't right this
+is good yeah there's a rod plus jpeg
+mode you can also use like the lightroom
+camera app and shoot raw
+if you then you can compare what this
+sensor is actually capable of versus
+what google is doing in a pr in the
+processing yeah we shot raw when you
+shoot raw it's really flat it's like log
+uh you bump the vibrance to sort of
+bring color back to people's skin
+um
+yeah yeah i was going to go on a tangent
+between vibrance and saturation which is
+very confusing but i won't do that so uh
+contrast curves yeah yeah so if you bump
+the vibrance back up you kind of see
+like okay overall quality of this image
+sensor what is it
+and you can see the amount of processing
+that google is doing makes these images
+look like a pixel 2 pixel 3 pixel 4 more
+more like a pixel 5 photo because of how
+much processing they're doing to the hdr
+but over sharpened over contrasty
+the way that it's processing into a jpeg
+makes the skin break down makes the eyes
+break down
+pulls all of the highlights out of any
+highlight pulls all the shadows up and
+it also does some like distortion
+correction we took this photo of adam's
+face
+where
+on the raw it looks like his face it
+looks good
+but on the pixel photo it's like almost
+it doesn't look
+wrong but he looks different like he
+looks like a different person it's like
+reality went through a black box and out
+the other side you got this
+really shiny like impressive photo on a
+phone screen but when you start to blow
+it up or start to want to edit it
+yourself
+it's actually not as good as the
+original right i think a sweet spot
+would have been right in the middle and
+i don't know if that's the way they
+think about cameras we're like oh we
+want to appease the enthusiasts and give
+them a little bit of a flatter image no
+they're trying to they're trying to win
+the blind smartphone they're trying to
+enthusiasts don't make money yeah i get
+it i get it i hate i hate that i like
+care about this so much because i know
+that it's probably the opposite opinion
+the thing is though if you really think
+about it
+they kind of nailed it because the
+enthusiast is going to be able to take a
+raw photo and do what they want with it
+and
+get what's needed out of it because they
+all know how to do it whereas
+the point-and-click is going to be
+exactly for the the regular people but
+like if you look what's capable out of
+the sensor it looks so good it looks
+like almost like a medium format camera
+image because of the like the
+proportions of the size of the sensor to
+the lens like it's crazy the problem
+just is is
+the people who are buying it arguably
+aren't going to notice that difference
+or they're going to see like we've
+proved with the smartphone testing like
+yeah sharper brighter is going to be
+perceived as better i totally understand
+that their counter like their probably
+counterpoint is like 95 percent of
+people view all their photos on their
+phone yep and that is true and i totally
+understand i just see the capabilities
+out of this phone because i blew them up
+on the pro display xdr and they look
+amazing i could have taken that on the
+hasselblad like camera and it's like
+it's crazy yeah that's that i think is
+kind of tied into the whole idea of what
+pixel is this year which is they're
+trying to make a phone for everybody
+this year i mean we've seen the
+enthusiast market and it's sort of like
+pixel has always been
+the example of what an android phone
+would be um not i mean you can buy if
+you want some people bought it whoopty
+do google store maybe a couple other
+places but now it's just like oh yeah
+we're gonna run commercials for this for
+months we're gonna share this with as
+many people as possible and this is our
+big shot at like giving people a third
+option after iphone and samsung yeah
+that's a very different approach from
+what pixel has been in the past and
+maybe the camera sort of tilted in that
+direction as a result yeah i still think
+they can update it a little bit in
+software i'm holding out hope we'll see
+i don't think they will but i will also
+hold that we'll see i'm optimistic
+um magic eraser though i want to talk
+about magic racer for a second it's so
+fun so
+this this could be a gimmick and i'm
+overreacting but i loved it i mean yeah
+instagram reels loved it so the world
+must like it too
+yeah instagram it was it was doing
+really great on instagram yeah literally
+you just open up a photo go to tools go
+to magic eraser and it determines with
+ai if there's anything in the background
+you probably don't want it's pretty good
+at that by itself it'll just highlight
+little people behind you if you're
+standing alone in the front of the frame
+and there's somebody behind you over
+your shoulder it'll just highlight it
+right away more objects go object
+detection from machine learning exactly
+it knows these objects and it goes you
+want to remove this and it gives you a
+button and you hit erase and it just
+disappears and it fills in the
+background so
+if you're aware of content aware fill in
+photoshop or even after effects
+it works really well with certain types
+of backgrounds
+and so all the examples we see that work
+really well are typically
+patterned backgrounds simple backgrounds
+high contrast object versus background
+and when you do that on this phone it
+really does look like magic i'm telling
+you you can show like your parents this
+bit like fade in fade out effect that it
+has yeah it just like highlights it and
+just glows and disappears yeah like
+that's crazy yeah that looks like the
+future show out to your parents they'll
+think it's the coolest thing ever i
+guarantee it it's faster than photoshop
+cantadora filters
+so good for them um if you try like a
+crazy huge object with a crazy complex
+background it's going to look insane
+it doesn't always work as well i think
+you guys did one of it picked me out of
+the back of a photo of you guys in my
+desk and it
+it like to agree with you like wrapped
+your upper body out but your legs were
+still there and then it made it it just
+blurred it was just this like stretch
+across it's just like content to where
+phil where the area you take out if it
+doesn't hit it's just kind of a smudge
+yeah it doesn't know what was supposed
+to be behind it it's bringing something
+like a professional grade tool to common
+people and letting
+the basics of it work really well
+letting them see it for the first time
+where
+i'm sure most professional people would
+rather just clone stamp or something
+manually rather than if if the iphone
+had this people would be losing their
+minds yeah this is a really cool gimmick
+like
+when you go to like a famous photo spot
+or something or you go to like a very
+popular tourist destination the
+instagram ability of this for people
+that you know they're like i ran across
+the golden gate not going to bridge the
+brooklyn bridge the other day
+and
+there's people running through and the
+amount of people that are trying to get
+that photo where it looks like they're
+the only one on the bridge but then
+there's everyone running through this is
+the perfect scenario that's what
+everyone's thinking when they see this
+commercial yeah i can finally get that
+photo now yeah i have this phone
+so i thought it was really cool that's
+that speed of it in the video i showed
+that's the tensor advantage yeah i want
+to talk about a thing i was surprised by
+which is the battery life not being that
+great yeah so i haven't published the
+video yet so we'll see and i'm gonna
+watch other people's reviews once i
+publish this but i'm very curious what
+your experience and thoughts were with
+the battery because i thought it would
+be amazing yeah i thought it could have
+been amazing yeah i got like a little
+over three to three and a half hours of
+screen on time you got a little better
+right yeah on the pro i was seeing like
+around four probably because the ltpo
+display
+sure yeah yeah ltpo a little bit bigger
+battery obviously it's a bigger brighter
+screen but i'm i'm i never got over four
+and a half yeah so it's not great
+especially when you compare it to
+what apple did this year with the iphone
+13 series and just like and an hour and
+a half more two and a half hours more
+and now the
+max in particular gets like 10 hours of
+screen on time and that was that was my
+comparison so like i when we hold up an
+iphone 13 pro max it's a big phone sure
+but it's very flat very tightly put
+together
+that phone has a 4 300 milliamp hour
+battery
+not that huge yeah and it's an it's a
+two-day phone it's got like a crazy long
+eight plus hour screen on time battery
+life yeah so now google comes out with a
+phone
+tensor
+yeah five thousand milliamp hour battery
+i'm thinking wow okay yeah it's gonna be
+good
+um and i'm getting
+half of the battery at best that the
+iphone did so that was my that was my
+interest um
+my initial like curiosity was like oh i
+guess it tensor didn't really take too
+many cycles off of the high-powered
+cores yeah it's not the same thing as
+like apple having efficiency cores and
+high power cores really like the the
+tensor cores uh the tpu
+are sort of separate from the low energy
+cores right and your phone's sort of
+doing machine learning all the time
+especially pixel phones because it's
+always listening for the keyword and
+it's always doing these little like
+smart assistant things there's a context
+hub on the chip itself right and that's
+supposed to be a low-ish power hub
+i just think that
+overall this is like the first chip
+design that is built around the tpu it's
+google's first attempt at sort of
+designing their own chip uh manufactured
+by by samsung but that doesn't matter i
+think that's a confusion a lot of people
+had they're like samsung's making the
+chip for google it's like yeah they're
+building it like tsm google's not a
+foundry yeah google's not a foundry but
+they designed it yeah i think this year
+is was just like okay
+can we make our own ship i i listened to
+this interview with rick osterlow and i
+think he said they started the process
+of like conceptualizing it like five
+years ago but they only started like
+actually making it like a couple years
+ago like building the design
+and uh i think this year is just
+making sure that they like can we
+actually do this
+and what is possible if we really push
+like
+these tpu cores to a limit right now i
+think next year second generation
+of most products is where you really
+iron that stuff out yeah and i think
+next year they'll figure out how to make
+tensor work just as well while using a
+lot less power i had a friend at
+nationals ask me hey marquez should i
+get the pixel 7 and at first i was like
+what kind of dumb question is that but
+then you're like wait and they were like
+well i've got a pixel 4 and like i don't
+really think i'm gonna get the pixel six
+so i'm gonna be good for one more year
+so how's the pixel seven going to be
+and then i actually thought about the
+iphone 14 i know like
+i initially was just like i don't know
+anything about that phone but i thought
+about it and i was like you know what
+they
+the second generation of tensor yeah
+it'll be their second shot at this new
+camera system
+and they'll probably refine a lot of
+things about the design and it'll kind
+of feel like a second generation of this
+new pixel right and i thought about i
+was like actually yeah that's probably a
+good place to jump in like pixel seven
+and that's not saying pixel sixes or six
+pro or bad phones by any means i still
+think the six is a great deal and you
+should jump on it if your phone's
+getting kind of old but yeah i agree
+when we'll see the second generation of
+tensor i'm i'm gonna be that much more
+interested in battery this is also
+apparently the first pixel pro pixel
+phone or like higher end pixel phone
+that is built by that htc team that they
+acquired yeah like apparently they did
+they did like the 4a or something right
+but this is the first like pro one and i
+the build quality yeah is not quite
+iphone level um or even like high-end
+oneplus phone level in my opinion like
+there's a lot of weird quirks about the
+build quality that make it feel like
+slightly cheaper than other android
+phones just a little but especially
+pixel six is such a good value
+that like that's something you can write
+off right that's the difference though
+so with pixel six with that price
+i'm totally fine with it yeah with this
+phone they keep saying flagship flagship
+flagship and so my natural instinct when
+they say that word is to compare it to
+the other flagships which are a bit more
+expensive yeah but you do start to see
+yeah you start to see a difference there
+and s21 ultra screen is way better than
+the pixel 6 pro screen it just is it's a
+better screen the iphone has a flat
+screen i think it's also better despite
+being low resolution
+so it's those types of little things
+with the build quality just how tightly
+built it is there's a lot of seams on
+the back so i agree like in the flagship
+you can nitpick a bit more
+but yeah if we can talk a little bit
+more about tensor really quick sure um
+so
+as you pro as you also saw
+the speed of the natural language
+processing on sensor good it's just so
+good it's incredible everything that i
+hoped for can we do a demo right now
+yeah just let me have like andrew talk
+and then i put the this up next
+yeah also i'm in airplane mode and
+that's going to be totally fine for this
+yeah because it's on device yeah all
+right and you can just talk as fast as
+you want talk as fast as i want i do
+know guns and ships from um hamilton
+is that that's pretty quick i don't know
+we get demonetized i don't think so can
+you say it really fast it is it is a
+fast song and i'm already cringing that
+i've offered this out here but um
+whatever you give me one minute to like
+well let me get this out yeah hold on
+okay i will i trust you i'm excited for
+this
+i'm taking this horse by the rains
+making red coats brother blood stains
+and they're never gonna stop until i
+make a drop and put it up and scatter
+the remains
+not okay
+it didn't do that that was too fast it
+was it was a little slurred
+it has to be slurred to be that fast but
+yeah um but it's still though is
+continuing to do this as i'm talking
+right and what's pretty impressive is
+that it's keeping up with everything
+it's almost at the point where i don't
+know what to say the next word because
+it's exactly where i am on the screen
+and i'm kind of losing breath but this
+is a perfect podcast contest i'm it's
+like really out of breath it's a real
+time it's crazy it's really impressive
+although now it is getting a little
+confused because you're talking in the
+background over some of the things and
+that's where the one time where it seems
+to kind of uh go off to remember who it
+was but somebody wrote most of their
+pixel 6 review with
+the voice i was gonna say that's voice
+attacks this has changed the way i think
+i'm going to use this phone which is i
+want to use voice more often as much as
+possible i'm texting with the voice a
+lot more oh yeah they got the little
+little mic in the keyboard i just
+michael was doing that too yeah last
+night he's just like texting like long
+paragraphs at this point exactly and it
+punctuates you well and if you're in the
+middle of something and catch
+something being wrong while the mic is
+still going you can go
+cursor around different parts of it and
+replace words
+it has content awareness so if you
+correct a name spelling one time it'll
+remember that later if you are texting
+somebody about somebody it will remember
+the name and the spelling of the person
+your contacts that you're talking to
+them about it's it's really really does
+it say mkbhd or does it say i'm kim phd
+fantastic question i've never tried it
+and i might as well just try it right
+now ready yeah
+let's do this live i'm gonna screen
+record what is up guys this is this is
+the
+the real truth yeah all right here we go
+hey what is up guys mkbhd here welcome
+back to another video and it did
+actually get it right wow incredibly now
+they just need to like run the youtube
+thing on their tpus yeah and then we'll
+be good
+that is not what i expected usually it
+gives you some sort of a weird phd was
+one i forget what some of the other ones
+were because i banned them from our
+subreddit because they got so annoying
+but um that's good yeah so the other
+thing with the natural language
+processing is like you can
+live
+translate with live captions so live
+caption is something that they
+introduced last year i believe
+where you basically on device without
+internet you can caption any content
+that is on your phone so if you take a
+video of your kids recital or something
+you're watching it back it will just put
+the captions live as you're watching the
+video which is incredible and now if uh
+if you're watching any video in a
+different language
+it will show you captions in your
+language live translation without
+internet
+unbelievable unbelievable this is the
+type of stuff that doesn't appear on any
+benchmark like no matter how good your
+chip is this is the type of stuff you
+can't really measure until you just use
+it and you're like oh this is incredible
+yeah so that's why i said in the video
+the delta between the benchmarks and the
+usages is massive here my theory is
+we've really sort of hit this limit with
+cpu and gpu performance more cpu i guess
+but where you can't really tell the
+difference between this year's flagship
+smartphone and last year's flagship
+smartphone so what should we be trying
+to make better year-over-year it's the
+ml stuff it's the stuff that is actually
+going to be helpful to us on a
+day-to-day basis
+like all of this stuff that feels like
+magic like our tech is starting to feel
+like magic let's just accelerate the
+magic right yeah fully in fully in on
+that yeah all right so we got to talk
+about whether we're going to upgrade to
+these phones then somebody asked me did
+you ask me earlier oh no yeah you said
+are you going to main this phone yeah
+um
+yeah
+yeah i'm going to mean this yeah i mean
+this this is to me it comes down to
+android 12. i really like a lot of the
+features and to me it was between this
+and the s21 ultra which i've made more
+than any other phone this year fun fact
+for the podcast yeah uh i really like
+the oneplus 9 pro the screen is so much
+better on the samsung that i went to it
+it's still better than the pixel but i
+like android 12 that much yeah google
+assistant call screening live
+transcription all these little things
+the camera is good enough i'm i'm
+probably just sticking with pixel yeah i
+i tweeted a couple days ago and this is
+a very classic tweet but like this is
+the hardest year for me on whether or
+not to be on the latest pixel or on an
+iphone
+and previously i didn't really care that
+much but then i started this job and
+then we started using a lot of apple
+products and then i got locked into the
+ecosystem and now it's like i feel the
+chains yeah um but android 12 for me is
+a huge reason like tensor is amazing all
+that all the smart natural language
+processing stuff is great but android 12
+just feels so like fun and friendly and
+it feels like such a huge refresh when
+it comes to like specifically material u
+when it comes to like the experience of
+your pixel because you say like change
+your wallpaper change your life right
+now change your wallpaper change your
+life and change your system theme change
+your accent colors exactly exactly not
+the accent button though still yeah i'm
+sad about that yeah change your
+wallpaper change your accent button that
+would be crazy that would be crazy put a
+little led in there andrew patton
+pending there yeah we did questions
+you're the one that owns a pixel 4 right
+now yeah you can upgrade okay so like
+this
+hearing everything i haven't tried it
+yet but like
+everything you guys say is so
+exciting and the battery life just makes
+me so sad so here's a question how good
+is the battery life on your pixel four
+because that that phone did not have
+great battery life i mean yeah but i
+hope that two years later is better than
+the phone i'm using that's two years old
+um the thing is is like ultimately i
+think i still probably will because i
+just know my day-to-day usage revolves
+around having chargers in pretty
+opportune spots like i have a long
+commute i have a wireless charger on my
+desk i have a wireless charger on my
+desk at home i have one by my bed so
+like i highly doubt it will happen and
+if i'm
+going on a long hike going on a long
+trip i have a battery bank i can keep
+with me it's not that big of a deal
+it just feels like it hurts really bad
+like it feels like it's they added all
+these amazing things that like you said
+are magical like this phone feels
+magical in so many senses
+and then the battery just seems like
+such an obvious thing that should be
+better and when you see those numbers
+feels like it should be better and yeah
+i think it's just kind of sad i think
+tensor is just power hungry if this is
+get the pixel 7
+yeah yeah i'm just gonna daily if this
+phone had the iphone's battery life i
+would i would no recommend this phone so
+fast so many people absolutely it's
+battery's important and i think that's
+the issue is like when you compare it to
+an iphone like
+i i know people who are pixel users and
+didn't really like some of the newer
+ones so they went to iphone and this was
+one where they're thinking of coming
+back and i was just like i don't
+i don't know if it's the one that's
+coming it's funny with this the script
+is flipped the iphone always used to be
+like i love ios but the battery sucks
+and now it's literally the opposite
+crazy i think i have some nerdy friends
+too who like uh
+you know on that branch of nerdy not
+quite us nerdy but like um like liked
+android stuff and then but once you go
+to iphone it's it's hard times it's
+really hard to come back so hard to get
+out i'm saying that as someone who's
+never done it and i understand how
+difficult i regret it it's factual i
+regret it i think i will probably get a
+regular six though yeah um i think this
+is an insane deal i might wait till it
+even goes on sale it probably will
+because it's google that's which is
+what's also really fun about it friday
+baby it's coming up yeah
+so we'll see i might
+we'll see shipping dates are pretty when
+are you getting yours adam you ordered
+one already yeah i ordered mine and it's
+supposed to be coming here this friday i
+believe oh i thought it was like not too
+late in november pretty good yeah it's
+october 29th or 30th is the estimated
+delivery date it's pretty good okay what
+color did you get stormy black six pro
+or six six yeah strawberry blackberries
+i think i might get green
+see i want to see it in person i haven't
+seen the green one i might do it michael
+has it we were comparing colors at home
+yeah it's two different greens right top
+yeah yeah yeah it's more darker green on
+the top and more of like a uh acid green
+it's like a matte black but it's nothing
+like
+that iphone green right like it's iphone
+great there's like an army group yeah
+they're all like olive army like which i
+really do like i love that color yeah
+yeah that's like a classy color but
+google is going google and doing the
+thing i'll put a case on it either way
+so i guess mean it can't really matter
+very well it doesn't matter then
+and if you want mag safe that's fair
+yeah i have a great segue um because we
+were just talking about it's actually
+too good of a segue to really go
+smoothly i was gonna say every great
+segue starts with saying that it's a
+great yeah it's too good of a segue but
+i'll explain it so that it's way worse
+okay so we were just talking about
+android versus iphone and how hard it is
+to get into one or the other and get
+across that bridge um i've had a couple
+bluetooth issues with the tesla app on
+android haven't had that issue i think
+at all since i got the iphone 13 where
+the phone is your key and it's bluetooth
+and it's just proximity to your car
+uh so we can talk about tesla now what a
+great segway
+hey beautiful nail that all right
+tesla trillion dollar market cap that's
+all i wanted to say good god that's cool
+yeah good god actually the reason they
+hit a trillion dollar market cap is
+because of the news that what was it
+hertz
+bought a 100
+thousands yeah which i had so big
+account i
+i've i mean it's not a hundred thousand
+tesla's or a hundred thousand dollars
+the money to buy a hundred thousand
+tesla lamborghini account
+that's a lot no that's it's a big
+investment for for hertz because they
+clearly want to offer electric cars and
+so now they've bought a hundred thousand
+of them and that's the electric car that
+they've chosen to invest in to offer to
+people so it says a lot about hertz it
+says a lot about tesla it says a lot
+about electric cars yeah um tesla's
+market cap skyrockets great
+i just think like
+everywhere i go i i kind of want when i
+whenever i rent a car i try not to
+whenever i do rent a car i want to get
+something like similar to what i'm used
+to
+um the fact that people are interested
+to be out there renting model threes
+just casually is pretty cool pretty good
+i would they're careful on saying casual
+though because it's not their base it's
+like their premium luxury rentals so
+it's not just like your everyday rental
+that most people most people renting
+cars i would say usually go the cheapest
+possible route for being able to get
+around so it's like compact budget cars
+this won't be those definitely
+understandably um but the fact that
+they've gotten there will be more out
+there i think the chance that people
+will be able to drive them more like be
+able to test and actually drive one for
+a few days which is like way more than
+just a test drive i'd use turo to drive
+a model three like four years ago yeah
+that's actually a really interesting
+point i just have to work for a tech
+channel and i got the intro people will
+be uh trying to rent these just to test
+drive them i think that will actually be
+the case um i think people will rent
+them to try them see how they what they
+like about it that's the kiss of death i
+test drove a tesla for eight minutes and
+was hooked so if you rent it for a
+couple days you're gonna really want
+that car
+when i test drove my first uh tesla i'd
+not driven in five years and i had to
+drive around new york city and i
+thought i was going to die as stressful
+yeah actually the first time i ever
+drove a tesla was a model s p 85 plus
+in white i made a video about it when i
+was in college it was in new york
+and they drove it over to me and i got
+to like drive around new york city for a
+couple minutes i was very interested
+really liked it
+um i was i think i was kind of hooked
+because i was driving a different car
+and then as i got back i like got out
+the car like all right cool that was fun
+we shot the rest of our video and
+they're like you done with it and
+they're like yeah and then the guy got
+in the car and just
+punched it and i saw the cars go in new
+york oh
+that's cool like no other car does what
+that guy just did real quick into the
+parking garage there
+and i think that was that was when i was
+hooked the cool thing about this hurst
+thing though is that means there's
+probably going to be more chargers right
+there are going to be more chargers
+they've um
+it says hertz plans to set up level 2
+and dc fast charging stations in 65
+cities by the end of 2022 um and more
+than a hundred
+more by the end of 2023 so like lesbian
+hurts like that i don't know i'm hoping
+not um it also kind of i mean any more
+infrastructure is good infrastructure
+depending on how many they put though
+you only need to charge the car until
+full and then charge rate before someone
+rents one
+i'm sure it'll depend on how they're
+being used how often they're being used
+how many
+they have versus how many cars they have
+that are rented out because like if a
+car is rendered for a week they
+obviously are not going to have a
+charger empty for a week yeah this is
+interesting they'll have priority though
+there's a bunch of questions that
+actually just came to my mind about
+renting an electric car is one
+um i hope you have one because one i
+thought was kind of interesting oh well
+i was just gonna say when you
+have a car sitting in a parking lot for
+a couple days with no one renting it it
+just sits with the gas and the gas tank
+yeah with electric cars there is a
+little bit of phantom drain over time
+yeah right and i'm curious if they're
+just going to leave those cars plugged
+in that whole time or will they have to
+have somebody go around constantly
+maintaining all the electric cars making
+sure they don't drain i would think i
+would assume
+keep it to a certain point
+which is which this is that point would
+be like if we get this car rented for
+tomorrow we can have it
+topped off or if we even if we get this
+car rented in the next couple of hours
+if it's available
+other than that you just check your
+schedule and know when a car is going to
+be rented and can top it off before that
+um what i thought was kind of
+interesting and just different for
+rental is like what is the one thing you
+dread when you return a rental car the
+cost for gas exactly yeah so they say
+right now um
+they don't have a set standard for what
+you'll have to do you can return it
+essentially not at full okay uh they can
+just charge it there yeah they can just
+charge it there so in the gas station
+ultimately i hope they keep it like that
+you always wonder these places are
+trying to make money the whole gas
+station figure out how to make as much
+money as possible i'll figure out a way
+to charge you if you can't then you kind
+of have to add a little time now to you
+returning cars if you're trying to catch
+a plane if you need to charge it if you
+need to return at 100. i'm really hoping
+that's not the case it seems like a
+total money grab if it was and it would
+just i will tell you the first time that
+i rented a model 3 on turo the guy that
+i rented it from said you have to return
+the car at a 100 percent charge and i
+was like one that's not possible because
+when i charge it and then drive it back
+yeah
+yeah and then and then the other thing
+was that there were no tesla
+superchargers in that vicinity so
+that was the first time i'd ever driven
+an electric car yeah so i had like an
+hour to get it to him i pull in and it's
+like this is going to take three and a
+half hours to charge so i ended up
+returning it two hours late he charged
+me like a fifty dollar convenience speed
+it was just that is a
+sneaky guy yeah yeah well i hope hertz
+isn't run by this sneaky guy
+i mean these companies tend to do this
+to make money but i'm i'm seeing level
+two so level two is like what you might
+have with like a dryer plug or something
+like that you can charge like 25 30
+miles an hour that's just how i measure
+like how many miles you add to the
+battery we're like level one plugging
+into like a trickle charger
+three miles an hour tops yeah so level
+two is somewhere in the middle level
+three would be like your superchargers
+on the side of the road
+those are great so when i see
+they're setting up a bunch of level two
+fast chargers i think that means they
+will be for all of their electric cars
+yeah to at least be able to use but
+mostly a bunch of new teslas so that
+would also give me the impression that
+they are wanting to leave them plugged
+in because if your voltage is uh your
+voltage like your pipe is wider but
+you're not pushing as much electricity
+through it that's better for your
+battery got it yeah that's the type of
+charger we have at the studio just level
+two fast charging yeah
+one other thing is as of right now up
+until february i guess this is rolling
+out like as we speak um up until
+february you'll get free super charging
+through the hertz rental but they're not
+sure how they're doing it after that
+quite yet so
+that one that's interesting that is an
+awesome
+like reason to get a premium you know
+rental you're spending a little more but
+if you can get free supercharging that's
+awesome
+um after that then i wonder
+how does it work because like when
+you're
+someone who doesn't own a tesla when
+you're using superchargers do both do
+both of you have free supercharging
+right now or do you pay i don't have i
+have supercharging credit okay so why
+does this unlock so when you do it is it
+just it knows your car when you go up or
+so i guess
+i guess the easiest way would do is
+hertz would just send you the bill
+afterwards on charging because it's
+hooked to there oh no the car knows it
+has credit the car itself knows it has
+credited yeah but i'm saying when you
+are gonna go rent one of these cars now
+and you have to pay for charging past if
+they don't
+there's no way they continue to keep
+free super charging no that's fine so
+the car will know it has tesla
+supercharging credit but if you plug
+into a non-tesla supercharger you will
+have to pay when you're there
+how is the rental person going to pay a
+tesla supercharger when it's not their
+car
+is what i'm saying so i'm thinking the
+easiest way would just be
+it is hooked up to hertz they know how
+much they're getting charged for that
+car build it's probably hooked up to
+hurts and i think it does yeah through
+february
+yeah that's
+about to expire i mean that's what the
+the response that i believe i was
+looking at like an axios
+or axios or car and driver that was the
+response they got from hertz wow is that
+up until february 2022
+you'll have one day of doing it i don't
+even know if elon can make a hundred
+thousand more model threes before then
+the trunks will be falling off hey this
+isn't the monkey
+[Laughter]
+well yeah that's that's pretty much all
+we had i mean we also had like a tesla
+rolling out and rolling back 10.3 yeah i
+don't have a whole i haven't i still
+don't have the beta
+um
+that's pretty much it yeah
+that's kind of all i had to say yeah um
+yeah this continues the trend of having
+at least one tesla reference probably on
+every waveform episode but lots of tech
+happening it's still tucked over like
+the reviews of all these things yeah
+coming out pixel's out but definitely
+stay tuned for the macbook pro review
+stay tuned for the airpods 3 review stay
+tuned for maybe another phone coming up
+maybe another random thing that's not
+phones or headphones there's other stuff
+in the pipeline too so this is also the
+last uh episode before halloween so have
+a spooky
+halloween my friend make sure you have a
+good tech related tech related
+jack-o'-lanterns send me pictures oh
+yeah tech related costumes if you uh
+dress up as the waveform podcast we will
+retweet you don't know how to do it
+that's up to you and you've got about
+two days by the time this episode comes
+out so we will definitely retweet you if
+you do that good luck yeah
+thanks for watching catch you guys in
+the next one
+you wanna mac do you want to read us out
+no
+okay you can help them a thousand yards
+waveform is produced by adam molino we
+are partnered with vox media and our
+intro outro music was created by vayne
+sill
+[Music]
+you

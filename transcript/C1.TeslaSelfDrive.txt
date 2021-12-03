@@ -1,0 +1,869 @@
+all right welcome back to another episode of the waveform podcast we're your hosts i'm marquez and i'm andrew and in today's episode we're going to bring on a special guest we have quinn from snazzy labs he's going to be joining me to talk about tesla's full self-driving beta the rollout how it's going this new thing with the safety score in the app and how they're deciding who gets it first despite who's already paid for it we'll be getting on that in a little bit but first andrew you wanted to rant about something for a little bit i did yeah yeah um so like obviously really excited for quinn to come on i think this whole full self-driving rollout's kind of interesting like actually really interesting there's a lot going way more than just full self-driving but anyways we can't not talk about amazon astro uh yes um the robot yeah he is so amazon had an event and they released a couple different things if you missed it you didn't miss very much but one thing they did release is called astro and we have to talk about it mostly because like if you search for azure right now the top headline is a verge article called amazon astro is terrible and will throw itself downstairs developers reportedly claim i can't believe this it's so that's one of the brutal i think that's my favorite headline of 2021 so far yeah for sure so we can't not talk about this okay so we've done a video on uh robots in the homes before i did a video all about the tesla bot which is a totally different like ballpark of what it actually is trying to be but the idea is it's an assistant robot that helps you around in your house so amazon is making one it's called astro it's about two feet all it looks kind of like a screen on wheels basically yeah it's got eyes on the screen it's got a little periscope camera that can telescope up out of the top to look around um so basically it basically acts like a a an ipad on wheels if you will yeah the main thing here is it has wheels and also if if you're an audio listener and you're taking that description marquez and thinking said and and you're
+thinking like hmm this doesn't sound like it makes a lot of sense you're probably right you're you're pictionary exactly what it is it's very basic i mean this reminds
+me of basically it reminds me of every
+robot that you see at ces which is like
+a little
+like
+rectangle on wheels basically that rolls
+around has maybe like a single purpose
+and there's a couple things
+that's basically like you said it has
+two main wheels on the front it looks
+like it has like a little rotating wheel
+on the back so it can you know it's
+mostly driving it can pivot yeah and
+then it has like yeah the screen coming
+off the top of it that can kind of flex
+up and down and turn left and right a
+little bit and it looks like the screen
+mostly just shows eyes which to make it
+look like a
+like little creature almost right to
+sort of anthropomorphize it a little bit
+uh it's going to come out this year this
+is the important part that everyone
+uh likes to talk about the most is it's
+going to be about a thousand dollars for
+this early
+data launch early launch price for it
+and then it'll be about 1400 1500 bucks
+yeah after that so it's real it's coming
+out you'll be able to buy one yes what
+does it do
+a couple things really yeah i think
+there's a lot of questions like why
+would you ever want this i think the
+easiest way to go about this is i wrote
+down a bunch of ways amazon claimed to
+use it and then let's just go through it
+one by one and think of yeah either
+would ever use it that way yeah there's
+a demo video on amazon's youtube channel
+i highly suggest watching it it's like
+two minutes long it's really funny it's
+it's almost like a futuristic like
+cringy uh
+interpretation of what the future may
+look like if we never got
+if we were imagining the future 20 years
+ago i feel like exactly maybe it would
+feel futuristic but um worth watching
+for sure yeah um so let's see let's go
+through some of the things that amazon
+claims will do so number one we have
+monitor and kind of home security so it
+would link up with your like ring
+protection uh subscription and can you
+know kind of patrol around your house
+use its cameras if it notices anything
+different it can send you alerts if it
+notices people that it doesn't recognize
+it can send you alerts but basically
+just
+instead of having a bunch of different
+security cams now you have one thing
+rolling around all night right so the
+key distinction here is it's on wheels
+it is technically mobile and can move
+around yes but obviously it can't go up
+and down stairs or even i think there is
+a line on their site about like if you
+have a floor interruption of over three
+centimeters it will not go over it so it
+needs to be
+in that one area of your house
+but this is i think the actual area
+where i could see it being the most
+useful is instead of having three
+security cameras in three different
+rooms at three different doors you have
+one and it can respond to sounds if it
+hears something around the house it can
+drive over to it
+i'm i guess kind of the thing is is i
+could buy three security cameras for
+a fraction of the cost of this thing
+which is like where i kind of see the
+issue with that and
+the three centimeter floor separator
+like separating floors is super common i
+i mean i live in a ranch and we have one
+room that has two stairs that you have
+to go down into it which goes to our
+main door uh we have multiple floor
+separators there's carpet there's
+hardwood there's tile
+i don't know how well it would go on all
+those and that's in a ranch a lot of
+people live in two-story houses where
+there's
+now half of the houses yeah i guess you
+put it on the ground floor where someone
+could get in yeah that would make the
+most sense but okay it does more than
+just security cameras though so what is
+the next they also say for keeping tabs
+on elderly people or
+elderly or young family members um
+technically true yeah kind of i mean
+if you wanted to pay attention to your
+kids i don't know maybe i could kind of
+see this here where
+your kids are getting to that age where
+maybe you're not sure if you want to
+leave them home alone and now you have
+something you can keep an eye on them
+or elderly again an elderly family
+member maybe they fall down and it
+notices that but again a security camera
+in every room would still probably be
+cheaper and just as efficient here the
+other thing is
+this is a it's a camera it's an alexa
+it's a it's microphones
+you can just get an alexa with a screen
+and put it in a room
+so the difference here being it's on
+wheels and can do some unique things
+like walk from room to room and pop up a
+periscope camera follow people around
+that's one of the things in the video
+hey
+a word follow me and it follows you to
+the next room that's like kind of a neat
+bonus but something that most of the
+time you're probably not going to use so
+here's the thing all the i have two
+things here about that involve following
+one i kid you not it actually says this
+it can follow you around to play
+podcasts or music okay
+do you would could you ever see yourself
+saying like hey astro i'm listening to
+this podcast please follow me around the
+house why i do different things or would
+you put on a pair of headphones i would
+either use a speaker and turn it off
+just turn it in the middle of the room
+or yeah i would use my headphones okay
+um and then the other one it makes a
+little more sense but video chat it can
+follow you around and actually they said
+kind of like facebook portal or kind of
+like center stage i think yes now is it
+following you with the periscope camera
+or are you talking to people
+that's what i was imagining is because
+like you're uh oh yeah it's a good idea
+it's gonna be this nice little camera
+that follows me around literally in
+retro check we had a camera that does
+this where it was a robot on wheels and
+you would say i think it was g but
+whatever it was it said follow me and
+i'd walk around and it had this sickest
+video of the back of my knees yeah as i
+walked around it would just keep up with
+the back of my knees my heels would
+always be in the middle of the frame and
+uh it wasn't the most useful video so i
+imagine this would point up probably pop
+out the camera to eye level hopefully if
+like you really want to feel powerful
+over the people you're video chatting
+with looking down have them feel like an
+ant all the time yeah then i could kind
+of see this but
+again i just i don't see the purpose of
+that just
+use your phone use facetime stand still
+when you're video chatting with someone
+yeah i'm not totally sure about that um
+so it also has a little tray in the back
+of it that can be you can put a
+cup holder in it yeah so it can deliver
+a water bottle or something to someone
+in another room yeah some small items
+some keys
+so you're in one so think so you're in
+one room yep someone goes hey pass me a
+water bottle and you go i know what i'll
+do you call over the robot you put it in
+the robot and you send it over to the
+next room yeah not up not but down some
+stairs not up some stairs or floor
+dividers no floor dividers but around
+the corner into the next room it can
+bring them that water bottle for you
+hey if you've got that thousand dollars
+that's that's pretty good i i can
+honestly say that i don't think the
+security cameras or my headphones or
+anything can do that so
+kudos i guess credit where credit is due
+but
+if you're talking about this in like
+i don't i was saying when we first saw
+this we saw that video of it delivering
+the water bottle and we were all just
+laughing it seems so ridiculous because
+you still have to have someone get the
+water bottle right put it in the cup
+holder and then it did that terrible
+thing where like it drove up to the
+person on the couch looked at him
+and then like spun itself around super
+there was like a solid felt like two
+minutes between it being like within
+three feet of the person and to actually
+delivering the water bottle because
+that's a look and then back up yeah yeah
+it does a whole maneuver to deliver the
+water to you feels so unnecessary i just
+now i thought what if your refrigerator
+had a little docking station
+and then it could vending machine uh
+beverages into it straight in so then at
+least i'm home alone i'm on the couch
+not separated by stairs or floor
+dividers and i want a soda or a beer or
+a water
+now that at least it will get it for me
+yeah you can say astro bring me a water
+and it will leave the room and come back
+with the water with no other human
+intervention that would be kind of neat
+that would be kind of neat
+this is all just in the world of like
+general purpose robots where we've
+talked about
+well do you want a general purpose robot
+that does a bunch of different things or
+do you want specific robots to do one
+thing well at a time and we keep
+mentioning like okay i could just use
+headphones or okay i could just use
+security cameras so in theory this one
+astro robot is replacing security
+cameras headphones
+a person to bring you water
+a couple other small tasks like that um
+as long as you want a super subpar
+performance in all of those aspects
+right it doesn't do any one of those
+things amazingly well so that's that's
+kind of astro i've never i have a roomba
+by the way it's never thrown itself
+downstairs
+so i i will bring up this is from a vice
+article of a couple of the developers
+who said a few things i can go over um
+yeah amazon did respond to this saying
+it may it's probably outdated
+information so i just want to have that
+disclaimer here but i can't not talk
+about it of literal developer saying
+that if quote-unquote presented the
+opportunity it will throw itself
+downstairs
+that's probably the biggest selling
+point i've seen so far because i just
+want to watch
+the pure decision of tossing itself down
+the stairs yeah um but
+there there was a this vice article had
+a bunch of different things from people
+who worked on this that said it's
+extremely fragile it has thrown itself
+downstairs it's just like
+they don't really see the point of it it
+seems to be so
+yeah the question i asked on
+twitter is okay real question what is
+the ideal
+home robot if such a thing even exists
+what what is it i don't know do you want
+do you even want a robot in your home
+totally fair question
+curious what your thoughts are i i made
+this i had this tweet just having a
+picture of the tesla bot next to this
+and everyone goes well one of them is a
+human in a suit and doesn't exist and
+the other one is real
+and i'm like okay yeah no that's a
+really good point the tesla bot is years
+and years away super ambitious
+the other is it has a price tag it's
+going to come out this year
+which would you rather have or would you
+rather have something somewhere in
+between and i think the right answer to
+like a decent
+home
+general purpose robot is probably
+somewhere in between and probably
+doesn't come out right now it's probably
+not very good yet
+but
+i i don't know that it has to get all
+the way to the point where it walks on
+two legs and has hands with fingers it's
+probably somewhere here's my thing i
+think the wheels are the biggest
+limiting factor on this if somehow this
+could be
+exact i mean like listen
+in a perfect situation like an apartment
+that has perfectly smooth floors over
+everywhere then this might make a little
+more sense like it does do i i think the
+patrolling option is neat i think being
+able to control the patrolling option is
+cool too so you can go see a couple
+things if you're away from your house
+but the fact that it has wheels just is
+so limiting if this had four legs
+similar to a mini spot and had
+everything it did
+i think it would be much much much more
+reasonable it would probably cost way
+more money but it would do what it's
+supposed to do and be able to climb
+stairs or not trip over things um
+yeah but
+one other thing here that i want to add
+that one of the developers also said is
+it
+is pretty poor at detecting faces and
+recognizing people um which one of the
+things it's supposed to do is if it
+recognizes somebody in the house that it
+doesn't know it's supposed to follow it
+in its patrolling right aspect except if
+it's not very good at figuring that out
+then it just starts following people it
+doesn't know which could be you and your
+home and now you just have this thing
+like nipping at your heels all the time
+following you around the house
+it um
+yeah i think like
+in general to me
+this just feels like
+it's amazon camera in your house
+tracking you looking at your face all
+the time being able to have a camera
+anywhere in your house unless there's
+stairs or a floor divider and yeah i
+think the the thing that comes back to
+it is like we've watched over the years
+all these companies try and attempt
+various ways to get their machine
+learning into your home
+so we have google and we have google
+assistant and now we have them
+practically giving away like home minis
+and it's google's using your phone and
+there's all these different ways for
+them to get it with ambient computing
+into your home yeah uh amazon's got
+alexa they maybe want a camera in your
+home now and people aren't going to buy
+the camera on the alexa but maybe
+they'll buy astro and they'll start
+getting all this information yeah and
+this is just another like facebook made
+that portal thing which is like okay if
+you want a facebook camera in your home
+there's that option yep but like this is
+another way for amazon to get microphone
+and cameras in your home and literally
+following you around so if that's
+something you'd be into you might get
+some convenience back out of it which is
+the goal but that's kind of the way i
+see it at this point in time yeah and
+amazon i believe they've had some
+controversy with their ring stuff and
+taking data and everything like that so
+just be super careful with this i think
+my biggest thing is you've mentioned
+like
+obviously everyone wants to put
+something in our home that can hear us
+and sell us stuff yeah uh
+you know
+generally you save on that though like
+they understand that's what it is so a
+google home mini or an echo dot or stuff
+like that are super cheap and you're
+getting it i'm paying if i missed the
+launch on this i'm paying 1500
+for something that
+can't really do much and it's just
+tracking me with a camera
+potentially anywhere in my house yeah
+follows you around yeah don't we'll see
+i want i i would still like to try and
+see like how well it works in person i
+don't know if i'll bring it home but
+i'll have it in the studio and just see
+what it does but like how much of your
+house could it cover um well one floor
+it wouldn't go up or down any stairs
+because you have a basement also that
+you're in pretty often and yeah it has
+an entryway there as well right in the
+garage but it would never it would just
+have to roam around the ground floor
+basically so we are now going to if you
+have this you're gonna have keep all
+your valuables on the first floor
+or
+yeah
+yeah basically yeah well
+that's three of them that's all we know
+about it so far uh yeah you can get
+three of them you can get one on every
+floor every floor as long as it doesn't
+toss itself down yeah and then they'll
+all be on one floor together
+uh that's that's
+astro honestly when i heard the name
+astro i pictured you know the uh the
+demo game for the ps5 astros world for
+sure i pictured that astro robot which
+is also like a little humanoid robot
+with like eyes on a screen and
+everything and i was like oh that would
+be cool this one's more like wall-e a
+little bit yeah a little more like i i
+and i may have accidentally said ash
+dress somewhere here but there's a
+character invalid named astra oh it's
+way cooler than the stupid robot though
+yeah but yeah uh
+pretty off topic pretty quickly but if
+you don't think we gave this a fair shot
+um
+sorry but i don't have a lot of optimism
+for this one to be we'll get one in the
+studio we'll see you eventually
+we'll make some sort of video i could
+definitely see at least a studio video
+coming out of this so uh let's take a
+quick break when we come back we'll talk
+with quinn and talk about full
+self-driving this whole dashboard of how
+tesla's watching us now and seeing
+evaluating how we drive we'll come back
+in a minute and talk about that
+this episode of waveform is brought to
+you by one dream so endless hours of
+scrolling on our phones and laptops can
+stop us from being the best version of
+ourselves it's kind of like you have a
+do not disturb sign on your forehead but
+now it's time to turn off airplane mode
+and start watching one dream one dream
+offers endless opportunities to learn
+something new with thousands of hours of
+video and audio content so with
+fascinating documentaries and helpful
+how-to's this video streaming service
+provides answers to your everyday
+questions so as listeners of this
+podcast you've probably questioned
+things from programming mechanics to the
+illusions of time so with one dream you
+can scavenge across their collection of
+videos covering robotics to f1 racing
+science and everyday engineering with
+engaged experts no one else makes
+learning about everything as unique as
+one dream so you can start watching one
+dream out of the comfort of your own
+home with roku fire stick or apple tv
+devices that's a pretty good place to
+learn about the wonders of the world so
+right now listeners of the podcast can
+get a free month of unlimited access on
+a trial so just go to onedream.com
+waveform that's w-o-n-d-r-i-u-m
+dot com
+slash waveform and start learning today
+all right quinn of snazzy labs thank you
+for joining me on the waveform podcast
+i'm glad to be here thanks for the
+invite
+perfect we uh we're talking electric car
+stuff a little bit on this podcast a lot
+a lot on this podcast yeah and uh i was
+just watching your rivian r1t experience
+video you're another fellow creator and
+self-proclaimed car enthusiast and you
+probably have more car experience than i
+do oh i don't know about that but well
+i've done i've done a lot of new cars
+but i've only been into cars for like
+the last four to five years where okay
+people who have been into cars for way
+longer have a much bigger breadth of
+knowledge but how was how was the r1t
+you did a video about it it was amazing
+i i came away super impressed i mean
+obviously there's a long road ahead for
+this company i mean they're just
+starting production and and you know
+making a good car is just start as tesla
+has demonstrated
+but uh the car is really good i mean the
+fit and finish and the the quality
+materials is is shockingly good it kind
+of puts tesla to shame then again it is
+in a different price bracket i mean
+these cars fully loaded or 90 000 so
+they're not not cheap at all yeah yeah
+yeah i get i get excited sometimes by
+the prototypes that they build and show
+to us but then you have to remember
+that's
+now you have to mass produce it and you
+have to actually sell it and i'm really
+hoping deliveries are soon because it
+seems like they're finally about to turn
+the camera yeah i think they're i think
+they're pumping them out so that's good
+they're hoping to get through the
+pre-order queue i think they said by the
+end of next year which seems optimistic
+but that would be awesome if they could
+that would be sick and then we'd have
+trucks electric trucks on the road
+uh and you got an order in what color
+did you go with yeah i went with the
+blue that's not really the color i would
+have chosen but a little birdie told me
+that that's the color they're making the
+most of and so if i wanted one to maybe
+order that color
+but the in person the yellow one i'm not
+a yellow car guy but oh man it is
+beautiful
+interesting okay i'm gonna keep an eye
+on that i don't have an order in yet but
+i might have to
+um
+all right well we we want to talk a
+little bit about what tesla's been doing
+lately
+um which is with their full self driving
+now
+full self driving in air quotes because
+this has been a constant theme of like
+all right coming soon more people will
+have access to this beta of a feature
+that maybe almost works
+uh and you've been you've spoken at
+length about this on twitter which i
+love
+um
+probably since like 2015 i've been
+paying or at least in the cars that i
+bought paying for full soft driving i
+paid extra for this and it's finally
+arrived at this very interesting stage
+which is
+it is in beta
+but it is you have to request access to
+the queue
+that can start using the beta yeah and
+once you request access
+uh you update the app you update the
+software on your car
+and then it begins tracking how you
+drive
+and assessing a safety score
+and those with the highest safety score
+will be the first in line
+to start using the future that they paid
+for already
+yeah
+so there's a lot to break down yeah
+first of all
+you know the the history of like having
+paid for self-driving a long time ago
+and still not having access to it how
+does that how does that feel have you
+paid for self-driving before and i have
+a person interested in it yeah i mean
+tesla's kind of changed the way that
+they've done this
+multiple times now at least in the u.s
+this is still different in europe but
+now there's only one option so it's
+either everything or nothing and that
+all falls under the full self-driving
+umbrella which costs 10 000
+or 200 bucks a month which is a lot of
+money
+and then when i bought my car and
+presumably
+when you bought your cars there were two
+different packages one was called
+enhanced autopilot and one was called
+full self-driving and enhanced autopilot
+that basically has all of the features
+that tesla's can do today so the
+automatic lane changes um the the
+hopping on and off the highway and then
+the full self-driving package didn't
+really get any features until a couple
+years ago when smart summon came out
+where it could drive around the parking
+lot and then more recently it will now
+stop at
+traffic lights but other than that
+full self-driving doesn't really do
+anything yet for the average person and
+there's a lot of people that have been
+agitated as you mentioned
+because since 2015 they've been selling
+this as a software feature and they've
+kind of been promising i mean if you get
+into the fine print they're probably not
+liable but make no mistake i mean
+they've been saying for years that this
+is pretty much done
+and it's not
+and so there's a lot of people that are
+really frustrated because they've been
+waiting years for something that hasn't
+come some people like you
+have sold cars and purchased new ones
+without ever getting value out of the
+full self-driving package and then the
+worst part of all and this is the part
+that makes me mad for other people is
+there's people that leased teslas that
+paid money for full self driving on
+their lease returned their car and never
+realized value for any of that because
+it just never happened and actually you
+leased your first model s right
+right yeah and i did pay for it and i
+you know as you think about these
+businesses it's not like businesses get
+to be successful without thinking really
+hard about like the bottom line and like
+average value you get out of a car it's
+like they know what they're doing
+clearly oh yeah and
+the more you know tesla might not have
+ads or marketing
+the way traditional manufacturers do but
+at least people in the company sharing
+that it seems feature complete and
+it's clearly getting people to spend a
+bit more on the cars despite not getting
+actually more out of the car which is a
+weird thing to say about a car uh in the
+software department yeah um
+but now we're you know despite all the
+tweets about like oh three weeks away
+it's one week away whatever there's
+finally a button and you can finally
+request it now it's real now there's
+there's been um there's been a very very
+limited beta of this full self-driving
+out there in the world
+and there's a small group of people
+who's actually gotten to use it and
+have made youtube videos about it and
+have had like a little gopro behind the
+dash cam of the wheel like showing
+what's going on in the car have you seen
+any of these videos in action yeah some
+of these channels there's a channel in
+particular i think it's ai driver
+um whoever runs the channel does an
+excellent job because they'll like super
+impose what the car is seeing and the
+visualization as they're driving i mean
+there's a bunch of people that are
+really creative about how do we show
+what the car sees and how do we show
+what it actually does and so yeah and
+and the
+videos are impressive i mean the car
+does drive itself a lot of the time
+which is pretty cool it's certainly not
+bulletproof and that's where we get into
+the kind of endless discussion of well
+where do we draw the line of what do we
+consider
+you know safe enough that it can kind of
+take over or what are the edge cases but
+i mean i gotta hand them
+props they it's a real product kind of
+even though not everyone has access to
+it
+it's more impressive than what anyone
+else is doing other than maybe
+waymo but that's a whole different
+technology stack and different things oh
+yeah but yeah yeah no i've been
+following it because i paid for it now
+i'm like all right i'm ready
+let me get in the beta let me let me see
+what this is about because right now we
+did our thousand mile road test and
+that's the most i've ever used autopilot
+and i was constantly like very aware of
+when it would disengage and you know
+getting to the exit on a highway would
+get it would get like halfway down the
+exit ramp it would count down 500 feet
+before i disengage 200 feet before i
+disengage and then it would go all right
+i'm done you take the wheel
+and so i see all these
+videos of people using the phil
+self-driving beta it's taking turns
+across traffic it's stopping at stop
+lights merging with all these
+complicated ramps and all these things
+and i'm like all right that's that's
+pretty impressive
+but
+there is a solid amount of
+uh correction happening when i'll see
+like some weird
+you know lines on the road or a bus stop
+or a curb or something weird comes up
+and they'll go oh this is a little weird
+i'll just take the wheel and then yeah
+re-engage it in a second
+and i feel like the metric that they
+they
+land on the most is how many times do i
+have to disengage it before i get to my
+destination and that number's shrinking
+and shrinking and hopefully it's the
+safest when there's zero
+right um and i think that's maybe why
+tesla's been so cautious about this
+rollout is obviously they don't want the
+negative kind of press and the liability
+of having their full self-driving
+software crash when someone who's not
+paying attention
+is behind the wheel
+but it is going to take a while because
+even though the disengagements are low i
+mean i don't know the percentage of
+miles driven to disengagements occurring
+but i bet it's probably 90 maybe 95 that
+the car does it by itself which is
+really good but if you go back years and
+years and years that's when elon's
+saying you know 99 is super easy it's
+when you get
+99.99999 and you add the nines and i
+think he's always said that
+they need to get to
+3.9 before it's good enough and i mean
+they they're not even close to 99 right
+now but that's why they're doing this
+right because they need to gather data
+and the more people driving with the
+software the more disengagements that
+happen the more the system can analyze
+what went wrong and how will i fix that
+in the future so it's it's working
+theoretically so do you have access
+what's your safety score
+well that's where i'm going so i your
+point about like them being super
+careful about who
+gets access to it and who gets to use it
+because obviously any mistakes it makes
+are just going to get picked up and
+probably make headlines so i didn't have
+access to that early beta and there's
+even some notes about like
+apparently people who are in that super
+early small group had to sign a special
+nda and only be able to share certain
+things and yeah that doesn't look great
+but now that it's out there i figured
+i'd put my myself in the queue
+i have a safety score it's not high
+enough i'll put it that way
+um come on
+what is it it was it started at like 95
+i believe it's currently at 77 which is
+not great that would be that's what it
+is supply yeah you're passing right that
+gets you a degree
+passing
+yeah
+but the idea here is like all right so
+the safer you are as a driver
+um then the the more likely you are to
+be admitted into this program to test
+this full self-driving so i'm like all
+right i guess that does make sense but
+then you can actually look through and
+see exactly how it's evaluating your
+safety score do you have a safety score
+i don't because on my model y i didn't
+actually end up paying for full
+self-driving okay so okay so there are
+five things that it's looking at to
+determine your safety score and it's
+basically a proportion of how many
+dangerous things happen over like per
+thousand miles sure the first one is how
+many forward collision warnings do you
+get
+the second one is how much hard braking
+do you do
+uh and hard braking is in excess of 0.3
+g's
+so uh
+my you know diminishing your your
+vehicle speed by 6.7 miles an hour in
+one second you know it's decently
+heartbreaking i feel like autopilot
+frequently does hardly he's gonna say
+that yeah all the time i feel like i'll
+just get phantom breaking that hard yeah
+um
+aggressive turning so a lateral g is
+greater than point four so fund right um
+phone driving yeah yeah right uh unsafe
+following distance so anytime you're
+over 50 miles an hour and your vehicle's
+headway is less than one second between
+the guy in front of you good yeah
+and how many forced autopilot
+disengagements you have so if you don't
+touch the wheel after you know 30
+seconds of it bleeping at you it'll
+it'll disengage autopilot and that will
+ding your score
+um turns out most of my score dings are
+for unsafe following which i
+if you're just on the highway going
+highway speed
+you should be further technically from
+the car in front of you
+and this is where i think these scores
+are problematic a little bit is that's
+based on what the car perceives
+perceives to be accurate based on its
+kind of
+what it's looking for right but like if
+you're in new york

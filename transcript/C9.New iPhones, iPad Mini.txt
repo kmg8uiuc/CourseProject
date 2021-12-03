@@ -1,0 +1,1642 @@
+all right what's up everybody welcome
+back to another episode of the waveform
+podcast we're your hosts i'm marquez and
+i'm andrew and it's appleweek i don't
+know if you uh i don't know if you knew
+but there was some apple stuff this week
+thank you if you're listening to this
+podcast you know about it if you if you
+somehow didn't know
+yeah surprise there was uh one of there
+there may be more but uh one of the
+final events of the year for apple their
+september event which is where we get a
+couple things we know are are coming and
+we actually did have a couple surprises
+and we'll talk about that stuff briefly
+but we also have a couple quick news
+hits at the top that are unrelated to
+their event that you wanted to dive into
+yeah they're both related to apple
+though so i thought we'll just go really
+quick since this is a whole apple
+episode um apple vs epic we kind of got
+the ruling after the whole lawsuit we've
+talked about it before
+epic suing apple because they made them
+take out a button that was letting
+people pay on a third party site and
+apple obviously with their ios store and
+their 30 cut doesn't want that to happen
+um so
+it kind of is like a
+win lose lose more even though that's
+three parties and there's only two
+parties associated in this yeah it
+seemed like everybody was not happy yeah
+kind of kind of sort of so pretty much
+um
+the judge ruled that
+they are not being anti-competitive they
+claim success is not illegal and both
+apple and third-party developers like
+epic have symbiotically benefited from
+the ever-increasing innovation and
+growth from the ios ecosystem fair feels
+pretty fair
+now
+they did also though and this is what
+kind of
+is a lose aspect for apple is that they
+uh they ruled there for a permanent
+nationwide injunction blocking apple not
+only from keeping iphone users in the
+dark about alternate ways to pay but
+potentially allowing developers to stick
+their own purchase mechanisms into apps
+so
+that's a win for developers i mean yeah
+so so initially that one rule that uh
+epic was pretty mad about was that
+in-app purchases had to go through
+apple's payment method which
+automatically took a 30 cut
+and the argument was why should there be
+an only apple in-app purchase method
+there should be other options yeah we
+should be able to have our own in-app
+purchase methods we should be able to
+offer alternates maybe some of them are
+cheaper because they don't have to go
+through a 30 cut from apple and this
+ruling is that apple will now
+need to allow
+other
+purchase methods for in-app purchases
+yeah and there's a little bit of they're
+not quite sure how this is going to work
+what constitutes a button inside it and
+stuff so that'll be a little um weird
+but so the reason epic doesn't really
+win on this is because the way they
+started this whole suit was by adding
+that and the judge also ruled that it
+was a breach of the contract and apple
+is allowed to continue to
+not basically let fortnite back into the
+store not give them back their developer
+account so while you are they're
+blocking that and you will potentially
+be able to put a button in for this kind
+of skirting the rules
+epic can't because they're not allowed
+back in the apple store epic knew what
+they were doing when they broke the
+rules yeah so developers when
+apple kind of loses epic really loses
+because
+they're not back on the ios store and
+they also had to pay some sort of a fine
+because of the money that they made in
+that process of breaching the contract
+so that's a super super tldr version of
+it i'll have links in the description so
+you can read the full thing it's super
+interesting um but yeah it's been going
+on for a long time and
+yeah it also seems like it's far from
+over any time there's a big suit like
+this it's just like all right another
+year of like back and forth between like
+re-suiting each other so
+that is uh still developing but that's
+at least some development
+exactly um and then the other thing is
+somehow kind of relevant to the event um
+but apparently this has been going on
+for a long time i hadn't heard of it
+until the event happened but it looks
+like we have another case of apple
+sherlocking an app
+um do you want to explain what
+sherlocking is real quick well yeah so
+we made a video about the relationship
+between apple and those who develop
+products specifically attached to apple
+products um sort of described as like a
+shark and uh the remora relationship if
+you're more a shark you
+you you do something the shark doesn't
+want to do or doesn't necessarily feel
+like they have to do but that is your
+only purpose
+and if suddenly the shark decides they
+don't need you anymore you're out of
+there uh so apple will sometimes decide
+to pivot and do something that one of
+those developers was doing on their own
+in which case your app has been
+essentially sherlocked stolen yeah and
+sherlock was an app that did that it
+helped you look through your files right
+and now finder yeah that's the the
+infamous example is the sherlock app
+that is no longer useful because apple
+made it themselves and called it
+spotlight okay yeah sorry yeah
+um and so
+what we're seeing now is this actually
+happened back in january but there's an
+app called flick type which
+i've never used um but what it looks
+like is some we're all pretty familiar
+with swipe like
+it's the it's the keyboard yeah yeah so
+this was a keyboard that was
+made but made mostly because one of the
+options was it had an apple watch
+way of being able to type and respond
+quicker um in january it got kicked off
+of the app store um quoting the app is a
+keyboard for the apple watch for this
+reason your app will be removed from the
+sale of the app store at this time
+uh so that was a while ago in that proc
+since then the developer of flick type
+has sued apple um but what we saw was at
+the event
+when uh showing off the apple watch
+series seven there was something
+extremely extremely similar to it which
+was that new kind of like swiping
+feature
+there's a full keyboard that you can
+either tap or slide from letter to
+letter with quick path which uses
+machine learning to predict the word
+you're typing skipping ahead a little
+bit but i watched when we were watching
+that i saw you know the apple watch has
+series seven has a much bigger screen
+yeah so they i've been used to typing
+like one letter at a time or drawing out
+letters on the apple watch to respond to
+messages and they showed this full
+qwerty keyboard on the watch i was like
+okay who would ever want to do like full
+qwerty typing on that tiny watch screen
+but i guess you know maybe swipe typing
+would be yeah easier from what i've
+looked like flick type looks like kind
+of a mix between swipe and it almost
+reminds me of t9 where it starts kind of
+like guessing the words you're using
+based on letters you're picking and
+through the examples i saw because i've
+never used it it looks pretty functional
+like it looks like a good way to type on
+you know a not ideal situation on your
+watch but yeah after that the creator of
+uh flick type tweeted like well guess we
+know why we got kicked off the store now
+yeah because that's weird why would you
+so they got kicked off the app store
+just because they were a keyboard on the
+apple watch is that not allowed or
+something
+i don't know the exact and i'm sure
+there's some nuance to this i'm sure
+apple will have a reason as to why they
+kicked them off not just because like
+hey we're doing this as well i mean it's
+very possible their rule was like you're
+not allowed to make a keyboard for the
+apple watch it's possible that was one
+of the rules it could be i just i don't
+know exactly what it is yeah um but the
+the email that the guy tweeted
+that like what i said was from it was
+this is an app for the
+a keyboard for the apple watch and for
+this reason your app will be removed
+from the sale of the app store at this
+time okay um that happened in january
+now we obviously see what's going on i'm
+sure there's more nuance to it but
+yeah another sherlock i guess and um the
+thing is is
+even if they didn't take it off the app
+store just developing this and putting
+it out there would essentially
+completely kill that app why would
+anyone download something that is now
+just default on it so yeah it would have
+to be better in some way like there are
+other third-party keyboards for the
+iphone but the iphone has a pretty good
+keyboard
+but yeah anyway that's a perfect segue
+into talking about the event that we had
+on tuesday so apple had their september
+california streaming event it's uh it's
+yet another digital event so they're not
+back to in-person events yet we all knew
+the iphone was coming but there was some
+other stuff coming and it turned out
+california streaming was this sort of
+symbolism for them using a bunch of
+different locations so they had a a lot
+of drone shots in this episode
+transitioning to like santa monica and
+to the redwood forest into all these
+other places
+i think uh joshua tree was timmy
+i was actually when he tweeted that
+picture you were like i don't think this
+is going to be at the steve jobs theater
+yeah and i was like oh california
+streaming with a picture of a mountain
+and a lake i was like this is going to
+be all over california i was pretty
+excited that i guess yeah yeah they
+definitely it's before yeah a lot of
+drone shots a lot of drone shots
+fantastic drone shots and good ones yeah
+yeah so the production quality was
+top-notch as always uh i think they had
+a moment where they accomplished exactly
+what one of the one plus events i think
+failed so hard at oh they'll like
+transition between yeah
+it was like a perfect transition this
+lady was talking in one environment
+about one thing with all of these new
+features this is by far the most
+powerful and versatile ipad mini ever
+then went across a wall and which
+created a wipe transition to a new
+environment where she continued to talk
+about a new different thing and with
+both the new ipad and ipad mini we
+continue our commitment to the
+environment
+and i just i had flashbacks to that one
+plus transition where they were talking
+about one thing crossed over the wall
+and were in the same
+environment
+outside the door and then they went back
+in the door after yeah yeah this like
+this worked because just like
+in general the shot and the framing and
+everything was like perfect and then
+also just the context of what was
+happening like it she was talking about
+something else it moved to a different
+area it just fit with the presentation
+it yeah it nailed what yeah oneplus was
+trying to do that one time so i enjoyed
+that i was also looking for a meme
+moment i don't think we got one
+i don't think we got a meme open a big
+one this one felt way more like produced
+almost
+parts of it almost reminded me of the
+pixel 5 event where like aspects of it
+almost felt commercially does that make
+sense like a lot of like upbeat music
+multiple cuts feels very much like a
+commercial or almost like a music video
+and i think that was their just kind of
+like between segment
+vibe that they were going for yeah
+because they had such big transitions to
+pull off like you're not going from
+upstairs in the lab to downstairs in the
+silicon lab you're going from
+one desert to a forest to a mountain to
+a beach so they got to really spruce it
+up so yeah it did feel kind of uh you
+know california casual but there were a
+bunch of things announced some of them
+we were expecting some of them we
+weren't i say we start with the ipads
+yeah let's just go in order yeah yeah
+actually yeah that's the the order of
+the event was ipad first so we got a new
+budget ipad the infamous 329 ipad it is
+once again in the same body as before
+and it didn't really get all that much
+improvements but it is a spec bump this
+time so it's got the a13 bionic chip
+which is 20 faster across the board
+versus the last gen and it's got a new
+selfie camera i believe it's now the 12
+megapixel ultra wide that has center
+stage yeah i think that's the biggest
+feature added to it that's pretty much
+it it's still got the home button still
+got the thicker bezels still got the
+small back camera with no bump still got
+a lightning port it's still that old
+hardware and that oldish screen
+but it's 329
+and so that spec bump is nice for that
+price but it's not really much different
+from the old one i think like
+though in the times that we're in with
+way more video calling adding a better
+front-facing camera and yeah center
+stage is actually pretty amazing for
+something that affordable like just
+being able to get this in the hands of
+more people and 300 for schools
+we're just seeing people need that more
+and more um hopefully not for much
+longer but it is nice to see that i
+think that's just like a cool little
+announcement for maybe not the tech
+heads here but i think that will
+actually benefit a ton of people yeah
+i'm going to add this to the i'm going
+to have a theme for this episode of
+things they should have added a year ago
+yeah i think this would have been great
+for different reasons but i think this
+would have been great about a year ago
+for obviously the pandemic and obviously
+the beginning of all the video calls
+everyone had to start doing for sure uh
+so that's the the new budget ipad ipad
+mini honestly star of the show yeah this
+was like the one no one nobody was
+really expecting it yeah so we all had
+our
+you know our iphone hats on going into
+the event but the ipad mini got the
+biggest redesign year over year because
+it's been couple years since they
+refined the ipad mini so okay it's
+basically
+a small ipad air yeah from what i can
+tell all the improvements across paper
+and across specs minus a couple things
+are ipad air shrunken down so it's got
+this new design that i really like it's
+the flat edges smaller bezels
+it's funny it's an 8.3 inch screen on
+the ipad mini and it's got this bezel
+size that's still a little bit thick but
+i feel like it's a little bit thick
+because you still need a place to put
+your your fingers when you're holding it
+and so even if it's the same size bezel
+as the ipad air when you shrink it down
+to a small screen it looks kind of like
+a big bezel honestly is the fact that
+it's all even it just makes it look nice
+all the way around yeah so it's got a
+larger 12 megapixel camera on the back
+it's the first ipad mini with a camera
+bump
+so there's actually a little uh little
+bump just like the ipad air on the back
+it's not too dramatic but it is there
+and it's not that yeah um
+it's the a what is it 15
+inside a15 bionic so it's 40 faster
+cpu 80 faster gpu again it's been a
+while since the refreshed ipad mini so
+this is much better performance
+uh it also gets usb type c like the ipad
+air and it gets a touch id fingerprint
+reader like the ipad air
+the one weird quirk i noticed is the
+volume buttons are also at the top
+alongside the touch id power button did
+you notice that i didn't but just you
+saying it it makes more sense because
+it's smaller and you're not reaching up
+there on this giant ipad instead you're
+saying like the top like the top top
+right not on the sides yeah like if you
+hold the ipad like a piece of paper like
+a rectangle the touch id buttons on the
+top right yeah the button volume buttons
+are also on the top on the top left okay
+i expected them to be alongside like the
+ipad air yeah that still would probably
+make the most sense but yeah so i'm
+curious why they did that maybe it's
+because you mostly have it in landscape
+mode and if they knew that they should
+have moved the location of the selfie
+camera but that's another story um but
+it does get the 12 megapixel ultra wide
+selfie camera with center stage it also
+gets 5g and it supports the second gen
+apple pencil magnetizes to the side just
+like the ipad air so it's a 499 dollar
+mini ipad air what do you think of the
+price
+i think that's about right 4.99 now in
+the tablet world at that price you do
+see a lot of other like seven inch
+tablets popping up
+and it's funny like every time you talk
+about tablet prices and being
+competitive i can't help but compare it
+to other ipads because like there's not
+that many other competitive tablets
+there's there's some stuff at the very
+high end there's some samsung and huawei
+tablets out there
+but like for 4.99 would i rather have
+any other tablet than this one not
+really yeah so ipad mini is pretty sweet
+here's my favorite thing about this
+which comes from the usbc is the way
+they described it by saying like this
+gets usbc which is x amount better x
+amount faster blah blah blah than its
+predecessor which we all know is
+lightning
+which is just hilarious to me because
+you're saying all these reasons as to
+why it's better but we still see
+lightning in the iphone yeah the mental
+gymnastics required to defend usbc in
+the ipad but then defend lightning in
+the iphone are
+very impressive it's just very funny
+it's hilarious to me yeah and it's not
+even like a pro thing anymore all the
+ipads except for the baseline budget
+ipad have usb-c so every time they
+explain usb-c they're like oh it's a
+better port it's got more bandwidth
+it is not thunderbolt
+as the ipad pro okay but it is just usbc
+which is the same as the rest of the
+ipad so i love it i i had this thought i
+was just tweeting about how it could be
+like a
+like an in-the-wall smart home
+screen like imagine having an ipad mini
+just cutting a hole in the wall put it
+put that ipad mini in there and that's
+probably the best smart home assuming
+you have home kit assuming all your
+accessories are home kit and assuming
+home kit works for all of you
+assuming it all works but that would be
+like a pretty sweet remote for turning
+your lights on turning on whatever else
+your cameras whatever stuff you've got
+going on in your smart home yeah it's
+cool i
+i kind of agree without even the putting
+it in the wall i feel like the mini
+aspect of it is nice because it can just
+kind of float around your house for
+different things like hey we have a
+party going on in the backyard now i
+want to turn my string lights on i want
+to control the music oh it's night time
+let's all move it inside to the dining
+room now bring that into the dining room
+with you yeah so like doing it like that
+you could put any ipad in the wall and i
+guess it would just look tackier the
+bigger it is but yeah having the small
+one and just being able to kind of bring
+it around the house is nice yeah it's
+just it's discreet i i was very tempted
+to get one yeah i think uh it it really
+strikes me as like the ultimate mobile
+note-taking thing i am as a reviewer i'm
+always taking notes on the go i'm
+driving this this volvo for review for
+top gear and i'm always just like
+opening google keep on my phone and like
+you know having a voice note real quick
+when i notice something or like going
+back to my computer and i notice another
+thing i want to take a note on i open
+another app and i have notes all over
+the place and it would be nice to have
+just anytime i have a note i just grab
+the ipad mini pull out the pencil and
+write it down
+and that
+was
+very tempting to me but i also want to
+use my ipad all the time for watching
+videos and media and doing other stuff
+and the way i use my ipad pro i love 120
+hertz and this ipad mini is still 60hz
+i've got the perfect solution for you
+okay the s pen on the full three
+the s it's got everything you're asking
+for it's right there for you it's got
+120 no it doesn't because it doesn't
+stick to the side of the fold that's the
+one thing just get the case ah i don't
+like a case i'm not a big case person i
+can put a skin on the ipad even if even
+if i do a folio on the front i feel like
+you think i'm serious about it no i just
+want to confirm i feel like you're
+playing a devil's advocate of a real
+commenter who's gonna suggest that um no
+i i like i'd rather have
+the ipad yeah and the apple pencil can i
+take this a step further
+pen and paper
+pen and paper get out of here leave huh
+yeah
+uh the thing about pen and paper is uh
+now i have no good argument against it i
+was gonna say it's wasteful but
+you know charging electronics is not
+much better
+i
+i don't know i'm just i'm super into the
+note taking aesthetic of ipad mini and i
+think it's gonna be good for students
+and a lot of people who take a lot this
+is a random question when you have like
+android auto can and you've got google
+assistant on it right you can take note
+like you can ask it to write a note down
+right
+uh i think there's probably a command i
+can do for that where i take a note in
+google keep i mean it's just regular
+google assistant like we were messing
+around with it on the road trip a bunch
+and just telling it to play music it's
+great it just like on the screen had a
+little button for google assistant and
+you could just ask it to do whatever so
+i can only assume yeah yeah no but the
+my problem which is entirely me problem
+is i have three different places that i
+take notes which is
+on me i have apple notes i have google
+keep and i have my tasks app is there
+not something like like evernote that
+can be on all of them and
+yeah and sync yeah i actually used to
+use evernote um and i've tried a couple
+other universal note-taking solutions i
+don't know that's again it's a me
+problem they never really stick like i
+like the idea of the apple pencil just
+swiping out from the corner and just
+taking an apple notes app and that's
+only going to work with apple notes but
+anyway that was uh that was a fun
+redesign it's got a couple new colors
+also there's this new apple color they
+keep calling starlight this is going to
+come up again in the future but it's
+kind of like a faded gold
+and they're you know it's kind of an
+interesting name they don't really know
+someone calling it pink no
+uh i don't think it's no they have a
+separate pink there's a different
+picture on the ipad mini there is a
+purple
+and on the iphone
+i think there is a pink but
+this is
+the same thing starlight
+i think starlight is somewhere in
+between silver and gold it's like a
+faded gold even though we still have a
+silver so i just wanted to
+shout out that new like somewhat
+interesting color name starlight so well
+so while i go and um look up all the
+different colors of the iphones before
+our next segment let's hop on a quick ad
+break we'll be back with um apple watch
+series 7 and then obviously the new
+iphones this episode of waveform is
+brought to you by peloton so if home is
+where the heart is then it can also be
+where the cardio is so with peloton you
+get one of the best workouts your life
+without ever having to leave or step out
+of your front door peloton has
+revolutionized the at-home exercise
+experience because when you bring
+peloton home you're not just purchasing
+a piece of machinery you gain access to
+an entire new world basically so peloton
+has really increased my workout volume
+more than i expected so just being able
+to have not only a stationary bike but
+to have classes that i can take with my
+friends right in my house is a game
+changer and i don't ever have to worry
+about if the weather is nice to actually
+go for a real bike ride outside i just
+don't have to drive to the gym after a
+long day of editing it's just great to
+help stay in shape for the ultimate
+season without adding a ton of time onto
+my already busy schedule even if you're
+working out from home peloton plugs you
+in to a global network of writers so you
+can cheer each other on challenge each
+other for no matter what you're doing
+honestly building strength building
+endurance or even building a meditation
+practice so peloton has you covered
+however you like to move cardio yoga
+pilates running it's all there and it's
+all on your schedule so with the peloton
+bike there's nothing like working out at
+home learn more at one peloton dot com
+new members can try peloton classes free
+for 30 days at onepelton.com
+app terms apply that's
+o-n-e-p-e-l-o-t-o-n.com
+all right welcome back let's talk about
+the last two things the two probably
+biggest things to come out of the uh the
+event that we're more expecting which is
+the watch and the phones that we were
+expecting yes i would
+huh i mean we weren't expecting
+everything that happened with the watch
+but we were expecting a new watch okay
+yeah we were expecting a new watch i
+think
+i think this is these are the two
+biggest things that came out of the
+event one because it was what we weren't
+expecting if you say expecting because
+of all the leaks right and then
+obviously there's a big feature an
+iphone we'll get to later that i think
+was the biggest part of the entire event
+lots of things that didn't happen with
+the watch in the phone yes that's a good
+theme yeah okay so the watch apple watch
+series seven so quick summary
+better screen okay that's it any
+thoughts i think no it's it is a uh 20
+bezel all the way around which makes the
+screen area bigger it is the exact same
+shape but now the screen area is bigger
+it gets even closer to that very edge
+where the body hits the glass the glass
+is slightly more curved right i i made
+it sound like i think that's why it
+feels like the smaller bezel too almost
+like that the infinity edge on like
+samsung phones is that little bit of
+curvature on the top clasp
+they laminate the screen right up until
+the edge so we'll see i want to see it
+in person because this is what i was
+talking about in the video which is on
+my current apple watch shape there is a
+solid amount of reflections all the way
+around the corners and the top and the
+bottom and this is going to be even more
+reflective and this text on the screen
+is going to get even more into those
+well yeah because if it's on the curve
+part on the side that's pulling the
+reflection all the time now you're going
+to start losing
+information on the screen right yeah so
+we'll see i might be wrong maybe it
+doesn't matter at all but that is the
+biggest uh difference there's also a set
+a much brighter display which is going
+to be cool to see both indoors and
+outside yeah we saw that a little
+uh swipe type keyboard implication uh
+application which is pretty cool but
+obviously a lot more bigger buttons and
+bigger things happening on the bigger
+screen
+it's the first dust resistant apple
+watch it's also still water resistant i
+think it's dust resistant because now
+the speaker is a slot instead of a hole
+i mean it's like a couple small slots
+instead of holes
+and it is now going to charge 33 faster
+with a new usbc charger in the box uh
+underrated i think that faster charging
+is really nice i'm one of those weird
+freaks who wears the apple watch 24 7
+including when i sleep
+and so the couple of times during the
+week that i find to charge it are pretty
+crucial when do you charge it that
+every time i shower okay which is like a
+solid like half hour of charging which
+is usually pretty great and when i wake
+up in the morning it's my alarm and it
+wakes me up i take it off when i wake up
+put it on the charger while i get ready
+to do stuff why not in the car
+um
+it's a short enough drive i guess yeah
+it could be useful right because of uh
+that's when i found it the best i would
+i when i was using it for when we were
+doing all the concerts i put it in the
+car my commute's a bit longer but like
+that was the one time where i never felt
+like it needed to track anything like
+yeah i mean it's minuscule but you're
+losing steps when you're doing it in the
+shower and getting ready in the morning
+you know david might sneak up on you
+when a competition
+you'll just be wishing you had those
+shower steps this is very fair i think i
+might take that new usbc charger and put
+it in the car yeah that might be the
+move um series 7 is going to start at
+3.99 there's some new colors i think you
+were liking that green you and david
+like the green color right i like green
+anything it's a nice little green color
+i don't love the apple watch but yeah
+okay it's like sometimes the apple watch
+looks really nice and then i'm like i
+don't feel like this looks like much
+watch on my wrist well there's a whole
+watch conversation to be had for sure
+but yeah there are some new colors and
+uh i think i ultimately usually go with
+a neutral color watch and then like if i
+want to spice up the bands at certain
+times
+i'll do that they'll all look great but
+the problem is is then you worry about
+it not matching with something you're
+wearing that day so neutral just always
+is the best option exactly i'm sure
+those are the most popular so the thing
+with this is is like
+we didn't really read that much
+difference here would you recommend
+anybody upgrades from a series six to a
+series seven no no one right no uh this
+is one of those small incremental year
+over year improvements that's nice to
+have but doesn't constitute like someone
+like me or you yeah or anyone with any
+like probably last three years apple
+watch needing to upgrade if you're
+upgrading this is nice that you get a
+couple new features if you don't need to
+upgrade there's no point in doing this
+yeah it's all about the bigger screen
+they didn't mention the chip on stage at
+all they didn't mention it
+found on reddit it's literally the it's
+not even like a different name it is the
+exact same chip i would believe that
+um having a bigger brighter screen is of
+course nice on any gadget anytime
+there's a refresh especially something
+that's in outside so often yeah but
+aside from that yeah i i think
+personally i would be very happy to
+stick with the series six um the one
+other thing i think
+oh we're trying to figure out oh yeah
+well we mentioned the charging that was
+the other thing so they're keeping
+around the series three and the s e yeah
+so series four five six and s uh four
+five and six yeah
+are so similar that they might as well
+not exist yeah so we've got we've got
+the se which is like the budget cheaper
+version and then we've got the three
+which is the much less features and many
+less sensors even cheaper entry-level
+apple watch it lives keeps living and i
+think just kind of unfortunately the
+biggest news with series 7 is just that
+it wasn't the redesign that everyone
+kind of it was one of those things where
+it's leaks and it's renders and we all
+tell each other not to get excited by
+them but this is one where it felt like
+a couple more leakers were all kind of
+on the same page and it just was not
+even if anything it was supposed to be a
+boxier design kind of like what ipad
+mini did and it wound up actually
+becoming curvier with the glass okay so
+in hindsight now that we have the new
+design are you happy that it's not
+squared or did you want to pretty square
+about i think the renders looked cool
+but either way it's still not all right
+we know that answer adam you saw the
+rumored squared off apple watch
+versus this new big screen curvy one we
+got do you like the actual one we got
+better or would you rather have had the
+square one
+um i think i would rather have had the
+square one
+if they were going to keep it
+this
+design i feel like they should have
+added a functionality that
+differentiated it other than like a
+bigger screen they didn't have much
+functionality to add i mean this we're
+going to talk about this with the iphone
+pretty shortly but it's a it's the same
+watch with a better screen are we just
+at a point where the apple watch is
+popular enough that you just can't skip
+a year on it
+it's popular enough that you can't like
+it it's just like they're not gonna ever
+just let it sit for two years and then
+do a bigger update yeah no they're gonna
+make a new one every single year yeah
+and i'm sure there's little things like
+the faster charging like that's kind of
+nice there's little things that they
+probably adjust every year the
+technology gets better enough that they
+can probably add like a slightly bigger
+battery next year and honestly that's
+fine if they never change anything else
+about this watch but eventually other
+stuff's going to catch up right
+eventually you got to make moves so
+maybe it's a redesign in the future
+someday but as of today
+um it's it's looking pretty similar to
+the series yeah no problem there okay
+then the iphones iphone 13 13 mini 13
+pro and 13 pro max
+pretty solid lineup um very similar
+again to the 12 but i'm going to talk
+about some of the things that are more
+important so
+a15 bionic chip in all of these phones
+it's got a 5 core gpu in the pro phones
+4 core gpu and the smaller phones or the
+13 and 13 mini and then everything else
+is the same with the specs a new two
+high performance cores and four high
+efficiency cores in the cpu
+and uh it's still got ceramic shield
+still got ip68 water resistance
+still got the squared sides it's got
+aluminum on the 13 and 13 mini
+surgical grade stainless steel on the 13
+pro and 13 pro max perfect what we did
+get changed is first of all
+the 64 gig model is finally retired and
+it starts at 128 gigs of storage
+that's something they could have done
+last year but there we go they've
+finally done it
+um the battery life is improved
+it's one and a half to two and a half
+hours longer depending on which model
+you get
+i don't know exactly how that will
+translate to real world use because they
+keep saying like all-day battery life
+yeah that's all we need to retire that
+phrase well apple's used it forever and
+yeah everyone uses it's not just apple
+yeah it doesn't really mean anything
+substantial until we test the phone but
+i like that they're quoting longer
+battery life and not sure mini needed it
+for sure the mini needed it and these
+phones are actually slightly thicker and
+slightly heavier to support an actually
+larger battery capacity okay not
+substantially larger but it's it's not
+smaller
+so that's cool the screens are brighter
+um a thousand to 1200 nits of peak hdr
+brightness a thousand hits or 800 nits
+for regular use on the 13 and 13 mini i
+like having brighter screens obviously
+it's the same resolution but what's more
+important about these screens is the pro
+phones
+now have promotion they now have a
+variable refresh rate up to 820 hertz
+that's something they should have done a
+year ago yes but it's here
+okay i'd say biggest announcement of the
+timing this is the biggest new feature
+it was the one we were the most excited
+about and it was funny because we talked
+about leaks before and 120 hertz is
+something that leakers have claimed is
+going to happen for a while now as far
+as i'm concerned and yeah i didn't see
+much speculation of it this year yeah we
+it there's been so many other phones to
+have 120 hertz for so long we just kind
+of forgot about it and stopped thinking
+they would do it
+uh but yeah they finally done it and
+it's interesting because these are not
+these are oled phones and oled screens
+where the ipad pro is still an lcd still
+a backlit screen so that'll be
+interesting to see if it looks even
+better than the ipad pro
+um but yeah that'll be that'll be good
+to see so this is this is where we're
+going to find out how much of a
+difference 120 hertz really matters
+because as much as i've said in the past
+like guys you got to see 120 hertz in
+person it looks so much better i can't
+believe apple's stealing selling a
+thousand dollar phone at 60 hertz and
+everyone always goes well
+nobody really cares and no one notices
+the difference to 120 this is where
+we're going to find out there's going to
+be 120 hertz iphone in the store next to
+a 60hz iphone
+will anybody see the difference
+i'm still interested on if
+in that scenario if someone would be on
+both of them and
+not see the difference but choose to
+spend more money because of the
+difference right well they see the
+difference and then go wow so the more
+expensive one's a thousand dollars and
+the 60 hertz one's 800 do i want to make
+that jump
+yeah and i
+you know i
+obviously would i think for the majority
+of people listening to this podcast
+right now that's a jump they're willing
+to take i personally would do it i
+recommend it but i do still i mean one
+one person who says it all the time is
+uh john morrison tld today and i
+don't disagree with his
+opinion on any of it i don't think the
+majority of iphone users
+care about the 120 hertz the the
+majority outside of our bubble that we
+live in who are going to a carrier
+service or just getting a new iphone but
+now like you said now that they're going
+to have it will that change will that
+change will they even really know what
+the difference is or just other phones
+gonna feel slow and then they'll learn
+about what it is and it'll become more
+of a standard um that's kind of how i
+see it yeah and i i think one of my best
+litmus tests of like a new feature is if
+people in the real world like care or
+talk about it at all and
+you're not gonna see a lot of people
+talking about 120 hertz but i think when
+you see the new pro iphones start to
+arrive in people's hands and people
+start to go whoa this feels way smoother
+that's what they're going to say my
+phone feels so much faster than my last
+time way faster way smoother way more
+responsive and when all these apps are
+going to take advantage of it there's
+going to be 120 hertz games and 120
+hertz web browsing and just scrolling
+around and going through things and
+apple of course has talked a big game
+about how they've optimized every little
+animation in ios because that's what
+they do they've had this to be fair
+they've had the smoothest 60 hertz
+phones out i will give them that and
+that that actually gives me more
+confidence that the difference to 120
+will be that much more well taken
+advantage of and they've done it on ipad
+also so like this isn't their first
+rodeo on a mobile device like this so i
+think people are going to start to see
+the 120 hertz in person and go whoa
+that's a really big difference whereas
+if you just told people hey this phone
+has 120 hertz do you want it no one
+really knows what that means or cares
+yeah and so i'm fully agreed with that
+like when you say regular people don't
+care about 120 hertz i agree it's
+because they don't know what it is yeah
+so when you show it to them and they go
+here's the new iphone it has it and you
+show it to those people i think that's
+where we're gonna find out how many
+people really like it
+i agree i don't know if paying 200 extra
+for it is going to be the uh initial
+jump into it for again the average the
+non-techie
+yeah i want to look at the numbers i
+think if two people saw in a carrier
+service and we're playing with them and
+that was the only difference they
+noticed i don't think they'd be up for
+an extra 200 bucks
+i think they'd pick paid 200 for a
+different color they wanted more before
+they would do it for a uh
+a smoother experience i hate to agree
+but i think that's probably true of a
+lot of people it's really hard to think
+outside of our mindset sometimes but i i
+would guess that that's probably yeah
+but i think a lot of people who are
+waiting for the iphone to finally get
+120 hertz they're amazing it's here
+finally
+so like i said 7.99 for the iphone 13
+6.99 or actually actually those are
+prices without carrier activation so
+it's
+699 or 729 for the 13 mini and 799 or
+829 for the 13 and then it's a thousand
+or a thousand to 29 for the 13 pro
+and then
+1099 or 1129 for the 13 pro max
+also there's a one terabyte version
+there is just so you know that's 15.99
+15.99 yeah for the oh pro max only right
+pro mac pro and promise pro and pro max
+the one terabyte pro max is 15.99 yes
+that's the most for the highest yeah
+okay so that's the same as a fold three
+right pretty close fold three is about
+17 18. oh is it real okay yeah um we
+also skipped over like i mean design
+wise the only real design change we saw
+which was in the regular models the 13
+and 13 mini which is since there's only
+two cameras on the camera bump rather
+than have them vertical they're now
+diagonal
+i think it looks nice i don't
+necessarily think it looks better or
+worse than the vertical i think it's a
+it's a functional change too because the
+sensors are so much bigger that that
+actually makes space for them
+and the primary sensor has now that
+larger sensor and that sensor shift
+stabilization so remember the 13 the 12
+pro max was the only one last year that
+had that new big sensor
+a lot of space they're bringing that to
+all the primary sensors on all the
+phones now that's a big deal so they did
+have to move it diagonally and it looks
+a little different and they probably
+thought that would be nice for the new
+phone to have a different look but that
+is a much bigger better sensor
+so they've moved that primary sensor
+that bigger sensor to all of the entire
+lineup which is pretty sweet and also
+there's now faster apertures across the
+range i think it's f 1.5 on the main
+aperture on the pro so now it's a bigger
+sensor and an f 1.5 aperture which is
+pretty sweet
+but all around wider apertures on the
+pro then the regular
+and we'll probably also keep an eye on
+how that does in low light and there's
+no like astro mode or anything crazy
+it's just probably going to be
+incremental improvements and better
+processing and less noise and things
+like that but we'll see how that goes
+too but that's all just numbers and of
+course we'll see better quality i was
+most interested in two of the features
+they announced and they're both video
+features so after the break let's talk
+about prores
+cinematic mode i'll also talk about some
+of the stuff that didn't come to the
+iphone
+[Music]
+all right welcome back let's talk about
+the two new video features on the
+iphones this year we we saw the numbers
+bigger sensors all that's great even
+thicker camera bumps they're thicker
+this year it feels like when it did that
+side profile it's like it has three
+separate bumps the bump to get to the
+bump the bump for the outside of the
+lens and then the bump for like the
+glass or something on it it's a triple
+mesa it's a whole thing
+um but the features we got were pro res
+and cinematic mode which should we do
+first
+cinematic mode's more fun okay
+so cinematic mode i i've thought a lot
+about cinematic mode since it came out
+and uh i'm very curious about how this
+will land with regular people it's in
+all the phones not just the pros
+and it's a it's a new mode that will let
+you have a little bit more
+fine control over shooting video and
+specifically with focusing yeah so i
+think apple took a couple looks at okay
+we've got bigger sensors there's going
+to be more natural blur
+and we're going to have a lot of people
+shooting video with the iphone as they
+usually do let's build into the stock
+camera app a little bit of a more
+uh
+prosumer i'm doing air quotes for audio
+listeners a prosumer way of shooting
+video specifically with like some focus
+racking and some ai intelligent focus
+racking and some fake blur we added some
+some adjustable blur so it's it's
+literally like
+portrait mode for video
+which is adjustable in post that you can
+switch between subjects while you're
+shooting yeah since you said you've
+thought about this like can i give you
+my initial impression on it and then you
+can tell me what you think sure later so
+when we first saw this
+my very first thought was like
+every time apple does camera samples
+they're like the most beautiful pictures
+and videos ever because they have like
+really intense rigging and they're in
+these like studio situations and like
+they're basically showing examples that
+you will never ever ever as a consumer
+hit apex yeah so when they they showed
+this i was like oh focus racking this is
+really cool we're all kind of video
+nerds here so we think that's really
+sweet
+i don't think the video sub the way it
+showed it off in the examples was great
+felt very jumpy sometimes it looked like
+it was hunting which is weird because
+it's not actually like
+racking a focus like normal and just for
+some reason it like just fell off from
+like we do focus racks all the time it
+just didn't quite feel like it obviously
+it's much different this is on a phone
+yeah using cameras i thought the same
+thing
+about the same thing so
+and then i thought that's kind of what i
+thought or i was just like if apple's
+not nailing this in their product demos
+like this is i think this is going to be
+worse there's also a lot of haloing
+which is something that their portrait
+mode doesn't do quite as bad anymore um
+but in video obviously portrait mode
+video is new
+so you know maybe i'm being too picky
+this is for that kind of the average
+person they'll probably think it's
+really fun but then i immediately
+thought i can't think of the average
+person that's going to be like super
+pumped about this and now i'm back to
+like i don't really get it okay so the
+one thing that that i thought a lot of
+the same stuff when i watched it i was
+like this is going to be the greatest
+demo of all time and then the first
+thing they showed i was like did that
+just hunt yeah it was weird but the one
+thing that i watched back and thought
+more regular people are going to care
+about this than i think we think is this
+is
+right next to all the other modes in the
+camera oh like when you scroll through
+that and you swipe through okay so
+there's photo mode there is portrait
+mode
+there is video mode and there's
+cinematic mode and cinematic mode right
+next to video is like the portrait mode
+for video and i think a lot of people
+are just going to flip it over to this
+like almost
+by default anyway just to like oh this
+is the better video like obviously
+portrait mode looks better than a lot of
+photos let's just turn on cinematic mode
+and we're taking some videos of our
+friends and i think they're going to see
+a lot of that like shallow depth of
+field and they're going to crank up the
+bokeh all the way and it's going to be
+this big fake blurry background and
+they're going to go oh wow the iphone
+video looks crazy good with this
+cinematic mode
+i guarantee we see at least one random
+viral video of like fake blur from an
+iphone people going look how much better
+the iphone video is than everyone else
+even though you've been able to do this
+on other phones for a while yeah so
+that's one thing i saw wait can i just
+interject right there is like you just
+made me think of an another issue this
+could be doing to somebody is if you
+think people are gonna go to cinematic
+as default how many random videos are
+people gonna have where it's like
+they're taking a video of their friend
+and someone walks by in the background
+and it it hunts to focus that and now
+their video they have is out of focus on
+the subject trees they don't know how to
+use it correctly yeah we'll want to see
+how it works but yeah i can see that
+happening now i just think the the this
+is going to be more geared toward the
+average person and i think people who
+want to shoot like creators like us if i
+was to shoot a video on the iphone i'm
+either going full auto or i'm using a
+third-party app to get way more manual
+control yeah and there's kind of no
+in-between like you can you can exposure
+lock and i think you can can you focus
+lock with the current iphone video app i
+don't even think you can do that
+so that's one of those things like when
+you look at people who shoot full-on
+videos on their iphones that they've
+been waiting for this cinematic mode is
+still trying to use ai and like auto
+switch for you and add fake blur and
+this isn't really something that those
+creators are going to want to switch to
+they're still going to keep using the
+dozens of really good like third-party
+camera apps you've already seen for the
+iphone especially for video so that's
+why i think this is a
+a normie app i agree and those same
+people who are putting that much effort
+into it are probably gonna see that
+focus like the way it does it the rack
+focus and probably be like i don't like
+that they're going to be someone who's
+picky enough where they wouldn't enjoy
+that whereas yeah there's some there's
+phones out there with
+manual focus sliders yeah where you can
+do manual focus and i think lg brought
+that up like lg he's done it sony's done
+it i think a motorola phone's already
+done it and i literally you'll be able
+to like slide to manual focus with focus
+peaking in the in the stock camera app
+in like the pro mode which is nuts so
+that's not what apple's doing yet but i
+do see this like people swiping and
+going what is portrait mode oh it's
+called
+totally agree this is the video portrait
+mode so that's fine i think we'll see a
+lot of people trying that i also want to
+go over
+my quick segue
+of things that they didn't add to the
+iphone because this is a notoriously
+minor update i think we're on the same
+page like you have an iphone 12 you
+don't need this it's a small update with
+the screen with the slightly we didn't
+even say that it's a slightly smaller
+notch twenty percent smaller was it
+actually did we confirm that it is a
+little smaller yeah yeah um you know
+they move the earpiece up to the top
+it's all the same regular face id array
+but okay that's what else is new with
+the screen and a little bit better
+cameras it's a minor refresh with some
+new colors i would say without 120 hertz
+and without the just like focus racking
+demo there was almost like nothing to
+talk about yeah yeah that 120 hertz is
+kind of the only buying feature that i'm
+concerned about with this maybe a
+terabyte but yeah yeah and so i want to
+go over just this quick list of things
+that we didn't see and how we feel about
+them not being added
+so uh they didn't get rid of the
+lightning port it's still a lightning
+port at the bottom i feel like i don't
+feel strongly about that yet magsafe is
+still the same charging speed is still
+the same everything is the same as it
+was last year but there were some rumors
+of them maybe going full mag safe no
+lightning port we're just and we're just
+totally past the rumor of ever doing
+usb-c right no no one believes that will
+ever happen it should be lightning mag
+safe to portless okay yeah yeah it would
+be hilarious if they switch the iphone
+to usb-c after the ipad mini but it's so
+much faster than its predecessor they
+should have that team talk to the iphone
+team
+um they didn't add touch id back under
+the screen
+or any sort of like touch id anywhere
+maybe on a button or anything like that
+how do you feel about that
+i hear a lot of people saying with masks
+and everything would make the most sense
+i
+you know like
+that theory makes perfect sense i just
+don't know if like they're going to
+design a phone based on
+the pandemic going on now which is
+pretty unknown we've seen it get better
+we've seen it get worse so
+do you think are you saying just adding
+it like how do you feel about adding it
+just as not even thinking about the
+pandemic um i think it would have been
+nice okay i think it'd be nice whether
+it's like nice enough to sway some
+people yeah we've seen so it's kind of
+like one of those features where a bunch
+of other manufacturers will try early
+versions of it and then once it gets
+good enough then apple will hop on okay
+and the the real question is what is
+good enough like right now we have you
+know s21 and oneplus 9 and all these
+phones that have the fingerprint reader
+under the screen on near the bottom and
+it's like a little bigger than your
+thumb and you just have to hit the
+middle
+is good enough like
+the bottom half of the screen you touch
+anywhere is good enough like
+just like a little bigger than your
+thumb and just having it be 100 accuracy
+every time and it works with water on
+your finger what is good enough
+and i don't know that apple's
+like considering adding face or touch id
+back to the phone but when you consider
+that you add the pandemic element and
+you add the mask element then it's like
+it would have been nice
+for sure in that situation yeah but we
+don't have that either um no faster
+charging
+that's a funny one because i think by
+the time this podcast goes live we also
+have a video up on a phone that has a
+120 watt fast charging yeah which is
+like
+apple's just not a big hardware bleeding
+edge type company where they they know
+what they do well
+and massive batteries and 100 watt fast
+charging is not one of those things and
+it's confusing to me because faster
+charging seems like one of the things
+that probably isn't that hard to do
+everyone's doing it now it's well i
+don't think it needs as much
+i mean and maybe this is the
+the neglige or the ignorance of me and
+and knowing about battery tech but it
+feels like one of the easier things to
+do so it's one of the easier things to
+do but in a certain
+uh in first of all in bigger phones
+even if you do have a big iphone the way
+apple does their internals like yeah you
+can do split batteries if you want but
+then you remove even more capacity from
+apple's already pretty small batteries
+and
+it's a little bit of a battery health
+thing too long-term battery health has
+always been apple's bias over
+battery like overall yeah um i think i
+have like a 95 battery health or
+something after a year on my iphone 12.
+they will go so far as to throttle down
+your cpu to continue to maintain your
+battery health rather than have your
+phone be faster true so uh yeah uh i
+think a company like that probably not
+gonna do super fast charging anytime
+soon but they didn't do anything faster
+it's still i think 25 watt peak charging
+which is
+meh sorry feels like they could go a tad
+faster yeah they could go a little
+faster i mean
+literally 120 watts out there
+um so they didn't do that we did not get
+higher resolution cameras
+and
+this is one thing that is uh it's again
+it's it would seem really easy to do you
+can just add if you can just drop in a
+50 megapixel sensor if you want to you
+can just drop in 108 megapixel sensor if
+you want to apple's done bigger sensors
+but they have stuck with 12 megapixels
+i don't know that i feel too strongly
+about this i was looking forward to
+bigger physical sensors because that's a
+different look and that's different
+capability and more light gathering and
+all that there are bigger pixel sizes
+now
+but i don't know do you
+do you find yourself limited at all by a
+12 megapixel camera i mean not on iphone
+it's just they're so good i mean like we
+were just ripping on
+even video stuff before different video
+things from apple and it's just like
+even while we we don't think all of
+that's perfect apple still just clearly
+has the best video out of any smartphone
+out there it's just like kind of not
+even close and when it comes to video or
+just photos they're still at the top
+yeah they started doing something right
+they said something on stage that i that
+made me kind of wince like is that true
+they said i'm pretty sure they said
+verbatim they have the most detailed
+smartphone video and immediately i was
+like well you don't do 8k video so what
+do you mean
+and to do 8k video you need a 36
+megapixel sensor or higher because
+that's 36 megapixels per frame
+but
+apple still with a 12 megapixel sensor
+cranks out 4k video and i think if you
+put it side by side you would see more
+granular small fine detail but if you
+just zoom out and watch the videos side
+by side the iphone's video still
+typically at a high bit rate looks
+better also we didn't even mention
+prores
+but with that high res that impressive
+codec prores is really really good codec
+it's 422 on the iphone you can shoot 4k
+30 prores video straight from the iphone
+as long as it's not the 128 gig model as
+long as it's not the base model because
+that will only do 1080
+i guess because
+maybe you'd fill up the storage too fast
+maybe they're using cheaper storage and
+it wouldn't have written fast enough i
+think it's probably a little bit of both
+um
+but i think yeah at the end of the day
+you put those videos side by side and
+you take the iphone video over the
+jello we 8k video from the samsung yeah
+so
+no faster no high resolution cameras but
+that is uh i don't think that's missed
+as much as it might be for some other
+stuff
+also no high resolution displays this is
+a smaller thing too it's not like we got
+a 2k display on the iphone it's still
+like roughly 1080
+not a huge problem and i put one more
+note down here there's no
+astrophotography mode we have like this
+incredible night sight mode on the pixel
+and we have like night modes on all
+these phones now and there's still night
+mode on for the first time all of the
+cameras on the iphone pro which is sweet
+but it doesn't do like this you know
+amazing astro like see the stars mode
+which uh
+i mean you can they did show me some
+demos that did have like some faint
+stars so maybe they would argue against
+that but i still feel like night sight
+is like next level yeah they didn't do
+that so those are some things that the
+iphone didn't do and as a result
+minor update
+not bad yeah it's funny because all
+those would be pretty minor updates also
+but just like but when you do minor
+updates you want all of them to be
+together so it feels like a major use if
+you'd stacked all those things if you
+had this new iphone update smaller notch
+high refresh rate screen and touch id
+underneath the display
+and the better cameras and a bigger
+battery
+and fast charging
+and high resolution cameras you just
+took away their next five iphone
+releases yeah that's probably true
+but i agree so like if right now if you
+were to say if someone had this similar
+question to the watch if someone has an
+iphone 12 right now and they want to
+just upgrade to iphone 13
+would you recommend it 12 to 13. yeah no
+yeah only i would i mean if you're going
+like 12 to 12 pro or 12 to 13 pro maybe
+like maybe that jump but if you're just
+yeah same phone next generation it's not
+worth it yeah but now you add some of
+these maybe that would be worth yeah
+maybe maybe touch id is that much more
+convenient maybe you wanted to take much
+better photos um
+yeah we'll we'll wait to see when we get
+these these phones in hand we should
+have reviews of a lot of the stuff
+coming up pretty soon which is exciting
+we should have them in the studio asap
+by the time you see this um
+hopefully yeah and i guess we'll we'll
+get right to reviewing them because i
+want to see what that 120 hertz looks
+like i want to see what those new photos
+and videos look like and i want to see
+if that cinematic mode is as spicy as i
+said yeah we need to do some fun
+cinematic mode tests we'll be trying it
+out so stay tuned for all that stuff on
+the channel but in the meantime that's
+been our apple podcast that's all we
+talked about today is apple stuff it's a
+lot a lot of stuff going on this week
+either way
+thanks for watching this episode we'll
+catch you next week in the next one
+peace
+waveform was produced by adam molina we
+are partnered with vox media and our
+intro outro music was created by vayne

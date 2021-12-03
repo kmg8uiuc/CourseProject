@@ -1,0 +1,2165 @@
+all right welcome back to another
+episode of the waveform podcast we're
+your hosts i'm marquez and i'm andrew
+and today i think we're gonna i think
+we're gonna talk about the tesla bot
+in every detail possible there's a lot
+of there's a lot of versions of how you
+can talk about the tesla bot but just
+for those who haven't heard
+the overall announcement that we're
+addressing is tesla had an announcement
+at their ai day where they announced a
+humanoid robot
+and now andrew is if you aren't watching
+the video you can't see but he's wearing
+a a helmet that makes you
+makes you look like a humanoid robot
+oh god yeah i feel like the daft punk
+combo with the with the humanoid robot
+is that's something it's something the
+one helmet the gold that bunk robot
+looks pretty similar to what
+it's much better dress yeah yeah so i
+guess let's uh let's just break down i'm
+gonna start with like how we got here
+yeah how we got here and what it is so
+tesla makes cars tesla's been making
+electric cars with
+air quotes self-driving and driver
+assist for a long time um
+and suddenly i don't know where they
+unveil that they're going to be making
+this like humanoid robot and they they
+show this like sleek slender like black
+and white
+robot with like a head and shoulders and
+fingers and and feet and everything
+and we're like how did we get here how
+is tesla suddenly going to be a robot
+company
+so if you think about it if you go back
+a little bit
+elon
+basically said on stage
+tesla is essentially one of the largest
+if not the largest robotics companies in
+the world if you want to frame it like
+this yeah and of course this is ai day
+and this is you know a recruiting event
+and obviously they're talking a lot
+about the way they do things
+in computer vision and ai
+but
+i can kind of see it because if you
+describe a tesla as a semi-sentient
+robot on wheels navigating around the
+world uh using its sensors mostly
+cameras yeah it kind of makes sense okay
+it's one version self-driving cars is
+one version of applied robotics and ai
+in computer vision
+so okay cool so they make a lot of they
+make a bunch of these robots and they
+happen to be in the forms of what we
+call cars
+but um
+this next form factor of a robot is
+going straight to
+humanoid robot
+and
+they really landed hard on this one
+sentence i kept hearing over and over
+again which is that this robot will be
+able to do things that are dangerous
+repetitive or boring to humans
+and lots of other questions were asked
+by the way of them on stage like elon
+and some of the fellow engineers on
+stage talked about the dojo chip and
+talked about the way tesla's compute
+with the self-driving computer and the
+way they're going to be doing super
+computers and learning in the future
+and a lot of they had the robot behind
+them on stage the whole time so a lot of
+the questions were like a model of it
+yeah yeah a lot of the questions were
+like hey by the way this robot's
+interesting why does have to have ten
+fingers like what's the biggest
+challenge about this humanoid form and
+like do you think this is something that
+people are gonna really wanna deal with
+is there an emotional component to
+making it human shaped and they really
+can find their answers to well we'd like
+this to be able to do things that are
+dangerous repetitive and boring to
+humans
+that's kind of all they said
+and so it the rest was left up to us to
+infer and look i'll be the first one to
+say i'm not a robotics expert a lot of
+people are like
+sorry marquez you're way out of your
+lane talking about robotics i don't know
+i feel like i'm i'm in the tech space
+and this is a tech thing and i have
+feelings about it and
+on top of all this we very recently did
+a retro tech episode retro tech season 2
+all about
+humanoid robots yeah and i learned a lot
+about i mean obviously people have been
+around longer than me and have learned
+plenty about this but about like the
+history of pop culture and people's
+obsessions with humanoid robots just how
+many human robots you you see in like
+from everything from star wars to like
+the jetsons to like just everything
+future facing seems to include some sort
+of human shaped robot
+into like why we haven't gotten
+human-shaped robots today and a lot of
+what we found in all this research and
+all the interviewing i did and what
+eventually the episode sort of
+summarizes is that it turns out the
+human shape for a robot
+isn't necessarily the best shape for a
+robot to actually do things
+and this is this is probably where the
+i'm going to say debate in air quotes
+comes up about form factor so i'm
+curious by the way you've been quiet
+what do you think about tesla unveiling
+a human-shaped robot and saying by the
+way there's probably going to be a
+prototype late next year how does that
+make you feel i mean you just basically
+asked the question that this whole
+episode's going to be about yeah i have
+a lot of thoughts on it um
+i i've tried to to turn this episode
+into it is going to be a rant ramble
+episode um i hope you're already it is
+only going to be about teslabot today
+because we have a lot of thoughts on it
+um
+it's hard to kind of break it all down
+because there's so much that they
+announced by not announcing very much
+yeah um like it's i think the first
+thing i'm going to say is the
+announcement seems extremely optimistic
+and i am
+very pessimistic about what they said i
+think um but we're going to try and go
+through both parts of here
+fairly as fairly as we can and again
+we're not experts um this is a lot of
+just our thoughts as tech people but we
+have gotten to like you said you did the
+humanoid robot episode we went and saw
+boston dynamics and spot and they were
+that whole
+day was fascinating they were talking to
+all of the people at boston dynamics is
+cool they've done all this atlas stuff
+recently i hope we get to go back at
+some point and see that um
+but let's just start with let's do the
+specs of what yeah human or uh tesla bot
+is yeah so okay there it's again a very
+preliminary thing they've given us this
+like silhouette of like a sleek human
+form factor or whatever maybe it looks
+like that maybe not but they're saying
+it'll be about five foot eight 125
+pounds so actually pretty lightweight
+considering all the motors and batteries
+and things you need to have in a robot
+it seems super light it seems like it'd
+have to be some very lightweight
+materials to make a computer like that
+that big and that powerful 125 pounds
+but that's about a human dimension 5 8
+125 sure
+uh it's all sleek white and it's got
+this like black mesh as a head which
+kind of reminds me of like a like a home
+pod like as if it had like microphones
+and speakers at the top but they're
+hidden yeah i mean i think the best way
+to describe it is it looks like a person
+in a white you know those white spandex
+body suits kind of like the green screen
+suits and then it has almost like the
+daft punk helmet it's like full black
+directly over its face kind of down to
+your shoulders i mean it looks so much
+like it that they had this really cringy
+moment at one point where they brought
+this like guy dressed like it in a white
+bodysuit and a black head out there's a
+lot more than it's around it was a long
+time it was way too long to the point
+where like even elon was kind of elon
+the king of terrible memes on twitter
+was like cringing about it he's like all
+right all right we're done uh no but
+it's a it's definitely a human shape it
+has 10 fingers
+it has a 5 mile an hour top speed
+to which elon commented you should be
+able to run away from it
+to which my response was how long can it
+go five miles per hour because five
+miles an hour on a treadmill is pretty
+slow but five miles an hour chasing you
+for hours with unlimited endurance is is
+a different story but he makes the point
+that you should be able to easily
+overpower it or run away from it it's a
+friendly robot
+great we'll just go with that sure
+uh it can lift 10 pounds with his arms
+extended or it can deadlift 150 pounds
+so it's got some lifting power for
+boring so essentially it's humid arms
+aren't very strong but it's grip
+strength and leg strength are pretty
+good sure yeah if you can deadlift 150
+at 125 pounds not bad that's really soft
+uh it's got the full self-driving
+computer inside it's got a screen up at
+the front and it is it is just the
+closest thing to a humanoid robot that
+anyone's announced that they'll be able
+to do
+now when they announce this it's funny
+you see this like cool sleek looking
+robot and who knows if it actually looks
+like that but when i saw this two
+different things came to mind
+one is boston dynamics atlas like that
+version of a humanoid robot which is
+like this very industrial
+incredible looking but very powerful and
+impressive super stocky it's only five
+feet tall but it is yeah thick it has
+like a huge backpack on it's like it has
+no fingers it's just like
+balls like fists for hand i guess sorry
+yeah it's kind of like rubber yeah so i
+pictured that but then on the other side
+of the spectrum i picture like those
+sort of uh dinky like ces you know how
+you go to ces and you see like a
+humanoid robot that like its only job is
+like to hand you like yeah like
+brochures or something yeah it's like
+like an hors d'oeuvres robot or like
+yeah there's one that remember there was
+one that like pulled out chairs or like
+moved chairs around something like
+scrabble or something like that yeah
+they're all just super clunky
+and the only reason they look like a
+human is because they put like eyes and
+a face on it exactly and that
+that is the interesting part to me is
+because robots like that
+become unnecessarily
+complicated and difficult when they are
+human shaped
+now if i'm an optimist i'm thinking okay
+an engineering company a robotics
+company a software company like tesla
+should be able to make a really good
+general-purpose human-shaped robot but
+as of right now there's way more
+examples of the dinky ces robot that can
+barely stand up that can push in chairs
+it's like why don't you just put on
+wheels versus like boston dynamics atlas
+which is about as advanced and capable
+as i've seen any humanoid robot so far
+now here's the uh the thing that can
+separate tesla just before we get into
+the form factor discussion because i
+know that's the that's the conversation
+we probably want to have yeah but the
+the advantage to something like uh what
+tesla's doing is in their ai and machine
+learning and training it yes so um right
+now tesla's cars are all
+mostly uh capable of self-driving and
+the way they do this is they have
+cameras and sensors around the car and
+they're taking in all this stimuli from
+their environment and it recognizes a
+lot of it because it's been trained and
+it has this database of information and
+what it can do is navigate through that
+environment so it sees the road it sees
+the lines on the road it knows where to
+be but it also sees pedestrians and
+motorcycles and trucks and cones and
+traffic lights and stop signs and it
+uses all this information and makes
+thousands of real-time decisions on the
+fly and is able to navigate through its
+environment
+all that decision making and its results
+are uploaded to the point where it that
+information can be used to train the
+next sets of teslas that go through the
+same intersection yeah
+so
+tesla making a humanoid robot with a
+general purpose
+uh
+application in theory we'll be able to
+navigate and train itself and continue
+to
+be trained
+the more of them that are out in the
+world so if this robot's going through
+home depot
+the first time it might get it kind of
+right but once it uploads that
+information it's going to be able to
+learn from that and train it and that's
+going to come back down to the next
+robot that goes to home depot and it's
+going to be better at that same task
+that's the that's the general idea to
+simplify
+yeah and i think tesla you know tesla's
+ai is clearly fantastic when it comes to
+all the road stuff now the biggest
+advantage to that is
+the way it can gather all the
+information on the roads is because a
+car is a thing that a person controls to
+start so they sold these cars that
+people are controlling while starting to
+gather the information on that
+which then they can continue to build on
+build on build on while people are
+driving the cars and then as it gets
+further and further and further it's
+collecting more and more information
+yeah roads are also like there are tons
+of variables on roads but generally a
+road is lined it has very clear markers
+for things like ideas that you have to
+follow anyways because that's just how a
+road works so now it has these very
+specific set of objects that it is going
+to react off of yeah there's like rules
+exactly there's laws and there's there's
+like rules where if you tell something
+to go from point a to point b your task
+is go from this place to this place and
+your set of rules is your guidelines
+exactly it literally has guidelines on
+how to make it to there yeah so you know
+obviously the self-driving is one
+version of applied robotics and computer
+vision but i could see it you can now
+say tesla is
+a robotics company and this ai
+humane robot thing is understandable as
+an announcement from tesla
+the question i've had is
+is it a good idea to make a humanoid
+robot and are they are they so
+optimistic that they can make an
+efficient useful robot in a human form
+to the point where that's a better idea
+than what i think is actually a better
+idea which is
+application specific robots
+dedicated yeah dedicated for each task
+and that's my that's been my toughest
+thing i've seen a lot of really
+interesting comments actually in the
+comments section of the videos and on
+twitter
+obviously i mentioned like maybe i'm
+being short-sighted here but i'm open to
+hearing different versions of people's
+feedback and what they think it would be
+useful for grocery shopping was the
+number one uh well that's a good example
+it was the example given on stage you
+want to unpack that first and then maybe
+later we'll go
+we'll take a couple other like uh yeah
+suggestions yes so uh it's an example of
+a task that is best achieved by the
+human form yep so the couple examples i
+gave in the video were um
+vacuuming for example like a boring
+repetitive task yep
+instead of making a human-shaped robot
+to push around a vacuum
+we turned the vacuum into a robot right
+we have the roomba same thing with the
+dishwasher i just you know obviously you
+can have humans put things into
+dishwashers but instead of making a
+human-shaped
+dishwasher
+it's just the dishwasher is the robot
+and so
+the more of these examples of tasks i
+would want to be taken over by robots
+that i could think of the more i thought
+that thing should just be the robot and
+that's actually a better more efficient
+way of doing it because a human-shaped
+dishwasher is constrained by the limits
+of the human form
+versus just making a machine
+specifically dedicated to cleaning
+dishes and that's all it does it'll do
+it better than any machine would ever do
+cleaning dishes so
+go to the grocery store is an example
+where we're like all right we have this
+whole world around us that is like
+designed by humans for humans we've got
+doors and their handles are at like arm
+height and we've got like parking lots
+and we've got ramps and stairs shopping
+carts shopping carts are like this
+perfect application it's just built for
+a human to use and then that's it
+so maybe going to the grocery store and
+going shopping for food for you is an
+example where
+okay you want humanoid robot to be able
+to do that and maybe you can do some
+other things pretty well but like that's
+one thing it does well
+and the more i thought about that the
+more i'm like
+maybe
+you would just get a dedicated like set
+of robots to achieve that for you before
+a general purpose robot and obviously
+that's me being pessimistic about a
+general-purpose humanoid-shaped robot
+the way it has to balance on two feet
+and walk around and like be waterproof
+in case it rains and like all these
+other form factors it has to walk into
+the store identify the things you want
+how many times you go to the store and
+buy something you didn't even realize
+you were going to get just based on your
+own instinct like that has to happen
+with the robot there's a lot of other
+factors but in theory yeah it could walk
+right in push a shopping cart around
+it's designed for the human form
+grab the things you want put them in
+check out
+drive home whatever it's got to do
+and it could achieve that task in theory
+in theory yeah pretty cool
+um i don't know do you picture humanoid
+robots amongst people at shoprite no um
+i think like
+i mean so my initial thought on that was
+yes i believe there's a way to automate
+that you know with a dedicated specific
+grocery shopping robot i think it makes
+way more sense to have something that
+was on wheels that could go pretty much
+shelf to shelf grab whatever product is
+on the shelf i can see a robot having an
+issue with i mean it's 5a it's not the
+tallest robot in the world i mean that's
+pretty average height but anything
+within the top two shelves that might be
+pushed back i can't imagine it reaching
+back there yep you've got a ton of other
+issues in the sense of if something's
+out of stock what does it do does it
+just continue to
+look for it the whole time or like gotta
+figure out what a human would do yeah so
+my first thought was we have amazon
+warehouses that are extremely automated
+at this point that know whether things
+are in stock beforehand that know where
+to go pick stuff up and bring it to a
+central area where it gets boxed
+together and then after thinking about
+that someone had mentioned this tom
+scott video which
+again how many times can we reference
+this guy he makes the best videos in the
+world they're so informative uh
+if you ever want to be on the podcast
+we'd love you but
+he has this really really cool video
+about this completely automated grocery
+store it's essentially this giant
+warehouse and if you can just imagine
+the center floor being like a chess
+board just squares this huge grid yeah
+and essentially
+all of the groceries are underneath the
+grid and there's specific squares and
+these robots
+go on all the tracks and are it looks
+like this giant beehive almost
+so now they're going to all the
+different um i guess you aisles i can't
+i don't know what the pods maybe yeah
+there's like pods yeah yeah
+goes above it reaches down grabs how
+many items it needs out of it brings it
+up into the robot and now it has
+everything and can bring it to a
+centralized spot to then package all of
+it i think they said by the time i order
+you order it takes about five hours but
+i mean maybe that's kind of long if you
+need groceries right away but that seems
+pretty efficient if you're booking stuff
+in advance and everything yeah it just
+seems to make way way more sense to have
+a dedicated bot doing all that than like
+you said
+if a humanoid robot does that it has to
+drive itself there maybe it gets into a
+car that automatically drives but we're
+not at that point either yet well yeah
+that was my that was sorry to interrupt
+that was number one thing is like
+tesla is already one of the companies
+that has made application specific
+robots if the goal is to have a robot
+drive you around i didn't build a
+human-shaped robot to sit in the car
+that is clearly built for humans and
+hold the steering wheel and drive
+no the car is the robot you get in the
+car whatever you want to put in the car
+the car itself is what's going to drive
+you from pointing to zombie it has the
+sensors it has the capabilities and that
+is the robot so that's why i was
+thinking like yeah that's way better
+than having a human like try to fold
+itself into every different type of
+shaped car that exists in the world yes
+they are generally shaped the same and
+they're shaped for humans but
+yeah that that's what really got me on
+the question of like all right
+how useful is
+a general human-shaped robot and uh
+there's also like the emotional aspect
+of it which someone else so asked which
+was like okay you've made it
+human-shaped is this to elicit some sort
+of compassion or make people less scared
+of it you know if you were in shoprite
+and you saw a human-shaped robot looking
+at cans of peaches versus if you saw
+like
+a spot
+grabbing peaches like would that be
+better claw that yeah like the clock arm
+claw yeah yeah or just something
+something eight feet tall so i can reach
+the top shelf like would that be too
+much for people would they be more
+accepting of a human robot i think that
+goes and that's an argument i haven't
+even really thought of i i will be
+optimistic in the aspect that it is
+created as a humanoid because of the
+world we live in is based on human
+ergonomics and i i totally like
+i'll i'll stay with there the emotional
+aspect i don't think that's i'm ready to
+unpack something like that okay i think
+it has to be way more real to me to like
+elicit enough of a response there i
+don't think we have a humanoid robot
+that's real enough for me to wonder
+like
+that thing is a robot but looks like me
+yeah how do i feel about this well
+here's another one how do you feel when
+you see
+uh i don't you probably haven't seen
+this in person we saw spot when we got
+to boston dynamics and we saw videos of
+spot like walking around new york city
+if you saw spot walking around new york
+city is that too much is that weird
+i want to use a different example than
+new york city because it was used by the
+nypd and i don't i don't appreciate
+really um so what if
+cause it's the whole point is it's
+supposed to be doing tasks that are like
+replacing either humans or other people
+who would do that labor so i'm trying to
+think of like another robot so it was
+interesting because most of the spot
+things were were in situations where
+humans wouldn't really be i mean maybe
+the construction site ones where it's
+just going around and taking uh the same
+service every day surveying um but a lot
+of it a lot of the applications have to
+do with remote work where it could be
+controlled from hundreds of miles away
+or dangerous work where humans wouldn't
+be something like nuclear power plant
+that maybe had a leak somewhere or i
+don't know if they have leaks but you
+know what i mean like something where a
+human would be in danger at i think the
+remote thing was a nice bonus because it
+was like all right there's a
+construction site going up and it's in
+some remote city you're managing the
+site instead of driving up there once
+every week and taking pictures of the
+same stuff to see how progress has gone
+you just sit at home with the controller
+and tell the robot to do it again and
+you can watch it go around it's like
+it's remote just because you can you can
+just have the robot there and you never
+have to send the robot home so
+yeah there's just uh there's a there's a
+lot of advantages to this sort of robots
+replacing
+typical labor stuff it's just a question
+of what's the best form factor for it i
+want to take a quick break we're going
+to come back and talk about the human
+shape because i think this is where it
+gets the most interesting and the most
+juicy and we can have the most uh fun
+discussion so we'll be right back this
+episode of waveform is brought to you by
+netsuite so slow is just right if you're
+on vacation or a sloth or describing
+quickbooks more like slow books and you
+know me i despise slow software so you
+can have the most bleeding edge hardware
+and if the software doesn't run well
+it's basically pointless but now is the
+time to make the switch to netsuite by
+oracle the number one financial system
+because netsuite gives you visibility
+and control of your financials inventory
+hr e-commerce and more it's everything
+you need to grow all in one place with
+netsuite you can automate your processes
+and close your books in no time no
+matter how big your business grows and
+you never know how big your business
+might get so in fact we're hiring again
+at the mkbhd studios and i always make
+sure my important software doesn't lag
+behind 93 percent of surveyed businesses
+increase their visibility and control
+since switching to netsuite so special
+financing is back netsuite is offering a
+one-of-a-kind financing program only for
+those ready to switch today so head to
+netsuite.com waveform right now that's
+special financing at n-e-t
+s-u-i-t-e dot com
+slash waveform netsuite.com waveform all
+right we're back
+so
+let's talk
+let's debate
+human-shaped robots versus
+non-human-shaped robots so this is the
+number one comment i i i was trying to
+like
+figure out from people because my my
+short-sightedness
+is is always coming to bite me i i can't
+for one i can only see smartphones as
+like the end form factor when they
+started folding in half i was like mind
+blown like i can i can't see them being
+injected into our arms or our brains i
+just can't i i'm so short-sighted so i
+only see
+the now so the other half of that is
+robots like
+i get that we want to make human shaped
+robots and they seem really cool but
+like
+they don't seem ready anytime soon no
+not at all and so when i know that we
+have really really good application
+specific robots and they're easier to
+design and create and code than a
+general purpose amazing humanoid robot i
+think we should do everything that way
+that's just my my intuition because of
+my lack of robotics degree and my
+short-sightedness but a lot of
+interesting comments going the other way
+so i wanted to talk about that
+um i actually want to start there was a
+pretty solid
+video that was tweeted at me of someone
+breaking down like a couple examples of
+why we should do humanoid robots so i'm
+gonna toss it to adam you can play that
+video
+hi guys i want to do a very quick video
+i've just seen um marcus brownlee's
+video where he's you know basically
+saying he doesn't agree with the
+approach of making the the tesla bot
+humanoid now first of all marcus is
+fantastic one of the greatest tech
+communicators on the planet so this
+isn't an anti-marcus video but i do
+totally disagree with him on this i'm on
+elon's side on this one surprise
+surprise so marcus's uh argument was
+that you build application specific
+robots okay um and and that could be
+true if you're building from the ground
+up if you're building a car factory for
+example absolutely because everything
+it's a flat surface you've got an empty
+warehouse and you need to fill it with
+things but we are talking about um
+integrating a robot as possibly a human
+assistant into a world that has been
+designed over
+thousands of years to accommodate the
+human form okay so the example he gave
+was he said the dishwasher is the robot
+that's been designed well that's only
+half true because the dishwasher still
+needs a human to interact with it okay
+it'll be very difficult you'd have to
+design some kind of machine that could
+take the dishes out off the side or
+whatever put them in the dishwasher in
+the right place so clearly most
+practically the space between your
+counter and your dishwasher and all
+these things it would need to have the
+dimensions of a human because your
+kitchen was designed for human um
+same with the washing machine this is
+first principle stuff elon musk has said
+what's the best way to solve the most
+problems in one go it's not to build an
+individual robot for every single tech
+application you have in your home to
+replace it so you you have to replace
+every single piece of tech or what you
+do is you work with what we've got and
+you build a robot in the form that is
+most compatible with your home because
+if you had wheels on the bottom of it it
+could go up and down stairs for example
+and yes it does have to fit in a car
+which means it has to be able to bend
+like a human to fit in a car so the
+scenario may be that the robot hops into
+your tesla one day the tesla a robot
+itself drives a robot to supermarket the
+robot has to be able to get in and out
+of the car otherwise you have to
+redesign cars so this is the point and
+this is why i disagree and this is why i
+think the humanoid approach is correct
+thanks guys
+all right so i love that i love that
+we're actually getting constructive
+feedback this is the best part of like
+making youtube videos is you immediately
+get like a breadth of different opinions
+and people who immediately have a
+thought and can give an opinion like
+that okay so i wanted to talk about
+these points for example just real quick
+um
+the the humanoid
+form thing is so interesting because he
+mentions like a dishwasher while it is a
+robot that washes the dishes it still
+needs a human to like load the
+dishwasher and i thought i was like okay
+that makes a lot of sense but what would
+be easier
+designing a robot or designing a
+dishwasher for that matter with like an
+arm inside that can reach out and like
+grab additions to put it in or designing
+an entire humanoid robot that can do a
+ton of stuff
+including loading the dishwasher
+that's my question i think quick
+if i wanted to use the wash the laundry
+version sure i think i could find a
+solution to that a little quicker the
+dishes one is a is kind of interesting
+and i think what's funny is every time
+someone brings up the dishwasher
+scenario is they don't know where the
+dishes are getting taken from because
+it's like well we have to put them from
+the sink into the dishwasher well who
+put them in the sink well then we have
+to put them from the table to the
+dishwasher well who set the table like
+it just like it keeps going back and
+back into these more mundane and mundane
+tasks that i guess kind of like does
+make sense for the humanoid robot but i
+still not fully sold on it but for
+laundry let's say yeah there's people
+are saying the clothes don't need to
+make it into the laundry machine
+i think the easiest way for that is like
+your hamper at that point now has some
+sort of shoot that goes straight to the
+laundry to the the washing machine and
+then that washing machine can transfer
+to the dryer or
+i mean i could totally see and they
+might already have this a two in one
+washer dryer that's gonna come way
+before a humanoid robot can like pick my
+clothes up off the floor i saw that at
+ces and at a certain point like you've
+that's everything right there unless you
+want the robot to take my clothes off of
+me and put them in the laundry i which i
+will put put my foot down right there
+somebody wants to prefer that somebody
+wants that so i could see maybe there
+are people who who have trouble to have
+disabilities where that could be a thing
+there's probably an arm connected to
+your bed or something that could do it
+better than that yeah um dishes yeah i
+agree there's
+there's a it's a tougher scenario but i
+also think in all of these cases
+we are being extremely optimistic about
+being able to have a humanoid robot
+that's controlling it i think one thing
+to talk about
+while our world is set up for
+human sized things i still don't always
+necessarily know if that means
+a exact human i think something with
+potentially four legs has a better
+balance scenario different types of arms
+yeah fingers might not always be the
+best and uh the best for it i don't
+think
+human always makes the most sense for
+all those and probably a lot of those
+could be done and be done better
+with something like spot and an armor or
+something like that yeah lots lots of
+thoughts on that i mean really the
+question might also be there's so many
+versions of this pokemon oh yeah which
+side which side do you want to attack
+the problem at from do you want to
+attack it from the end task side or from
+like the human side
+but the other thing that he mentions is
+uh let's say you want it to go grocery
+shopping for you it has to drive your
+car to the grocery store so it has to be
+able to fit in a car so it has to be
+human shaped to get in the car
+which is true if you don't have a
+self-driving car but if you do have a
+tesla the tesla drives itself so you
+don't need a human-shaped robot it can
+fit in the trunk and then the car drives
+itself so anyway there's lots of like
+back and forth conversation i i would
+like to have but obviously
+sure let's imagine that right there
+where we've already proved that there is
+a way you can do a
+automated grocery store you don't even
+need the robot if your car can drive
+itself if we're at that if we're
+assuming it's at that point where it can
+drive itself already it can just pull up
+and pop the trunk and then the automated
+grocery store is the one loading it into
+your trunk exactly or you know
+shipping yeah scenario the grocery store
+is the robot or the fedex trucks the
+robot so there's a bunch of different
+versions of this but i figured we'd make
+it a little more interactive for this so
+what we're going to do we just actually
+completed is we opened up a discord
+stage event and we had you guys who are
+in our discord server
+talk to us about this exact question is
+the human form factor for robot a good
+idea and we got a lot of really
+interesting responses this is the back
+and forth i was after so i'm glad we got
+to record it just a little asterisk this
+is on discord so this is discord audio
+it's just a bunch of people talking to
+their computers bear with us on that but
+also uh it goes really well and there's
+some really fun there's questions and
+answers yeah it went way further than i
+was ever expecting and it ended up yeah
+it got completely different prices level
+yeah it's fantastic so without any
+further ado here's the discord stage
+event
+uh jay basco18 i just invited you on
+stage if you want to talk about uh
+your comment
+yo how's it going
+good how are you i'm sorry if my audio
+sucks
+that's no problem
+how's it going what's your uh what's
+your idea how you feeling
+yeah i was just thinking of about what
+you said about
+that you don't see
+the robot going to pick up groceries any
+soon but i was thinking that maybe
+you know for that old generation our
+grandparents or something
+maybe it could be useful for them to
+maybe
+you know not having them to
+get up to pick up the mail or you know
+simple stuff
+that
+you know sometimes it's not as simple
+for
+this old vlog you know
+yeah
+yeah so i like i think one of the one of
+the interesting versions of this that i
+heard was uh
+like going to the grocery store or going
+to pick up the mail like you said
+and i do think almost all of those tasks
+could be accomplished with
+not quite a human shaped robot but
+probably more of like a small like box
+on wheels with an arm attached to it
+basically
+and the question is
+do we want it to be human-shaped because
+it's like friendlier or people will be
+more accepting of it like are we willing
+to put in more engineering money and
+dollars to make it balance on two legs
+basically because i think you could get
+away with grocery shopping with just
+like
+a wally robot
+right
+not even a robot but maybe a person that
+you can hire you know you don't need
+that ie technology to do those
+those tasks
+but yeah
+i don't i don't i don't see why it has
+to be human state at all
+yeah yeah i mean even i think the the
+argument for a robot would be it's
+cheaper like you buy the robot once
+instead of having to pay a
+salary you know so i get that people
+want to automate that or give it to a
+robot
+uh i'm just trying to find a good reason
+for it to be human-shaped
+right
+even though maybe we don't need them now
+i guess someone had to do it and
+who better than you know elon musk to be
+the first with the idea you know
+that's fair well we'll look forward to
+it we'll see how it goes thanks for the
+uh
+thank you guys appreciate it yeah
+see you
+all right hr seven oh cool what's up
+dude
+yeah hey can you hear me
+yeah what's going on
+uh hey i'm fine uh yeah so uh i was
+thinking like the entire world
+like we have an entire world that's
+created for the human shape like all of
+the facilities everything is
+like uh it's designed for the human
+aesthetic so if you want robots that can
+do anything and everything like
+we would have to build a world around it
+so rather if the robot is already in a
+humanoid shape we already
+have so it might be easier for a like
+for a wider purpose rather than one
+specific use case
+yeah so i keep going back back to like
+trying to find good examples right so
+one example we kept going back to was a
+grocery store example like
+doors are at the perfect height for a
+human to pull the handle and like a
+shopping cart is the perfect size thing
+for a human to push around on wheels
+and
+it's a valid point like do you need to
+redesign the whole grocery store or do
+you design a humanoid robot to fit into
+that human-shaped task
+and i actually think maybe it's a hot
+take but i think we'd be
+it would be easier
+to make
+a robotic grocery store
+instead of designing
+an incredible human-shaped robot is that
+crazy
+uh yeah but like okay like for example
+you mentioned that we don't have a human
+robot that does the vacuum you have a
+robot a vacuum that's hit its surface
+rover
+so but suppose you want a rover that's a
+vacuum at a dishwasher and can do your
+clothes
+and can
+tidy up and like a bunch of stuff
+so rather than have different robots i
+can do all of that one single humanoid
+robot may be able to do that since the
+ecosystem is already there
+yeah
+i actually think it was it would be
+totally fine to have a bunch of robots
+i think it would be actually probably a
+little more efficient economically and
+physically to have a dedicated like it
+sounds crazy like wow you now you'd have
+like 100 robots in your house and that's
+crazy to have a hundred robots for 100
+tasks but we're already kind of there
+like you have a dishwasher you have a
+you have a washer you have a dryer maybe
+one day that's one robot but like that's
+two robots right now you might have a
+vacuum robot you might have a
+microwaving robot you might have
+you know a tv robot that transfers the
+signal into an image like we have a
+bunch of computers even my thermostat
+right now is a robot
+and uh
+you know there's probably some tasks out
+there that could be
+turned into robot tasks in the future
+but those will also be right at that
+rate but like wouldn't every single app
+like appliance manufacturer and like any
+anyone who makes any device would have
+to become a robotics company right
+i mean would they have to detect for
+that
+yeah good question uh i think we're
+we're actually surprisingly close and i
+think we're closer to samsung making a
+robotic
+like
+washer that can actually take the
+clothes out of your hands and do the
+whole job for you
+than we are to
+you know
+boston dynamics atlas like putting
+clothes in the dishwasher in the washer
+but yeah you know we'll keep an eye on
+it but that's a that's a good that's a
+very common comment i saw on like uh on
+the youtube comments on twitter like do
+we really want 500 robots in our houses
+and
+i don't know we might be closer than we
+think but thanks for a question
+thank you take care
+i think there's an interesting
+aspect in there of like jack of all
+trades master of none um
+yes a single humanoid robot can probably
+do a whole mess of things but i do agree
+with you that like a bunch of tiny
+individual
+i mean we're calling them robots but
+like we said our house right now has
+stuff like that it has a dishwasher has
+a washer and dryer a thermostat like
+nobody's downstairs like i said
+shoveling coal or you know distributing
+oil and making sure all the temperatures
+are correct
+it's kind of like that already i just
+don't think we see it because we don't
+think of it as a specific robot and then
+a single human robot trying to do all
+these different things
+to me feels like that's a
+mighty mighty task to accomplish when we
+have so many things that do all of those
+already
+yeah tom scott had a really great point
+he made a video about actually a grocery
+store robot a robotic grocery store and
+it was super interesting but actually
+one of the best points in that video
+besides the fact that oh my god you can
+make a grocery store robot
+is the fact that humans don't really see
+uh robots until they're roughly human
+sized
+and so you might see you know a bunch of
+little robot shopping carts rolling
+around and think wow that's like 150
+robots but really the entire grocery
+store is one robot with 150 different
+little arms inside doing work
+and so when you think about like uh do i
+really want a hundred different robots
+in my house doing a whole bunch of
+different things
+another way of thinking about that or at
+least just framing that
+is your house is one robot that is doing
+a bunch of things for you already your
+house you know you think about a
+thermostat like instead of
+a a bunch of different objects coming
+together and like pressing the buttons
+on a thermostat to change the
+temperature you can have the temperature
+automatically be changed by a robotic
+thermostat by doing air quotes
+inside the same house
+where it you know washes the dishes for
+you and dries them and dries your
+clothes and like there's all these
+things that happen inside the house
+already so
+maybe it's uh maybe it's just one big
+robotic house instead of a humanoid
+robot walking around inside it
+smart house if anyone remembers the old
+disney channel original movie that uh
+this is goals right there cannon update
+would you i'm gonna invite you to speak
+if you want to come on
+cannot update i can't believe i said
+that incorrectly it was a very simple
+word
+hey what's up
+uh pretty good market so my question was
+like recently we almost lost the hubble
+telescope because
+uh we did not have
+we don't have a human program like a
+space shuttle program that can
+take us to
+any satellite
+so hubble was designed to be
+maintained and upgraded
+and we don't have the replacement quite
+up so could these uh robots
+something like uh
+spacex
+uh
+tesla robot be a good option because you
+could technically
+there won't be enough latency so you
+could technically control it by people
+on the ground and it would have similar
+joints
+as humans
+so in that kind of a situation would it
+be a good option to have
+a humanoid essentially instead of spot
+doing it
+that's a really good question i'm going
+to ask you a follow-up question because
+i'm not as familiar with this but when
+you say we almost lost this the hubble
+uh telescope is it because there were
+things that had to be performed
+in person by a human
+on
+the telescope
+so what essentially happened was
+a hubble telescope has redundancies in
+it and the power unit in there is the
+one that is active now is the one that
+is the redundant one
+and it is fairly common for the power
+supply and stuff to fail
+on there because nothing is designed
+like most of the things are not designed
+to stay in space forever
+so now we are on the last or the
+last fail safe in on the hubble
+telescope so if somebody were to ship a
+power supply up it would have to be
+linked to the existing circuitry and
+then that would become the redundant
+or the fail-safe for the one that is
+already in use
+if that makes sense
+no it does that makes a lot of sense and
+i think that's like the
+i guess the general question would be
+okay now that we know we have this task
+that we need to complete
+um and from what i understand the hubble
+space telescope is pretty old i mean
+it's it's been out there for a while but
+would it be
+a better use of resources to
+modify and improve the telescope itself
+or
+to design a functioning humanoid robot
+to go up there and continue to maintain
+its current design
+and that's
+that's not a question i have an answer
+to just i'm not as familiar with
+obviously the telescope i know it's it's
+been out there for a long time and it's
+probably our most important most famous
+telescope
+but i wonder like uh you know the the
+general question coming down to like do
+you want to redesign the old thing
+to work better in a more robotic way or
+do you want to design a new robot to
+continue using the old thing built to be
+used by humans
+so hubble was like a more recent c bias
+kind of an example however like once the
+james webb telescope gets active that is
+the telescope that would not be in earth
+orbit it would be in a lagrange point so
+fairways away from the earth
+and
+for that you won't be able to just like
+and if you want that telescope to be
+active for like 15 20 years so you need
+some with somebody or something being
+willing to go to the lagrange point
+maintain it and come back or not come
+back kind of a thing
+so do you think though that the humanoid
+form factor is the best to accomplish
+something like that or we see things
+like spot which i mean
+i don't know the exacts of robotics but
+it seems like the the two-legged
+arms and hands form factor right now
+generally has like a higher center of
+gravity and can't lift as many things
+and like spot seems to be something that
+in general use kind of like one of its
+big um
+things they sell for is remote work so
+somebody far away can accomplish stuff
+with the cameras and arms on it so it's
+something
+now space adds a whole other aspect to
+this where maneuvering around space is
+obviously very different but
+would there be something you think
+non-humanoid that would be more
+efficient in space being able to you
+know
+maybe maybe almost like a spider robot
+that can grab onto the walls and
+everything and still have two arms that
+can be used remote to like you said
+replace this uh power supply and the
+wires stuff like that or does a
+two-legged finger
+humanoid robot make the most sense here
+so the reason why i was thinking that
+the humanoid would be
+more easier in the early run would be if
+say there is less latency and you can
+have some an electrician
+uh on planet earth trying to control it
+and then you have one to one finger
+feedback for initial time being till you
+don't have smart robots that is that can
+do things on its own so that is nearly
+important
+right do you think that
+sorry sorry i interrupted
+go ahead quick
+um so it seems like the the finger
+aspect is what you're most interested
+here and i i totally agree like if it's
+like you said one to one finger i
+believe they have surgery robots that
+there's something very similar with that
+where you're essentially putting your
+hands into
+uh
+yeah like a glove and it's reacting but
+i mean you can still put fingers and
+hands onto a robot with four legs or six
+legs or maybe something that has a
+better center of gravity can grip onto
+different things with multiple other
+legs better and is would still be
+considered designed specifically
+for that
+yes so yeah that is essentially where
+that was the only part where i said that
+this would be useful because mostly
+we've designed like spot as i gave the
+example spot would be useful in the
+longer run once it learns or anything so
+it was just like in this quick case
+scenario
+for the next five years that seems like
+could be an option
+but i do agree that a spot would be a
+better option because it is a more
+refined concept of a
+moving structure
+yeah yeah i think and even in the future
+you know as we continue to make new
+telescopes that go further from earth
+and are more less likely to want to send
+a human up to repair
+they should probably be designed to be
+remote repaired
+and not repaired by humans which is like
+a whole another story i'm not about to
+sit out here in an armchair designed
+telescope but that's like uh that's like
+another
+uh general thought is like okay we know
+these things are built to be operated by
+humans and then humans go up and repair
+them but what if uh what
+if we just make them so we never have to
+do that again would that be better
+yeah that would be better yeah so that
+is essentially what i was thinking about
+in the future all right real quick let's
+take a quick break we'll come back and
+we'll talk more about some robots
+this episode of the waveform podcast is
+brought to you by blackvue have you ever
+been in a situation where a dashcam
+might come in handy i kind of wish i had
+one that truck sideswiped me a few years
+ago but before it's too late get the day
+and night protection your vehicle
+deserves with the blackvue dr750x plus
+series cloud dash cams so whether you're
+driving around on a busy road waiting
+for the traffic light to change or just
+parked at night blackvue dash cams have
+your vehicle covered the blackvue dr750x
+plus model features an upgraded sony
+starvis sensor that gives you stunning
+clarity and vivid colors even in the
+most challenging of situations and not
+only does it give you great looking
+footage
+but because of the impressive dynamic
+range you can also be sure that you're
+not going to miss important information
+like a license plate or something like
+that just because of harsh lighting
+conditions so the front camera also
+records at a full 1080p 60fps so you
+won't risk losing information even at
+higher speeds and with blackvue cloud
+you can rest easy knowing you can check
+in at your car at any time and even
+receive notifications on your phone so
+you can go to blackvue.com waveform and
+use promo code waveform to get 10 off
+any blackvue dashcam free shipping on
+orders over 200 bucks so that's b l a c
+k
+v u e
+dot com slash waveform promo code
+waveform
+uh noah
+i invited you up if you'd like to join
+hey is that my level good
+fantastic great audio quest mike
+oh thank you it's a blue spark digital
+um nice
+yeah so
+for hot takes i mean one of the hottest
+takes for robotics is
+you know being able to replace jobs and
+tesla's doing things like with the
+tesla semi right it's being able to
+replace a driver potentially with its
+whole ai self-driving and that driving
+trucks is one of the largest markets in
+the usa
+and uh so if you think about there's
+also a lot of jobs that require not too
+much thinking tasks but a lot of tasks
+with like using your hands and walking
+around like say serving tables at a
+restaurant or like helping out the
+disabled people in the hospital right
+so for any of those tasks which are
+quite a few and there's
+just anyone that doesn't require a lot
+of thinking but a lot of you know just
+general interacting with objects i think
+a bot that's designed like a human would
+be able to fit that role very well since
+you know the world is designed for
+humans it's not designed for a dog
+yeah so i like this this is interesting
+so
+the one is i kind of like the like
+waiting tables
+uh example
+where let's say because in theory like
+all the robot has to do if it's waiting
+tables is it needed to collect your
+orders it needs to carry the plates out
+and back and clean the tables and stuff
+like that
+and it could be shaped like a human but
+it could also be shaped like
+like wall-e or like a box on wheels with
+three arms and it could probably
+accomplish the same thing
+and i wonder is it human-shaped because
+that makes it more easy to understand or
+it's friendlier for people if you're in
+a restaurant and you sit down and
+there's a human-shaped robot you know
+that it's taking your order versus if
+it's a box you don't know what's
+happening
+is that like the main advantage
+i mean that is one part of it because
+we've seen you know when the tesla robot
+came out we saw people referencing
+movies like the terminator right oh
+here's this evil robot that's gonna come
+kill us all but you know another famous
+movie is big hero 6 where you have
+a human-shaped robot that's one of the
+main characters one of the big
+advantages is that you're able to
+empathize with it
+so i think that is a big factor having a
+robot that people can you know empathize
+with or even
+feel comfortable having it in a room i
+think another example would be data from
+the old star trek movies or tv shows
+but uh the other part of it is just that
+you know we are in a
+world designed for humans you know every
+object from you know the doorknob to the
+stairs is made for a human to be able to
+interact with so
+i think having a human-shaped robot
+while we might not be able to think of
+any single example having something that
+if you wanted a robot that could adapt
+to any situation
+when it comes to just general day-to-day
+activities then i think a human-shaped
+robot would be ideal for that
+yeah i think a key word you used was
+adapt so
+i remember when i was talking to elon in
+in the interview we did i put the clip
+in the video actually um where we were
+talking about the factory and like what
+are some things that robots do in the
+factory versus like what humans are
+doing because there's still humans
+working in the factory yeah and then the
+example he gave was like oh you know
+maybe just connecting two hoses together
+and so there might be a hose on the left
+and a hose on the right and then tell
+the human to connect them and they just
+grab one grab the other put them
+together
+and a robot's like decent at that once
+but then if the next time the hoses are
+in different places the human just knows
+to grab them again and the robot needs
+to like figure it out again
+yeah and i wonder like what level of
+adaptability is possible from these like
+impressive
+machine learning computer vision enabled
+robots that test this building and can
+actually be like how hard is it going to
+be to make them as good as a real human
+because i love the idea
+but it seems like that is
+equally as difficult as redesigning
+parts of the world we live in
+yeah and i think the solution or the the
+answer to that question which none of us
+are going to be able to say for now
+uh relies more on the software of the
+robot rather than hardware like
+tesla's building one of the largest
+super cute computers in the world just
+for ai and once they solve self-driving
+what will they be able to train ai on
+could you create something that could
+say hey google make me a cup of coffee
+right would we be able to do it i don't
+know but it will be very interesting to
+see that in the future
+yeah do you think about like how many
+variables there are in the real rest of
+the world versus self-driving because
+this is one of the things that came up
+in our talks was like all right
+driving a car there's a road there's
+lines on the road and then there's maybe
+like a dozen things you're going to
+encounter a bunch of times like there's
+other cars there's trucks motorcycles
+bikes pedestrians stop signs street
+lights
+and then you kind of like you've kind of
+done it
+you solve self-driving
+but
+make me a coffee you know there's
+there's one task you recognize the
+coffee and there's a bunch of things
+there but then there's like hey grab my
+headphones downstairs doesn't know what
+headphones are does it need models of
+that and then it's hey go grocery
+shopping and there's just this massive
+list of
+way more stuff to learn
+and you know if i can do it it's
+probably tesla but i just i'm curious
+that's a factor
+yeah and i think the thing about will be
+able to identify my products
+i think that's something that we're
+already seeing
+these programs being able to solve
+because if you go into like if you look
+at what ai is doing when you go into
+google or anything you can say give me a
+picture of a cat and there's ai that
+will actually be able to give you
+pictures of cats that have not been
+taken ever you could say here's a
+picture of a sunny beach
+so to say that there's an ai that could
+say hey get my headphones and it would
+be able to know what your headphones are
+and be able to identify them i think
+that's something that we already have
+but on the matter of you know how hard
+is it to do day-to-day activities versus
+how hard is it to drive a car
+i mean i kind of wish that i
+knew more about ai just to answer that
+question because it's like
+you know every one of us humans
+is able to do human things easily yet we
+need to train and get a license to drive
+a car so does that mean that driving a
+car is more difficult than walking down
+a set of stairs or does that just mean
+that we're really good at walking down
+sets of stairs and i'm pretty terrible
+relatively at driving cars
+and i don't know but i'm really excited
+to see
+what happens because
+you know ai wasn't really a thing that
+normal people could access what 10 20
+years ago and now we already have things
+that are able to generate images to find
+objects and self-drive your car so you
+know 15 years from now it's going to be
+pretty swell
+yeah i like the optimism i think that's
+the best the best way to look at it is
+like we've gotten this far and it's
+funny like there's even still some cases
+where i'll like ask google lens what
+type of sneaker i'm looking at and it's
+like that's a blender and i'm like no
+not not at all
+but yeah it is really inspiring yeah
+it's inspiring when it gets it right so
+i like i like the optimism noah
+thank you and uh i like your videos i
+must say
+thank you appreciate that thanks for
+coming up
+yeah no worries have a great day don't
+forget to drink water
+i think we have one
+one more
+all right i have one more somebody in
+here said
+let's see i have mind-blowing thing you
+should hear no one has ever thought
+about for a humanoid robot so i think i
+can't not invite this person up to talk
+so let's uh we're gonna do our last one
+here i think because we need to this is
+all going to go into the podcast um and
+we talked about a lot of stuff before
+and we will talk about a lot of stuff
+after so we can't do too too many uh but
+specified knoll i'm gonna invite you up
+is these are big shoes to fill no one's
+ever heard about it so let's see
+uh hello thanks for inviting me
+uh you can hear me is it clear um it's
+good thanks um so i had a really great
+idea that i have been thinking about for
+a while
+and that is okay so you know for tesla
+cars they replace humans to drive so you
+can use the car
+you don't have to do any input and you
+can drive it it's like a tool for humans
+now
+humanoid robot um okay let me put it
+this way our bodies are kind of a
+transport for our heads
+basically we live in our heads so now we
+can uh you know transplant arms limbic
+arms or legs we can transplant hearts
+but not yet entire bodies so i would say
+this is a great experiment that if this
+robot can walk properly can navigate can
+do everything that we can do
+and then at some point let's say we get
+old we get 90 years old our body is old
+but not our brain our brain still works
+if we could somehow
+do like
+a surgery that removes our head without
+us dying and put it on a robot
+that can you know
+pump blood to our brain give us food
+so we don't have to eat actually we
+don't have to drink
+so the robot does everything we just
+charge it and give it like supplies so
+it supplies food and water to our brain
+and then we can walk we can navigate the
+world and we can change our bodies just
+like the movies but like
+this is required just like the cars they
+need to
+drive a lot around the cities and town
+to learn
+we need a robot learn how to navigate
+the world we need a robot that can do
+that and then we can transplant yes this
+is for the future like
+maybe the next hundred i don't know 10
+20 50 years that we can actually get
+bodies for our brains because basically
+our body
+is a trans
+transport for our heads like we eat to
+supply food to it and then we have legs
+to walk we have hands to do things
+basically we only need our brain
+man
+eat that that is a very valid point our
+our body is a transport vehicle for our
+brain our brain is the most important
+organ according to the brain anyway
+um
+no i'm with you okay so here's another
+question then so you need to somehow
+connect
+the brain and all of the systems the
+the breathing system the
+the the blood and the oxygen going to
+the brain and everything so that all you
+need to do is just charge it
+um
+what did you forget to charge
+well okay so basically that's where
+neuralink comes in place neurolink helps
+the brain to connect to computers
+so you can you know control your arms
+your legs even you can replace your eyes
+have high resolution eyes you can see
+further you can see anything you can see
+your emails you can you don't even need
+a phone they can like literally connect
+to the world and for the foot part
+basically the robot needs two supplies
+one is charging for the batteries the
+other supply is like imagine like having
+like a small sack of bowls that one of
+them is oxygen the other is food so you
+just put it in and then it will have a
+supply of oxygen for months for your
+brain and you can choose what you want
+to eat for your brain today you can
+like insert
+something that will pump that food and
+oxygen and supplies and nutritions to
+the blood that is a small stream of
+blood it just goes to the brain and
+recycles it and cleans so you don't
+actually probably need to breathe
+anymore i guess
+what about uh what about a nervous
+system because i i'm with you on like
+okay attach my brain to a humanoid robot
+what about like feeling things like i
+can move my hands and i can pick things
+up but can you still uh are there enough
+sensors out there is the tech good
+enough to replace a nervous system well
+at the moment probably not we don't know
+much about the brain but i'm sure elon
+what he's doing with the neural link
+if he can successfully connect the
+entire brain interface to the body
+including controls and sensation
+feelings
+um vision hearing everything we probably
+just could take the brain out not the
+head
+just the brain in a safe container
+like in the head or it could be anywhere
+in the human robot maybe in the chest
+and we can go anywhere because we are a
+brain that is connected to you know
+our bodies to take us go around we
+probably could do that
+okay so
+you've heard of the you've heard the
+simulation argument where like
+if you advance technology sufficiently
+far enough into the future our
+simulations get so
+good that they're indistinguishable from
+reality and we may or may not be in a
+simulation already
+do you ever think about
+this
+as a uh as a future argument for this
+like are we already humanoid robots
+are we already there we do do do we do
+it already
+we could think about this all day there
+could be another world they could be we
+could be in a simulation or not but
+doesn't matter what matters is the
+reality we are in either we are in the
+simulation or not and there's no way
+probably to prove it but that's okay
+what matters is we look in the future
+and what we can do for the humanity
+right what we can do to improve and what
+is
+the most important thing is our lifetime
+and it's limited right people have
+thousands of years have been trying to
+you know extend human life but nobody
+could have done that until today
+we have the technology it's just a
+little bit we're you know we're almost
+there we just need to understand the
+brain and be able to connect it to our
+bodies and at that point it's important
+like you said it's important that we go
+to the right direction we don't go to a
+matrix and stack all the people into a
+computer we have to build a better world
+and that's where it starts today i
+believe
+i agree we are so far off topic and i
+love it it's great
+uh i thank you thank you for the
+for the thousand foot view i think that
+was that was a useful way to probably
+end this
+i'm gonna know everything i thought it
+was useful
+yeah i'm gonna be thinking a lot about
+whether or not i would like my brain to
+be connected someday to a sufficiently
+advanced robot with the right technology
+yeah sure because you know our minds
+probably only see the current situation
+we see the robots as they are we need a
+vacuum robot we need robots for grocery
+shopping but what we don't see is the
+far future the next
+10 uh 20 at 50 years from now or a
+decade so that's the future we're
+building towards and we have to be able
+to you know imagine or visualize what's
+going to be the world in hundred years
+another another use case scenario just
+remember is like for as of right now
+before we get our olympic bodies uh
+uh robotic bodies we can use these
+humanoid robots uh to learn to navigate
+uh you know disasters
+earthquakes um hazards that
+no robot could you can't send a vacuum
+robot there to save people but this
+human robot can it can drive a fire
+truck immediately like we need help all
+the people are down everybody needs help
+so it can drive cars it can take you the
+car not all cars are self-driving
+not all hospitals
+uh have equipment that can be controlled
+by computers we need those people to
+take care of people at hospitals
+or people that people need care you know
+when we need people old elderly they
+need care like it's not just all robots
+can
+do all their needs for them we need
+someone that can care for them help them
+in case of emergency they need to go to
+hospital all right sure let's let's go
+pick up the car keys i'm gonna drive you
+to hospital that that robot's gonna do
+for you gonna save your life
+yeah i think that the one thing i see in
+that is like that sort of makes the
+humanoid robot a
+a middle
+like a stop gap in between technology of
+the future
+like you say obviously hospitals today
+aren't all robotic and cars and fire
+trucks and ambulances today are not
+self-driving so until they are
+we should make an a sufficiently
+advanced humanoid robot that can fill
+the gap of things humans can't quite do
+until we get to that better day where
+all the ambulances are self-driving and
+we can send like a wally shaped robot
+into the rubble of a disaster to help
+save people like we need this this in
+between and if we get the humanoid robot
+right
+quickly then it can fill a gap until
+tech of the future is amazing
+sure exactly exactly and until then
+hopefully this robot will be able to
+walk and navigate the world just like
+humans just like tesla cars can drive
+now they can navigate until that day
+probably those robots will be able to do
+most of the things and then
+hopefully by then a neural link will be
+able to link our brains to them so we
+can actually walk we could be at home
+and control a human robot remotely so we
+could be anywhere in the world we can
+connect to any one of them and
+experience the world just as it is
+perfect i might be internet by being
+controlled from home right now who knows
+awesome hey thank you so much for uh
+thanks for chiming in we appreciate that
+i think that's true
+i appreciate it thanks for having me
+have a good one
+you too have a good one take care all
+right thanks
+all right well that was incredible uh
+i think that's what we're gonna probably
+cut it that was a nice existential way
+to end this i want before everyone
+leaves this discord room i want everyone
+right now wherever you're sitting
+to picture
+that you are just a remote controlled
+human-shaped robot being
+being controlled by someone else
+somewhere you are ready player one i
+just want everyone to have that
+that vision right now look down at your
+own hands is it real what's even real
+anymore all right well
+that went
+better than expected didn't no i don't
+know if i expected to
+look down in my own hands questioning
+reality but i ended up doing that
+because maybe i am a humanoid robot
+after all um wow human after all is a
+song by daft daftbunk which is the
+robots dang that is deep whoa there's no
+such thing as a coincidence whoa okay
+well anyway
+i think just to put a bow on this
+the uh the last thing that made
+headlines from tesla's ai day when they
+talked about this robot we did get elon
+saying uh there might be a prototype by
+the end of next year i think he said
+that's what he said 2022 yeah um now for
+anyone who's ever heard elon announce a
+date on stage we already are just gonna
+go ahead and assume that that's not
+happening not at all uh but
+you know seeing seeing what we know
+about these ces robots and what we know
+about boston dynamics atlas if you were
+betting when do you think you would see
+realistically a tesla built humanoid
+robot that learns its way around the
+world and is actually somewhat useful
+and also like
+doesn't fall over that's like that
+people are using to actually accomplish
+tasks and it's doing things by itself
+like you ask it to do something and it
+does something yeah because you know i
+mean even at the base level i'll be dead
+by the time that yeah i mean we don't
+know what coming out means like i i
+assume
+so like that could literally be anything
+sure yeah it could just be a prototype
+that have somewhere like a model the
+tesla roast is a prototype too like
+whatever but like eventually it's gonna
+come out and does that mean it's gonna
+be a retail purchase for humans like
+you'll be able to buy one for your own
+house i have no idea where we're going
+with this particular robot but when do
+you think we'll see a functional
+functional humanoid robot that does some
+of this stuff
+if i'm taking
+so like can we agree we've said it
+already atlas is the closest thing we've
+seen
+to you and i have seen right it's the
+most advanced humanoid shaped robot i've
+seen yeah and it is
+not even
+a fraction of what
+this tesla bot seems to want to
+accomplish it's not as graceful
+it is not really it doesn't have fingers
+it's much shorter it's much stockier
+like that would not fit into a car it's
+much louder yeah it's it's basically
+mostly
+running around itself i mean even boston
+dynamics i don't think is called
+anything other than research and
+development like as far as i know they
+don't have a specific plan for it yeah
+it's not coming out and that is
+you know they've been in the game way
+longer than tesla has in terms of the
+actual building of robots we all agree
+tesla's ai and software is fantastic and
+like totally makes sense for something
+like this but if i were betting like
+like i said i'll be dead by the time
+teslabot comes out and
+is doing
+you know if it goes for sale for sale
+and people are actually buying it
+i mean
+yeah i can't imagine this is something
+that has to fully rely on it tesla cars
+when they release full self-driving and
+stuff and people are paying for it the
+car still works as a car in that process
+this robot can't be
+used for anything unless it's working in
+that scenario so it has to be fully
+fleshed out at that point i
+at least 50 years i think we're going to
+still alive i think we land on mars
+before we get the robots working to an
+acceptable level but i don't think
+that's 50 years out i think that's close
+so i think this is a kind of an
+interesting thing you mentioned about
+stop cap robots is we're so far out of
+this
+do we have the technology for it to do
+to be a stopgap robot or are we further
+along in all the other technologies to
+be have these more individual
+automations
+before
+yeah the
+the humanoid robot is doing all of them
+i think that's the that's the best thing
+that i got out of this with all of our
+conversations we've had about the robots
+and with all of our back and forth and
+the discord stage room and the comments
+on twitter and the videos i think the
+best thing
+that i see from these robots
+is if we can make a pretty good
+general purpose robot whether it's human
+shaped or not let's ignore the human
+shape just a pretty good general purpose
+robot
+i think that robot would be pretty
+useful as a stop gap between
+when we actually get everything else to
+be robots so we were talking about like
+obviously you want to be able to drive a
+fire truck into a forest fire and be
+able to like put something out from the
+middle and you don't want to send a
+human in there but since forest since um
+fire trucks aren't self-driving you need
+something else to drive the truck like
+before before that is a self-driving
+fire truck maybe there is a humanoid
+robot driving it and that's like
+self-driving
+self-driving fire truck way before a
+humanoid robot can do it because we have
+self-driving i mean that's true we
+basically have self-driving cars already
+that's right and then for a fire truck
+listen that i have a lot of family
+members who are firefighters it's it's
+very hard but like in general you could
+probably have a fire truck that has a
+hose attached to it that's that's
+controlled also by the same sensors and
+stuff there's way more to it than that
+but i still just don't think the
+humanoid robot is coming and doing the
+job of a firefighter or driving a fire
+truck yeah stuff like that i think i
+think the aspiration is really admirable
+like oh yeah people picturing it as like
+waiting tables at a restaurant or like
+just doing simple things for the elderly
+like collecting the mail and bringing
+them the milk from the delivery outside
+like very simple you can't talk about
+humanoid robots and also still talk
+about getting milk delivered
+simple stuff like different worlds i'm
+just saying you just in this world where
+we wanted to do very simple basic things
+for sure having one robot just to go get
+the mail
+is maybe
+less desirable than having one general
+friendly human-shaped robot that does a
+bunch of these everyday tasks
+and so i think if that is the aspiration
+of something like teslabot cool i hope
+i'm optimistic i at least i want it to
+go well i'm not necessarily
+betting on it going well but i'm hopeful
+that we do get something like that
+uh to actually be friendly and useful
+but maybe when we're old we we will
+revisit this
+if it comes out and you and i are
+elderly and need help getting our
+laundry picked up and and mail taken and
+we'll we'll come back we'll do another
+podcast episode if the tesla bot comes
+out before
+2030
+then i will
+i will let it slap me across the face
+yeah same okay same i will tell it to
+slap me across the face to its face
+that's about it that's where we're gonna
+end it
+this is a wild episode if you're this
+far
+kudos to you thank you for listening
+appreciate you uh yeah that was a that
+was a lot it's a fun one we'll be back
+next week i'm sure there's a lot more
+tech coming out i mean it's that time of
+year it's going to happen so uh yeah
+stay tuned for that see you guys in the
+next episode definitely subscribe to the
+studio channel to the clips channel and
+to the main mkbhd channel while you're
+at it we'll catch you guys
+in the next one peace waveform was
+produced by adam molino we are
+partnering with studio 71 and our intro
+outro music was created by vain silk
