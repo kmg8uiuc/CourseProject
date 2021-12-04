@@ -1,0 +1,2569 @@
+hello hello welcome back to another
+episode of the waveform podcast we're
+your hosts i'm marquez and i'm andrew
+and today we've got david and mel with
+us as well for another special deep dive
+episode i'm gonna say uh keep your
+optimism hats on for this one but also
+there's a lot of nerdy stuff and a lot
+of space talk take it away david all
+right
+so you guys heard of the space race of
+the 1960s well we're in 2021 and today
+on the show we've got a new space race
+for you a space race that you haven't
+probably thought about before
+stick with us
+nasa's space shuttle program was a
+shining new phase in america's journey
+to the star kind of a curious mix of
+science
+business and self-aggrandizement for a
+very small billionaire class in part
+because as i said this is the first time
+that we're going to see a launch from
+american soil in almost 10 years time
+five four
+three
+two
+one
+zero ignition
+lift off so i'm about to bring you guys
+into a deep rabbit hole of exploration
+mind blowingness and uh space stuff as
+we all
+you know we all like space stuff i just
+want to say space is like probably my
+favorite category i don't get to talk
+about yeah anytime we do space trivia
+i'm all over it yeah anytime we get to
+talk about space in any way all of my
+like fourth fifth sixth grade like
+reading way too much about space comes
+up so i'm excited this will be
+interesting because there's a lot of
+space trivia in this let's see it all
+right i'm ready okay all right well
+first question i got for you guys uh do
+you know what satellite internet is
+just on a basic level yeah how does that
+work um
+well as far as i can tell there's a
+bunch of satellites in space
+and there's a bunch of data centers on
+earth
+and when people request information from
+the internet
+it pings one of the satellites that's
+sort of geolocked over them right and
+then it goes down to a data center and
+then it goes up the sidelight goes back
+to the person
+like that assuming similar to like
+satellite television
+yeah uh data transfer through wireless
+waves pinging off of satellites but
+that's like the total basis of my
+knowledge on that right right okay well
+so as of as of 2018 um
+how many people would you say
+didn't have access to internet in the us
+and globally
+didn't have access to the and we're
+saying like access in their homes right
+like
+general action yeah it doesn't count a
+go to starbucks or something like that
+yeah right most people have yeah most
+people have access to internet you said
+2018 yeah i would i would be estimating
+90 of the us has access to the internet
+i guess 80 has access
+okay so as a 2018 about 14 million
+people in the us didn't have internet
+access at all okay and 25 million people
+didn't have broadband access or faster
+so that's like like
+internet you need to do video calls you
+know there's we've got a pandemic going
+on the stuff you need to do
+school with you know that's like a
+pretty
+sizable percentage i mean just because
+you have broadband internet doesn't mean
+it's great internet right either there's
+some difference between like having
+speed and consistency as well right it's
+about four percent yeah okay so that's
+just the u.s though yeah um
+think about how much of the world
+is online
+yeah so it's a much bigger difference
+around the world there's lots of areas
+that are coming online now which is
+really exciting
+um
+but yeah it's definitely probably like
+60 percent of the world 70 of the world
+has internet access
+but it's it's not as good as certain
+individual countries right you have a
+guess andrew
+you know i was very off for the us so i
+feel like
+uh 70 75
+has access okay worldwide yeah you guys
+you guys are close marcus got it
+perfectly right actually immediately uh
+about 40 of the planet isn't online yet
+okay that's a lot of people yeah 40
+of the entire planet uh more than three
+billion people still don't have access
+to internet three billion it's a lot of
+people right
+um and at this point like in 2021 the
+internet's like become this essential
+utility for
+everything that we do like you think
+about youtube you can learn anything you
+can learn any skill you don't really
+need to go to college anymore you can
+kind of learn whatever trade you want
+you know
+um and even if you go into a store and
+you want to apply for a job
+most of them will say like oh apply
+online apply online right you know it's
+it's ridiculous it's crazy i was
+thinking about sorry i'm interrupting
+but the beginning of this pandemic where
+i was like all right the whole world
+around us is changing but what if you
+just like emerged from your house with
+no internet how long would it take you
+to find other context clues to alert you
+about what's happening right and there
+was like road signs that said like
+things about covey and there was like
+people started wearing masks more in the
+airport but
+unless you looked it up
+it would be hard to know it's kind of
+like um it reminds me of this story
+about war of the worlds there's this
+thing that happened in new jersey
+affiliated stations present orson welles
+and the mercury theater on the air in
+the war of the world by h.g west where
+they were playing the war of the world's
+radio show in new jersey but they had
+like a public service announcement that
+was going over that was like taking over
+the broadcast
+so it skipped the whole part of the
+public service announcement where it
+said by the way what you're about to
+hear is not real yeah and they played
+their all the worlds and there was a
+total public freak yeah everyone was
+everyone actually thought aliens were
+invading so it's crazy it's like
+everyone goes online now they say like
+oh my gosh was that an earthquake you
+know every little thing we instantly
+have access to this internet so
+wouldn't you agree that satellite
+internet the idea that these satellites
+can you know orbit the planet they can
+kind of reach everywhere right there's
+40 of the earth that's not online
+and because satellites can orbit the
+earth if you get enough of them you can
+kind of get internet anywhere you on the
+planet do you agree that that's a pretty
+good thing overall
+seems like a good idea
+the way you're asking that's like a
+shooter's life seems like how a podcast
+would start
+am i baiting you let's see i mean yeah
+in terms of infrastructure and
+everything that obviously would make the
+most sense because you're not actually
+establishing an in the ground
+infrastructure yeah in hard to reach
+places right and the world's been
+changing people are working from home
+there's nomadic and creative economy
+lifestyles and like if people can kind
+of just have the internet they can kind
+of work from anywhere so it seems great
+um have you heard of starlink before yes
+yeah yeah i heard that sort of floated
+around i think i know a couple of people
+on twitter yeah whoever who have
+starlink internet give a quick
+explanation of what you believe it to be
+um starlink is an elon musk company
+and uh they're putting a bunch of
+satellites in orbit and
+giving people
+starlink internet essentially and i
+don't know if it's any better than
+regular internet other than just being
+accessible in more places but yeah
+that's about all i know
+yeah so so the
+older satellite internet satellite
+internet surprisingly has been around
+for a very long time yeah i uh showed
+you guys where i grew up yesterday the
+middle of absolute nowhere smartville
+california and
+we had what was called hughes net at the
+time and that was way back in like the
+early 2000s right houston that's been
+around since like 1996. satellite
+internet's been like a an idea for a
+while um but those satellites there were
+very few of them and they were in what's
+called geosynchronous orbit which means
+that as the earth rotates the satellite
+is at a position
+uh in orbit where it's rotating with the
+earth right right
+so like that's good and bad it's good
+because as long as you have a clear view
+of the sky you can consistently get
+internet right
+but
+when something is further away there is
+this law called the inverse square law
+and it kind of relates to both like
+light and data transmission and all that
+stuff basically the further something is
+away
+to an nth degree weaker the signal is so
+if you're in geosynchronous orbit it's
+higher up in orbit which means it stays
+with the earth but the speeds you're
+getting are not that great right you're
+like getting pretty slow like it's not
+even dsl
+um and they have over the years like
+companies like usenet have been able to
+like get faster speeds but they're still
+not that fast like they're still slower
+than most data connections
+so starlink
+is kind of this
+new company that like you said was
+launched by elon musk that is trying to
+make satellite internet much more
+readily available and it's supposed to
+be much much faster
+he wants it to be able to be like you
+can game on it
+which means like you they want latency
+that's like 1ms like 10ms is like what
+they're aiming for right now with the
+latency and then they want gigabit
+internet off of satellites i want
+gigabit internet it sounds great yeah
+that
+that's cool because yeah it's cool
+because you have a little dish you can
+carry it around with you anywhere
+you could just be in your you know
+camper van in the middle of the woods
+and you could get gigabit internet and
+it's kind of amazing right like sounds
+like a great promise yeah yeah yeah
+exactly it's one of those things where
+like we have wired internet right now
+and
+everything you said doesn't happen like
+yeah
+the best i've ever had is fios like
+800 or 900 down but even like
+playing games like valor and pinging to
+an east coast server we're on the east
+coast it's like 20 to 30 right yeah and
+like one ms is in
+or it's sounds like 10 is what they're
+aiming for even 10.
+i don't think i've ever seen 10 ms ping
+any game i've ever played in my life
+yeah so so the project's actually been
+around for a while i know you said you
+only kind of recently heard of it it's
+only because it's starting to just
+recently start percolating and like get
+online
+it actually was uh announced in 2015 the
+project's been in development for quite
+a while but they only got the first two
+beta tested satellites up in 2018. okay
+so it hasn't really been in orbit for
+that long um
+and after they tested those satellites
+they actually got
+they were able to move more satellites
+into even lower earth orbit so something
+i should explain here is that the reason
+starlink can be so fast is because they
+are in a part of orbit called low earth
+orbit which means they're much closer to
+earth
+but because they're much closer to earth
+they move really fast they're not in the
+orbit where they're turning with the
+planet they're not rocketing across the
+sky right okay so does that mean when
+you're on the ground you're going to be
+switching between satellites over and
+over again yeah they kind of create this
+big mesh network cool and when they work
+always work yeah right
+right
+yeah um and when they launch them up
+there they deploy like 60 at a time and
+it's really interesting you can kind of
+see these like these chains of starling
+satellites that are just going across
+the sky together
+and it's really interesting but when you
+have satellites that are shooting across
+the sky that fast you have to put a lot
+more of them up there because obviously
+like you said you're going to lose
+signal quickly and like yes because of
+the inverse square law and because of
+advancements in internet technology we
+have like way faster internet from them
+now
+but you're going to
+try to keep linking to new
+locations constantly this is reminding
+me very much of 5g
+millimeter wave every time you hear
+about these millimeter wave towers and
+you walk by one on the street and you
+get
+one millisecond ping and a gigabit down
+and then you keep walking you've got to
+find the next one otherwise you're not
+connected it is it is very similar to
+that idea right yeah yeah yeah
+oh
+wow so those are that is one
+constellation of starling satellites it
+looks like have you ever played snake
+dot io yeah yeah yeah it looks like that
+you can just see them like stars movies
+yeah yeah yeah yeah so this
+this kind of like gets into this whole
+thing right this is quite interesting i
+mean for audio listeners it was
+basically just
+it looks like if just orion's belt was
+even closer together times 20 and just
+like moving across the sky yeah that's
+fascinating so those were the first 60
+that got deployed in may 2019 okay okay
+so like they they send up this pod and
+then as they get into orbit they just
+start deploying
+and all of a sudden you've got this
+constellation and they're all kind of
+linked together in the smash network
+shooting down internet
+game time
+how many satellites would you guys say
+we're in space right now
+how many satellites are in space yeah
+like wow space are orbit or just space
+in general space most of them are in
+space there's a lot of dead satellites
+that are just like yeah just falling out
+of orbit or just kind of you do know a
+lot of fun facts about space yeah um if
+i was guessing how many there are are we
+assuming we're the only intelligent life
+i think so i think that's fair because
+it's not okay in earth orbit
+currently in earth launched from or
+earth
+yes everything launches from earth yes i
+think this is the lodge from mars i love
+all the feathers i'm saying you know i
+think there's probably um
+400 satellites 400 in earth's orbit okay
+any guess i make is just completely
+blind
+i'll
+august 401
+um how many would you say have ever been
+launched in history altogether
+satellites
+oh
+i guess i just assumed when they break
+they just stay out in space and i was
+counting them so that used to be how it
+works okay they like come back they
+can't even some can now fall yeah
+let's go with 800 ever so 400 now 800
+ever yeah okay it's probably like a like
+one of these curves like this yeah like
+for the last hundred years not very many
+than a couple hundred years because we
+didn't launch very much yeah and then
+then we just started getting all of them
+and now half of them are out of orbit
+yeah that's my guess okay so
+uh
+12 020 have ever been launched
+okay that's a lot more than 800. yeah
+and that is that is like
+that has been bolstered very recently i
+will say that uh
+7520
+are still in space right now i was
+closer
+wow 7 000 okay and for about 4 500 are
+active so almost half of those that are
+in space are not doing anything right
+now right
+um and those are all numbers from august
+21 2021 according to the european space
+agency who kind of keeps date on this so
+it's very very very active only a couple
+months prior when i was doing this uh
+initially it was only about 6 000 in
+space as of like the beginning of the
+year
+so that's been a lot and if you
+especially when you consider that 12 000
+have only been ever launched and in only
+a few months yeah 1 12 of that has been
+accelerated right
+all right you know where they're
+launching from
+i think like
+cape canaveral or something
+um yeah i'm not entirely sure
+specifically where but i know that
+they're usually around the equator
+okay so wherever they do launch from
+it's probably it just seems because you
+said earlier six thousand now there's
+seven so that means a thousand of them
+have oh but it's like a positive since
+january yeah it's not like each
+individual launch
+no each individual launch is about sixty
+seven okay so they go up together wow um
+still a lot of launches in a couple
+months okay yeah so so starlink um
+decent part of this uh how many
+would you guys guess that starlink is
+trying to launch right now as sort of
+part of their little network
+well like a golden
+and like that they're going to like they
+have authorization
+i'm guessing they want it next year
+like two years basically
+they want to finish the job they want to
+like cover the entire earth and
+and have this whole thing available for
+everyone on earth
+i guess that's the goal right yeah cause
+i mean it's they have to have sort of
+this mesh network they're moving really
+quickly right you know what would your
+guess be maybe they want to double it
+maybe they want seven thousand more
+satellites i was gonna go like cover the
+hours yeah yeah yeah that's a lot forty
+two thousand satellites
+whoa okay that's my satellite they have
+authorization to launch not only that
+they want to but they already have
+authorization sheesh from the fcc
+okay that's a lot that's a lot it's just
+i'm still my eye keeps thinking about
+that clip you just showed us of like
+watching 60 in a row pass by you
+in the night sky with your naked eye
+just imagining the sky like looking like
+it's moving all the time and then
+getting like motion sick like looking up
+the cars like
+rotating around yeah yeah yeah it's a
+little different right like stars um
+that we see in the night sky
+they they don't really they're moving
+but not really but yeah we're kind of
+moving around then it's a different way
+um okay so yeah so the reason that we
+found this topic at all title card um
+is that uh adam actually sent me this
+article
+called spacex dark satellites are
+still too bright for astronomers
+um it was in scientific american
+and i thought um this is interesting uh
+the article basically says that yeah
+starlink is very cool you know it's a
+great idea
+um but it's be creating a lot of issues
+for astronomers they are reflecting
+light
+off of from like the sun
+and it's kind of messing up things in
+astronomy a lot of different types of
+astronomy interesting yeah so there's
+telescopes on earth that are trying to
+look at things far far away
+and these
+these satellites are flying in between
+the telescope and the thing they're
+looking at and reflecting light back
+into them that they don't need in their
+data right so if you're generally if
+you're doing like a long exposure photo
+for example like all astronomers do
+super long exposures they do up to like
+two days right of exposures
+and with the geosynchronous orbit
+satellites they know exactly where they
+are at all times they can just point the
+satellite a different direction they're
+able to do it they can avoid it and
+there's not that many right because they
+you don't need to have that many if
+they're in geosynchronous orbit because
+you always have a connection
+with these they're just flying through
+and you don't really know
+where
+the path of them is and when you can
+avoid them and and the fact that like
+you know right now there have only been
+a couple thousand that have been
+launched
+and that's already creating a problem
+yeah what happens when there are 42
+000.
+um
+so at first these starling satellites
+were like really really bright right
+they were they were reflecting light
+from the sun
+and basically astronomers would like you
+know they'd point their satellites at
+them and they'd be like oh a star and
+then they'd look they'd point their
+telescope telescope yeah they'd be like
+oh look a star and then they would see
+oh that's oh that's a satellite that's
+actually a satellite now it's moving too
+fast yeah so both it was moving too fast
+and then it was like it's just too
+freaking bright
+and um there's all these different
+issues that it was creating because
+these were reflecting so much light that
+it could actually damage the telescope
+because their sensors are really really
+sensitive and light from stars are so
+far away and because of that inverse
+square law the light from a star
+is like you're getting way less light
+than it's actually emitting whereas the
+satellite reflecting all that sunlight
+beaming it's like when you take a
+magnify magnifying glass on an ant right
+you're kind of burning the sensor you
+can actually break the sensor because
+they're so bright
+uh so that was kind of a major issue and
+like
+credit to starlink um they don't want to
+necessarily just
+they want to work with the astronomers
+right um it's kind of this like 50 50
+word thing where like yeah we're gonna
+do this uh we got authorization and
+we're just gonna do it we'll try to
+mitigate the problems that we create but
+we're still gonna do it i have a
+question yeah about these astronomers
+are these amateur astronomers are these
+professional astronomers because when i
+think of astronomers there's obviously
+telescopes on earth huge observatories
+that have to look through the atmosphere
+but there's also
+telescopes in orbit that i assume are
+above a lot of these satellites and they
+do that for an unobstructed view of the
+atmosphere yeah how much of these
+astronomers complaining are professional
+astronomers versus
+hobbyists in the backyard yeah both so a
+lot of professional astronomers i'm
+going to guess just because it's cameras
+and long exposure that kind of when i
+was first thinking of this i was
+thinking of like oh someone looking with
+their eye through a telescope and it
+like reflecting light but if it sounds
+like if it's destroying long exposure
+like astrophotography not even
+astrophotography like yeah it's like
+astronomers deep space yeah yeah yeah no
+it's it's both um
+basically they do eventually a lot of
+these astronomers that i talked to did
+say that they eventually are going to
+probably need to put satellites into
+space
+but right now uh one of the ones that
+they've been working on for the last
+basically since like 2008 it's called
+the lsst it's in chile
+and it's pretty much the biggest uh
+telescope that has ever been created it
+has the biggest sensor that has ever
+been made it's like multiple gigapixels
+uh and it takes like up to two minutes
+or two day
+photos basically these things and the
+the point of this is to like explore
+things like dark matter
+and just like
+different universes and galaxies and
+just things that we've never seen before
+and then i think we're going to borrow
+it for a little bit and shoot a
+smartphone review with it i think that's
+the plan yeah yeah turn around point it
+back across that'll be fun too yeah
+that'd be cool
+yeah yeah um and they basically said to
+put a telescope like this into space
+they're just way too big way too heavy
+it's right now it's just too much to get
+that into orbit they're so massive these
+are huge telescopes
+um so yeah so like sterling was you know
+they were still trying to work with
+astronomers because they they understood
+that like yeah this is kind of a problem
+we're still gonna do it but it's kind of
+a problem so they worked with
+astronomers to create these conferences
+uh called satcon there's satcon1 satcon
+2 that have happened so far
+after satcon 1
+they basically were like okay the
+biggest issue right now is that these
+are reflecting too much light
+and there is different degrees of
+brightness where it becomes not as much
+of an issue for
+the astronomers
+so they tried different things they
+painted the satellites black they placed
+they're darker they're darker so they're
+not reflecting as much light uh
+starlink sends those up
+they start
+burning up and heating up like a
+crapload because the temperature
+difference um when the earth is facing
+the sun versus when it's not facing sun
+very big difference it gets really hot
+and really cold in space yeah yeah so
+that that became an issue it was
+overheating all the sterling satellites
+okay um now they actually do something
+called visor sat uh which is actually
+putting little basically putting
+sunglasses on the satellites cool yeah
+you know
+which kind of like it darkens it for the
+astronomers and then one other thing
+that they do is um during the periods of
+time when the astronomers need to be
+seeing into space these satellites will
+rotate their
+solar cells to be a knife's edge versus
+the earth that's cool so
+now instead of blocking this amount
+you're only blocking like this amount
+right does that affect that the internet
+that they're
+no sending okay that's mostly that's
+just for power okay so it's collecting
+power while the astronomers sort of
+don't need to use it okay yeah um but we
+found this article really intriguing
+because it was like it seemed like there
+could be a lot more to this it was also
+written a couple of years ago uh so i
+really wanted to like
+catch up with the update right because
+things like the lsst the new
+telescope in chile
+it was actually supposed to go into
+service like end of this year or next
+year which is crazy because it's being
+been being worked on since 2008. imagine
+you get all of this funding it's the
+biggest astronomical project of all time
+and all of a sudden the entire
+atmosphere just becomes littered yeah in
+orbit with all these satellites wow it's
+crazy right it's funny that like i'm
+picturing uh if you zoom way out from
+earth it's like oh earth these
+earthlings want to connect with like
+other like maybe intelligent
+civilizations but they've surrounded
+their own planet with too much space
+junk to actually communicate or like see
+anything
+and that's kind of a bleak and that is
+that is a concern that we'll get into
+later um
+adam uh so we called up emily who is the
+person that emily zang she's the person
+that wrote this article for scientific
+american i'm emily zhang i recently
+graduated from columbia university
+i did some freelance science journalism
+which is how this article came about
+and i currently work for the veritasium
+youtube channel
+um so this article
+i majored in astrophysics so my
+background is in astronomy and naturally
+one of the biggest conflicts or concerns
+in the astronomical community
+at the time that i wrote the article and
+i would say today is satellite
+constellations so she was an
+astrophysicist and now she works for
+very testing which is kind of amazing
+kind of shows that like you can go to
+school for anything and still be a
+youtuber
+the internet at the end of the day the
+internet um yeah so
+the biggest thing that she wanted to
+really highlight to us when we called
+her was that
+this is kind of happening
+with astronomers not really being able
+to do anything about it right it's kind
+of just like there's no laws really
+about space
+we just i think the main sentiment would
+be powerlessness because i think these
+astronomers
+they're not saying like down with with
+spacex and starlink and blue origin and
+and project kuiper and all of these
+forever
+um i think we understand that
+you know
+there are multiple parties involved and
+we're gonna have to compromise
+but the main thing is that
+i think we just astronomers haven't
+really been able to do anything at all
+um and so having to sit on the sidelines
+while what you study and what your
+expertise is in is is being dominated by
+these other forces that are very new to
+the game
+is
+uh
+yeah i think it's it's difficult to just
+have to be a bystander to that i would
+say it's pretty concerning that
+internationally and and even nationally
+we're not seeing much discussion about
+regulation about laws around this
+there's this space treaty that was
+written during
+the space race but it was very vague it
+was specifically written between nation
+states so not about individual
+corporations and companies and really
+the main thing that it wanted to
+highlight was not being able to use
+space for like war purposes like there
+were still ways there's loopholes that
+were written in so that you probably
+could use it for war purposes but the
+idea was like you count you can't mount
+a rocket launcher on the moon
+you can't like
+make a giant space laser that is mounted
+somewhere but again this this space
+treaty was written literally in the 60s
+during the original space race uh the
+world has changed a lot since then
+clearly a little and i don't think it
+took into account the fact that now
+instead of there being a space race
+between
+individual countries it is now
+billionaire corporations right there's
+like even recently in the news it's been
+the billionaire space race
+what's being called the dawn of a new
+space age billionaire richard branson
+now though tomorrow another billionaire
+is paying his way into space 71 year old
+branson beating amazon founder jeff
+bezos to space by just nine days we've
+got jeff bezos versus elon musk versus
+uh the virgin galactic guy
+um yeah i don't know richard branson
+richard branson
+uh and all these people are just like
+sending themselves into space they're
+sending other people into space
+and it's kind of just a flex
+um
+but the fact that it is now individuals
+kind of makes this a lot more
+complicated because at least the un can
+kind of like make these treaties and
+talk about who can do what but the
+nature of capitalism
+is to produce more and better than your
+competition and when you have these
+companies like amazon slash blue origin
+you've got spacex you've got facebook
+that are all wanting to get on top of
+each other and just beat each other out
+then then what do you do
+so anyway but what emily was kind of
+trying to say was that like this is all
+happening right this is all
+exponentially growing
+and these astronomers don't really have
+a big say in it yeah it makes me think
+about like how how far above a country
+is still the country i'm sure there's
+some rule about this there is no rule
+about this because obviously if you fly
+over another you mean like you're a
+certain airspace yeah that's that's one
+thing but if you're at 40 000 feet or if
+you're at 100 000 feet like where does
+that end
+so it's like there's not really a and
+then the other thing is like the
+satellites are just like
+streaking right they're going so fast
+that it's like they're in one country in
+another country in another country the
+issue is is we've got a similar
+situation again like we have with
+certain types of social media and so on
+so forth where technology is advancing
+faster than regulations could give up
+that was jeremy he's an astrophysicist
+we talked to in chile
+sort of like facebook and twitter and
+all these things we're just now trying
+to figure out how do you regulate social
+media and holy crap we're way past the
+point where we should have regulated
+this yeah exactly you know
+um and so that's the thing about space
+right now is like and so that got in my
+head like
+how how do you regulate this because
+again like you said that's it's
+something that's way up in
+orbit it's not in a country
+and then the other thing is there's not
+a lot of incentive for individual
+governments to necessarily
+regulate it because like who regulates
+it right and and also your like your
+country's gdp
+is determined by how much output it
+makes and so if there are more companies
+in your country that want to
+create like get into this newfound
+frontier that makes a lot of money
+you don't really have any incentive to
+say no
+so you want to learn a little bit more
+about how this is going to go what the
+astronomers and astrophysicists think
+about this how they feel about it
+specifically what they said about like
+moving at the pace of social media how
+we could possibly regulate it who is
+going to regulate it you know this is
+like seems like un untouched territory
+like nobody knows what to do
+are we all on the same page that it
+should be regulated like the obvious
+path is that they're about to put 40 000
+new satellites into orbit and it's gonna
+really suck for astronomers on earth
+which is most astronomers yeah something
+should be done or they're just gonna do
+it for everyone on earth if we don't
+regulate it right at some point and
+actually there was this uh tweet that i
+saw that said once spacex gets 12 000 of
+the 42 000 up and originally they had
+only asked for 12 000 and it got
+accepted and then it got accepted so
+easily that very soon after they were
+like can we put 30 000 more and the fcc
+was like sure
+and it was like what they didn't really
+have any reason to say no yeah yes they
+didn't think of any but is it going to
+be bad for us on earth because now the
+night sky looks
+different or will we will we even be
+able to see that multiple things there
+was a tweet that i saw that uh that's
+basically said once the 12 000 are up
+the number of satellites that we will be
+able to see will outnumber the amount of
+stars we will be able to see
+so the night sky will we'll we kind of
+think they're just depending on where
+they are
+satellites
+and to be fair the way that they are
+visor setting these and all these things
+uh a lot of times it can make it so it's
+hard to see with your naked eye
+especially during the day
+um you'll most easily be able to see
+them at don and dusk
+and the fear is that the worst affected
+science is actually some of the most
+important that was jonathan mcdowell an
+astrophysicist at harvard
+it's the uh science where you're doing
+wide area surveys
+looking at a lot of sky
+low near the horizon uh early in the
+evening at twilight
+which is where the satellites are
+absolutely the worst
+but that's where you have to look to
+find the asteroid that's going to hit
+the earth
+and so that what we call planetary
+defense
+uh subset of astronomy is the one that's
+potentially most threatened so
+we might lose that kind of uh astronomy
+which is not great
+yeah so for context there are about the
+upper estimates are about 10 000 visible
+stars in the night sky
+at night depending regardless of where
+you are on earth oh yeah yeah so it'll
+outnumber pretty easily and um you know
+a lot of people said like you know you
+won't be able to see them with your
+naked eye but there's so many issues
+because
+not only
+uh is it going to you know is it
+emitting all this stuff
+but also even if you turn the
+wings so that their knife's edge towards
+the earth the core part of the satellite
+is still blocking a light signal from
+coming through of a potential
+you know a potential star that you're
+trying to observe right you're trying to
+observe the star
+and you can just get these huge streaks
+that just fly through your image when
+you're using when you're doing long
+exposure stuff right
+yeah so this is when a single satellite
+flies through hubble's field of view
+wow it's just a big slash straight
+through your image yep you know you're
+getting this deep space image honestly
+that'd probably make for a really good
+youtube intro sequence
+[Music]
+hey what's up mkbhd here and bright
+white streak through the sky yeah i mean
+it's like it's crazy because there's so
+many random elements of it that you can
+tell are natural and then there's just
+this perfectly straight line like
+straight through the middle yeah
+beautiful stars and then just straight
+line and just like imagine that's like
+one telescope
+oh my gosh
+that's one satellite yeah imagine what
+happens when you've got potentially
+hundreds or thousands that are coming in
+and that's interesting because hubble is
+one of the atmospheric telescopes it's
+already orbiting earth but it's lower
+orbit than a lot of these low orbit
+earth satellites wow so this is even
+messing with those even if you put uh
+these telescopes into space
+then you could still have satellites
+coming through which is wild that's
+brutal just wild wow yeah
+um i love hubble i know hubble's so dope
+and they're actually gonna replace
+hubble pretty soon right um which is
+cool as well
+uh but yeah so she we wanted to learn
+more about this uh so she had us call up
+these two people this one guy named
+jeremy tregolone reed
+who is an astronomer in chile and an
+astrophysicist named jonathan mcdowell
+at harvard
+so we first called up jeremy in chile um
+and surprise surprise our call had a lot
+of issues a lot of problems his internet
+was not great
+and we actually had to call him a second
+time a couple weeks later because we
+tried to salvage the call we had but
+even during the call it was like i heard
+every fifth word that he said and i
+tried to make sense of what he was
+saying and it just like didn't work well
+and then the service that we use that
+does the podcasting interviews just
+couldn't upload his side we only got 15
+minutes of raw data and it was just not
+good sounds like we need starlight yeah
+so that was that's that's the funny
+thing is he was like
+this is really affecting my work
+but i could really use one of these star
+links right now
+it was just it was it was so ironic
+um we asked him about that lsst
+telescope
+and
+he just said like you know
+yes i've seen it as things stand at this
+precise moment in time yes i do see it
+as being a
+major development issue
+this could be such a major issue because
+they've been working on it since like
+2008 and then all of a sudden there's
+gonna be thousands just flying through
+and the lsat the lsst works on more than
+just optical stuff it also does radio um
+telescope work radio astronomy
+which starlink specifically is another
+problem for because not only are you
+blocking uh the light that's coming if
+you're doing radio astronomy and you're
+listening they're listening for
+literally black holes right they're
+listening for energy coming out of black
+holes which is wild
+and there's just these faint whispers
+from you know wherever the heck and
+they're in chile and there's no signal
+coming through they're literally
+listening for black holes yeah and then
+you think about okay there's this
+satellite that's whizzing by not only is
+it
+brighter than it should be
+and it's blocking potential signals from
+coming through it's also shooting down
+gigabit internet
+which is a radio signal puking in it all
+over the telescope and and he was
+telling me that these that whiz by they
+could literally just make the your
+entire image just white
+and radio astronomy is a lot more
+sensitive
+some of these objects are thousands of
+times brighter than the sun is to these
+radio telescopes and the saturn calls
+burn out of the equipment and you know
+damage equipment which that costs money
+to replace and loss of
+you know observing time because you
+integrate for the equipment to replace
+some of the space telescopes we take a
+two-day exposure uh and so because we're
+looking for
+ludicrously faint things
+right and so you know go oh here's a
+here's a light ray from that star
+here's another light ray from this
+right and and so it doesn't take so when
+you have a
+bloody bright satellite going overhead
+it leaves a really bright trail on your
+image that saturates the detector that's
+trying to look for so much fainter stuff
+they could literally just make the your
+entire image just white yeah like it can
+completely ruin the image and it could
+also be one of the things that breaks
+the telescope and
+this telescope there's been millions and
+millions of dollars invested into this
+telescope and so the fact that they've
+been working on this basically since
+2008 it's supposed to be operational by
+2023 it was supposed to be 2022 but then
+coveted
+and then out of nowhere cup like a
+couple years before you open all of a
+sudden the
+orbit just starts being filled it's kind
+of ridiculous like it's not really fair
+right it's like building like a
+beachfront property and then they by the
+time you're done they build another
+property right in front of the ocean
+yeah yeah pretty much
+pretty much you spend 10 years building
+it and then all of a sudden the condo
+goes up right yeah or something this
+episode of waveform is brought to you by
+canva sometimes working with friends can
+be a pain kind of like those group
+projects in school where only one person
+does the work but everyone's supposed to
+get credit well canva makes working with
+friends not only easy but fun as well so
+canva pro is a design platform that
+empowers users to create and share
+exceptional content it was so good that
+it was named the most promising private
+company by enterprise tech 30 back in
+2019 but designing with canva pro is
+simple and efficient because anyone on
+your team can access over 100 million
+premium stock photos videos audio and
+graphics to be used anywhere and
+everywhere you and your closest four
+friends can sign up now and unlock
+everything canva pro has to offer for
+just 12.99 per month would would you
+consider me one of your closest friends
+am i in the four yeah one or four yeah
+four top four nice only 12.99 definitely
+so make sure that canva pro is the first
+step in creating profitable lifetime
+partnerships with your team design like
+a pro with canva pro right now and you
+can get a free 45-day extended trial
+when you use my promo code so just go to
+canva.me
+waveform to get your free 45-day
+extended trial that's
+c-a-n-v-a
+dot m e
+slash waveform canva dot me slash
+waveform this episode of waveform is
+brought to you by truebill so as humans
+we have our faults you know we make
+mistakes from leaving the discord
+channel up after production to failing
+to reply to an important text message
+but these are issues that are all free
+of charge there are some mistakes though
+that are costing you hundreds of dollars
+that you might not even know about so
+truebill is a new app that helps you
+identify and stop paying for
+subscriptions you don't need want or
+simply forgot about so the app allows
+users to see all their subscriptions in
+one place keep the ones you want and
+cancels the ones you don't so stop
+wasting your money on free subscriptions
+that ended years ago and true bill's
+concierge is there to help you cancel
+any unwanted subs so you don't have to
+so they make sure all the robots can do
+all that work so true bill's mission is
+for everyone to live their best
+financial lives and there's just no way
+that can happen while sending money
+every month to unused products or things
+you don't use anymore so join the over 2
+million users on trubil including myself
+and start saving your money today
+start cancelling your unused
+subscriptions at truebuild.com
+waveform that's t-r-u-e-b-i-l-l
+dot com slash waveform it could save you
+hundreds a year
+alright so we're back again we got two
+independent recommendations for jonathan
+mcdowell this astrophysicist at harvard
+and uh he proceeded to sort of blow our
+minds about like how ridiculous this is
+all going
+the the bottom line is there's nowhere
+to hide
+from these satellites right it's also a
+problem for radio astronomy
+uh uh we're in the we have these radio
+telescopes in very
+isolated regions where there's no radio
+transmissions in the vicinity except for
+satellites coming overhead
+lots of radio track very bright radio
+transmissions and even if they're in a
+fairly narrow band mostly if one percent
+leaks out into a slightly different
+frequency we're trying to listen to
+these incredibly faint whispers from
+distant
+you know creating black holes and and a
+tiny amount of bleed off from this super
+loud searchlight radio satellite uh is
+just gonna swamp us what if orbit is
+just totally filled with signals from
+these satellites and we can't listen for
+these whispers anymore we're basically
+creating this kind of like
+dome around the earth where we can't
+listen outside of it right we can't look
+for things outside of it we can't listen
+for things outside of it and he is
+convinced that there is going to be a
+catastrophic failure event
+before anything is actually done
+about
+this problem um have you guys heard of
+uh
+kessler syndrome before
+kessler kessler syndrome i have not
+heard can't say i have no okay
+uh so in orbit things are really just
+falling they're in free fall right
+uh that's something i think a lot of
+people don't actually realize
+is that they're just far away from
+enough from the earth so that they are
+falling towards the earth but they're
+also falling in a direction in a vector
+away from the earth and they're at a
+such uh direction
+that they're just kind of like spinning
+because it's just this combination of
+downward force and then outward force
+and it kind of creates this angled
+vector
+so when things are in free fall
+they can fall really fast right
+so kessler syndrome
+is when you get something in orbit that
+hits another thing in orbit
+and then it creates shrapnel in orbit
+and that creates more shrapnel and then
+that hits more stuff which creates more
+shrapnel this reminds me of a scene in
+interstellar yeah i haven't seen that
+movie i watched it like two weekends ago
+but there is an explosion of one
+satellite in space and some of the
+shrapnel is heading towards some of the
+astronauts because the thing exploded
+and it's going everywhere and then
+there's a part in the movie where all
+the shrapnel arrives and it tears a hole
+and the spaceship and the space station
+has a hole in it now right yeah yeah i
+mean so how how fast do you guys think
+that things move oh they're going fast
+when they're orbiting yeah i've seen
+videos from the international space
+station where that is also orbiting and
+it's going like 20 25 000 miles an hour
+like it's you they orbit the earth like
+eight times in a day which is some
+insane number
+i have no idea what i assume two things
+colliding at that speed is just
+instant destruction of both those things
+pretty much instantly yeah yeah yeah so
+things are in free fall generally around
+17 000 miles per hour
+yeah there's um something happened to
+the iss recently a few years ago where
+like
+it was like a piece of debris a paint
+chip something
+came off of a satellite
+hit the iss it was so tiny it was like a
+particle and it left a crater in the iss
+like this big oh my goodness yeah like a
+softball size
+yeah that's crazy sorry to interrupt by
+the way the movie you were thinking of
+was crap gravity oh
+yeah
+and there was a scene where it destroyed
+maybe it was gravity maybe it was did it
+have sandra bullock
+yeah so things are moving at 70 000
+miles per hour basically it just causes
+chain reactions right and
+and so i'm starting to get nervous he's
+telling me about this stuff and i'm like
+okay um so you've got spacex and amazon
+blue origin and facebook and boeing
+these are all companies that are
+confirmed to be putting satellites into
+space right this is just the united
+states um if spacex themselves starlink
+is putting forward 2000 up amazon is
+supposed to put a few thousand up
+already they are confirmed to be doing
+this facebook is
+trying to put up a little mini
+constellation facebook wow okay yeah
+uh boeing and it's just like these are
+just us companies again yeah and
+they really have not a lot of incentive
+to talk to each other besides like maybe
+the fear of kessler syndrome happening
+but there's this estimate by
+that by like a couple years from now
+there's going to be over a hundred
+thousand satellites in space right
+and yes orbit is very large and there's
+a lot of room but yeah it's pretty big
+but it's not infinite
+you know and it's very to me it's very
+similar to the oceans because
+people thought the same thing in the
+oceans is like they're really big we can
+throw lots of crap in there forever and
+it'll never make a difference
+oops no it didn't quite it doesn't work
+that way and and so uh
+that's the same with space space is
+famously big when you have a hundred
+thousand satellites even one creating
+shrapnel and you no longer have the
+ability to control that shrapnel and
+it's going everywhere you can't really
+like if the chunks are big enough you
+could probably track it but if they're
+shrapnel which like you know of little
+paint chip came off and damaged the iss
+you can't really track that it's just
+gonna go everywhere yeah is it no longer
+uh are we just creating this sort of
+like
+radio bubble where we can't hear
+anything outside of the earth
+if you have a hundred thousand
+satellites creating shrapnel you're
+gonna create this dome of
+seventeen thousand mile per hour
+shrapnel around the earth
+where you can no longer send anything
+into space
+do you remember that article this was
+probably a few months ago where there
+was a i think it was a chinese satellite
+that had like lost communication or
+power or something and was going to fall
+out of orbit but we didn't know where
+because it was not being communicated
+yeah and it was it was sort of a
+trending topic for a couple days where
+we were like it's on the path of
+this you can follow the path we just
+don't know when it's going to land it
+could land in the pacific ocean oh but
+now it's over new mexico oh but now it's
+over the atlantic ocean and just keeps
+going and growing i feel like uh
+maybe one of these events he's talking
+about looks kind of like that where one
+thing starts to fall out of orbit and as
+soon as you can't communicate with it it
+could hit another thing and then
+then that's the chain reaction yeah and
+it creates almost a uh what is that
+there's this uh this is idea of creating
+like a sphere around the earth that
+creates this self-sustaining
+biosphere by biosphere sort of we create
+that but it's bad it's all shrapnel you
+know and it's like it's like we're
+saturn but except it's a sphere and it's
+a moat but now you can't yeah
+right yeah and so so like to be fair the
+newer satellites have um avoidance
+systems where they're able to sort of
+like if they track something coming
+towards them they they can avoid they
+can dodge things they can dodge things
+technology is crazy yeah yeah um there
+was this event that happened where
+the space force um now us phase four
+yeah noticed that the
+one of the starling satellites was
+coming within
+it
+technically like
+10 times the limit that it allows which
+i think was still like
+a couple kilometers it's still very
+curious how close they actually get it
+was it was a couple kilometers or a few
+kilometers and they they were like it's
+probably not gonna hit it but this is
+still 10 times over our limit and so
+they have propulsion systems in the
+starlink satellites that allow them to
+kind of move
+but still
+it's more of a communication thing right
+because you get all of these companies
+and so
+i started thinking about
+what happens when
+every other country starts getting in
+the game obviously china's competing
+with us russia's competing with us india
+is competing with us the uk
+uh there's things this one internet
+company called oneweb from the uk that's
+also teamed up with india that's putting
+stuff into space and
+individual countries have even less
+incentive to communicate with other
+countries right
+the only incentive that they really have
+in this whole satellite space race is
+it costs them money if their satellites
+break by hitting other people's
+satellites
+which is crazy and again it's like the
+fcc and the epa the environmental
+protection agency
+they're kind of pointing fingers at each
+other as to like who should be
+regulating this and so now the issue on
+light pollution really is that nobody
+seems to be
+feeling responsible for it right that's
+joseph kohler he's a space policy
+strategist at aerospace.org if you if
+you look at
+um
+some announcements from like the epa the
+environmental protection agency
+they have clearly stated that they feel
+that by pollution you know from space on
+the ground is in their job char of
+responsibilities
+however they also provided since
+i think since 1986
+for for many years they've provided the
+fcc with a categorical exclusion right
+basically telling them telling the fcc
+okay you just go forward and provide
+your spectrum licenses and we don't have
+to look at those constellations from a
+light pollution perspective it's very
+weird it's like it's just uncharted
+territory quite literally is it
+littering if you put up a satellite it
+falls down on the earth did you litter
+do you get charged for littering i think
+so i think there was actually a thing
+that that happened where they said like
+if your satellite crashes in another
+country
+the country is liable for any damages
+that happens right i think the one that
+did end up falling out of orbit
+disintegrated before it hit anything
+yeah so a lot of the spacex um
+starling satellites are made now to burn
+up uh in orbit but something else that
+jonathan mcdowell told us was like okay
+so these are made to be able to go out
+of commission you can propulsion them
+into low enough orbit so they ended up
+just falling into the atmosphere and
+disintegrating
+but we also
+don't know
+what that much heavy metal is going to
+do with to our atmosphere right like
+we're already worried about putting too
+much carbon in our atmosphere so that
+got us really concerned especially for
+the the multiple countries just not
+wanting to communicate with each other
+and like i said earlier
+uh the more gdp that your country is
+pumping out the better your country's
+doing and a lot of countries are just
+very happy to have the higher gdp
+you know um and a lot of these countries
+are wanted to be with the u.s too and
+then there's individual companies within
+those countries and it just kind of
+creates this exponential thing because
+it's like yes there's going to be a
+hundred thousand launching from the us
+in the next couple years
+let's not even think about china and
+russia and india and the uk like you
+know it's ridiculous it doesn't sound
+like there's a clear good solution no
+like controlling space is probably the
+biggest question mark like obviously we
+we want to everyone wants to be the one
+that controls space and i feel like i've
+seen this meme on twitter of like you
+should buy land on mars because
+some somebody will buy it from you later
+and you just who are you going to buy
+the land from like who owns that land
+now i don't know
+there's a lot of questions about
+ownership of that space right
+i don't know if there's an answer to it
+right just like vice president
+vice president it's like just because
+the us put a flag in the moon doesn't
+mean we own them yeah like you know that
+could be yeah it's just the moon yeah
+yeah that that just all got me thinking
+about regulation like how do we slow
+this down how do we
+make sure this is done safely like it's
+just going to happen whether or not we
+want it to which kind of sucks and the
+us can't just say like
+okay we're going to take control of this
+but we already let starlink put 42 000
+up we can't say no to amazon now we
+can't say no to facebook now when we
+already said yes i mean they could but
+then it's
+you know i don't know it seems they
+should just set a
+this is my complete amateurism talking
+this is just at a hard limit
+we will not allow
+more than x satellites to orbit earth at
+once
+right
+and i guess that's not a great answer
+because that just makes it a race for
+who can have all the fastest yeah but
+like look if the us puts a limit and
+says a hundred thousand
+what happens when every other country is
+like oh cool the u.s is self-limiting
+themselves oh yeah
+we're gonna play a million we have no
+limits we're just gonna keep going
+because the one that creates that
+controls most of the network kind of is
+the winner we've seen the same thing
+with 5g you know with huawei and
+qualcomm and everyone's trying to like
+control the most broadband there's a lot
+of parallels to 5g oh yeah yeah oh yeah
+all these all these uh like it's an
+infrastructure thing there's a lot of
+unfounded concerns about 5g as well but
+there are still very valid concerns
+about like
+you're gonna have to have a tower on
+every block in all of the world that's
+just too much
+new metal like there's just too much
+stuff to have around yeah um yeah yeah
+it's interesting yeah it's it's and it's
+all it all comes down to wavelengths
+right it all comes down to basic physics
+where the faster you can move your
+wavelength the closer you have to be to
+that wave
+but yeah i mean jonathan was
+he was convinced that we were eventually
+going to have star wars because uh the
+outer space treaty of 1967 says you
+can't put weapons of mass destruction in
+space
+you can't station them in space
+so actually if you read the treaty
+carefully you can put like high
+explosive
+space fighters out there that's
+completely consistent with the treaty
+um there's nothing in the treaty that
+says i can't come up to you in my x-wing
+fighter and and uh
+blow you out of the sky as long as i'm
+not using weapons of mass destruction to
+do it right you're not allowed to mount
+anything
+on any like
+body in space but you can send like a
+warhead through space if you wanted to
+yeah so you could shoot it into orbit
+and then have it land somewhere else
+yeah interesting
+so i wanted to like figure out how the
+heck
+do we start regulating this obviously a
+lot of these astronomers have a very
+kind of negative
+very
+doomsday-esque idea of what will happen
+and the general sense that i got from
+all of them
+was kind of this just like
+yeah
+yeah we're screwed like the hobby yeah
+this almost happy like depression like
+is what i was getting um yeah so so
+jonathan mcdowell it was funny he was
+like
+don't worry the united states will
+absolutely use orbit for war and i was
+like cool cool cool great cool cool fun
+yeah great great great love it we should
+make uh another one of those treaties
+yeah i brought that up actually i said
+do you think that there will be a new
+space treaty that's going to be written
+up there's been a lot of discussion
+about that this the treaty is 50 years
+old
+and it's really showing its age it's all
+written in terms of you know
+the assumption is that all the
+satellites are either soviet or american
+right
+right um and and space is a lot more
+complicated now and so
+those assumptions don't hold uh
+and it's sort of being kind of
+duct taped to keep working
+uh
+um but yeah there needs to be a new
+outer space treaty i think and and the
+question is how can we get one it's not
+gonna be easy and he said honestly i
+don't think it'll happen anytime soon
+uh if it does it's gonna be after things
+have gone bad
+and again there's just kind of this so i
+don't want to like you know this product
+has to be
+super downer but it seems like treaties
+usually come after things are headed the
+right yeah
+that's what it seems like he's saying
+yes nobody really listens and people are
+screaming into the void until there's a
+major problem yeah you know gotta get
+everybody on the same page yeah wow so i
+kind of i was wondering like there's got
+to be somebody that is
+that is trying to regulate this or
+trying to create regulation for this
+right like
+this can't just be happening and and
+nobody is working on some sort of
+regulation because if i'm this freaked
+out right now as an individual who just
+called a few people on the phone
+you know there's got to be other people
+so i found this website uh it says
+organization called aerospace.org
+and they're this third party
+organization that creates
+kind of policy that they recommend to
+people like nasa or governments
+different governments
+they try to you know figure they do
+testing to figure out how much of a
+problem these things in space are going
+to be
+and then they do math on them and say
+like because of this data we say that
+this should be the way that things
+should be
+um so a couple people that i talked to
+about about that uh and mostly
+i came away with them sort of
+feeling like well
+there's gonna be a monetary incentive
+for these companies to make these things
+safer mostly because of that kessler
+syndrome thing
+and also because people do
+care to an extent
+right still worried about the
+communications issues and all of the
+like telescope problems that you're
+going to have when you have all of these
+satellites going over the top but a lot
+of these people were
+kind of under the
+assumption that it would regulate itself
+in a way
+which
+i'm mixed i'm quite mixed on personally
+um
+they they kind of figured like because
+if you create issues like satellites
+running into each other there's going to
+be such a monetary issue where you're
+blowing up your own money and then
+you're also going to probably have to
+pay to clean up whatever happens
+the other thing about
+the financials is that
+in theory with that much scale it gets
+cheaper and cheaper to launch satellites
+like we're supposed to have reusable
+rockets and we're supposed to be able to
+do this thing way more efficiently kind
+of sounds like you know there's millions
+of cars on the road and it's in
+everyone's best interest not to crash
+but if a couple crash like yeah they're
+going to crash the numbers
+but kessler syndrome doesn't happen on
+earth you know
+we've got gravity not
+quite right right right but even even to
+that same this just the idea of like
+it's in everyone's best interest not to
+ever crash into any other satellite
+but there's going to be so many right
+that comes up mathematically like it's
+probably going to happen a couple times
+hopefully
+with the best of the tech available it
+won't
+spiral out and out of control yeah some
+event but um
+they're just gonna have to deal with the
+financial repercussions yeah a couple of
+those and that's something emily was
+talking about was like it is a really
+really expensive endeavor and one could
+argue
+very inefficient
+um
+and so because of that you know
+the the dream for starlink i'm sure and
+these other companies is they figure out
+a way to make it cost effective and over
+time you know the technology develops
+further further it will get cheaper but
+right now it's it's incredibly expensive
+it still is
+and what they're sending up right now is
+costing them billions
+it costs a crapload to launch these
+satellites right now right it's so
+expensive and starlink's goal is to
+bring high-speed internet to everyone at
+a very low cost right now the 500 dish
+plus hundred dollars per month is not
+exactly bringing not accessible to every
+accessible internet to people who don't
+have access currently yeah um jonathan
+mcdowell said an interesting thing he
+said i think it's a false choice i think
+a lot of the reason that we don't have
+sort of fiber and other
+non-satellite-based internet in a lot of
+places is regulatory and not technical
+because yes 40 of the world doesn't have
+internet right now but then can't we
+just give them internet the way we've
+always given everybody internet like
+i can kind of see how that like there
+are places where it's just hard to get
+the infrastructure there but then at the
+same time
+can the like some of those places afford
+like so yeah satellite stuff so if
+they're charging like you said that kind
+of money for it currently it's also i
+think it's just a monetary problem it's
+like it's not profitable to bring here
+to these regions right now right and
+until it is like
+the satellite seemed like a good
+thing but also
+but that's also extremely expensive and
+is that going to be profitable well they
+just think that they can get enough up
+they can make it cheap enough to launch
+these into space and deploy enough of
+them that it'll eventually be and the
+cost has gone down for them
+significantly even over the period of
+time they put it up
+but i think that's um everyone that i
+asked like why wasn't this a thing
+before right because hughes net like we
+said was the thing before with the
+geo um geocentric orbit geosynchronous
+orbit yeah
+there's only a couple companies that
+were doing it back then which is weird
+to me and like a lot of them have sort
+of gotten out of style
+and most of the people i've talked to
+were like it's a it's a cost thing it
+just like they realized it was not
+really profitable but when you have a
+billionaire
+space race with a few companies that
+have too much money and they don't know
+what to do with it
+that's when you start investing in the
+things that are
+inaccessible right now for ninety
+percent of companies that you can
+eventually become profitable right
+they're the only ones that can do this
+and this is the only time in history
+where you have
+this much money in the hands of these
+few companies
+so it just becomes this
+thing
+another woman that we talked to
+named robin who was uh also part of that
+aerospace.org website
+she told us there's this
+registration convention as well there
+are a couple things that are already in
+place that have been there for a really
+long time so although the outer space
+treaty is kind of the number one most
+talked about space treaty there is
+actually a couple others that were
+negotiated in the in the 60s and 70s and
+so one of them is the registration
+convention and so that that one has a
+lot of countries signed on including the
+united states and that means that
+countries will register their space
+objects with the united nations and say
+here's you know some basic features of
+the satellite what it's doing where it's
+going um you know whether or not that
+treaty is fully implemented and whether
+countries are being super timely on when
+they send in their data and how much
+data they send that's you know up for
+debate um but they also have lots of
+both governmental and non-governmental
+organizations that track space objects
+as well countries do need to register
+satellites
+with their like trajectory angle
+direction that everybody is kind of
+proposing it hasn't really happened yet
+like a ledger yeah it's like a ledger
+and actually a public legend like almost
+like a whole equator yeah they they
+wanted to create this
+themselves and i think um jeremy was
+working on something like this with
+somebody else where they wanted to
+create sort of like a public ledger
+situation i don't know if it would run
+on the blockchain
+seems like it would be a good use of the
+blockchain uh decentralized yeah log
+i mean not that anybody would want to
+incorrectly input their satellite's
+direction
+and velocity well it could be a
+malicious thing i guess yeah and with
+every system somebody wants to take
+advantage of some evil doctor genius
+could mess up the ledger and then create
+kessler syndrome and destroy the planet
+if they wanted to it's gonna be a movie
+on the blockchain you can't do that yeah
+so bitcoin um
+so what's the ethereum of satellites
+just kidding don't answer that um so i i
+wanted to ask jonathan like what's the
+worst case in the future here and what's
+the best case that potentially happens
+right
+he says worst case nothing happens until
+something there's some disaster and then
+people go oh i suppose we should
+actually fix this
+and it's too little too late
+but that's the way humans do things
+depressing i know but but i i just
+looking at the history of of all of
+these issues it's hard to draw any other
+conclusion
+and so the best case scenario is you
+have an international system in which we
+keep track of and manage
+space as a resource and make sure and
+you know provide the opportunity for
+companies to
+do profitable things
+but constrained by
+uh
+um
+paying for the externalities right
+paying for the ways in which these
+satellites affect the environment and
+constraining how many satellites you can
+have without you know causing problems
+and so i think we'll have we eventually
+have to evolve towards the system of
+that kind and the question is how long
+does it take us to get there and how bad
+does it get in the meantime yeah i feel
+like i kind of have slight adjustments
+to both of those yeah i'm not i'm not
+the expert at all
+but on the the first one which was
+nothing happens until disaster yeah we
+have this thing now where we like
+name every disaster as it rolls through
+the country and it's it doesn't really
+seem to change anything so maybe it
+would have to be like a super huge
+disaster right but
+the second part was um remind me the
+second part again because the second
+part was the best case scenarios where
+we have an international system where we
+manage like a blockchain yeah yeah
+that's that kind of comes back to the
+self-regulating thing again yeah if all
+these countries or these companies are
+following the regulation imposed by the
+countries they're in yeah their gut
+reaction is to get out of that country
+and do that business somewhere else
+without the regulation so they can do
+what they really want to do right
+i'm not the expert but that's just what
+i read into when i hear
+you know so we're going to set up
+the best case for you has some worst
+case implications yes it's kind of like
+the ireland tax law thing yeah yeah yeah
+yeah what's that that's like where a lot
+of uh companies are actually
+headquartered in ireland no like
+federal attacks
+yeah apple gets a lot of flack for this
+all the time because they don't have to
+like pay certain types of taxes because
+they're technically headquartered in
+ireland oh is that like libya or
+something
+it's just a small number of countries
+that
+have this particular rule where it's
+like just like encouraging for oh yes
+this is great for businesses but also
+now
+it's like a money shelter it's like
+delaware like a lot of companies will do
+that for delaware too because they
+technically headquartered so i really
+wanted to interrupt to save you guys
+mentioned blockchain one more time i'm
+turning this whole thing off
+your mics are off now
+this episode of waveform is brought to
+you by storyblocks so you tell unique
+stories every day but telling these
+stories and honoring the things that
+make them special that's hard to do when
+you're pulling from libraries full of
+homogeneous stereotypes basically you're
+better than that and storyblocks is too
+so storyblocks is an online
+demand-driven library of over a million
+royalty-free stock assets whether you
+need 4k footage templates audio or
+images storyblocks has you covered with
+their flexible subscription plans that
+fit every budget and yeah they've got a
+lot to choose from but after realizing
+only five percent of their library
+represented people of color storyblocks
+launched their initiative called restock
+it's focused on adding diverse creators
+to capture the authentic and layered
+experiences of underrepresented
+communities since launching restock over
+20 of the library now represents people
+of color which is awesome so you'll find
+collections that focus on the layered
+experiences of bipoc
+lgbtqia plus and other underrepresented
+communities black love queer joy and
+other content can be scarce elsewhere
+but not with story blocks so go check
+out the collections and much more at
+storyblocks.com
+waveform that's s-t-o-r-y-b-l-o-c-k-s
+dot-com
+wait form so i guess i wanted to sort of
+end this with like um a conversation uh
+about do we think that this is worth it
+um how do we think this is gonna go down
+i asked a few people like what can
+people do i wanted to figure out like
+what can people do to
+try to positively
+you know make positive change right um
+because these this is going to happen
+whether or not we want it to
+what can people do to really like make
+this nice i mean i got a lot of
+different answers somebody said like
+go outside and enjoy the stars while you
+can and i was just like geez
+gosh
+yes but also ouch yeah
+i don't have an answer but i do have a
+way of thinking about it which is
+a lot of the stuff we do here is like
+we're looking at products and like the
+final product is it a good or a bad
+final product and usually that's where
+my analysis ends yeah but there are some
+cases where the
+background noise that goes into creating
+the product is so strong that you have
+to consider that too one of them that we
+talked about briefly was 5g
+like
+i talk a lot about the final product of
+millimeter wave 5g of like it doesn't
+seem worth it you can't get your signal
+everywhere like this is a difficult
+thing
+to build up quickly and it doesn't seem
+like it holds signal around a corner
+like that's the product analysis but
+then the background analysis is like
+all the infrastructure all the like
+building you have to do and all the
+regulation and like having this thing on
+every street corner and this kind of
+falls in the same vein it's like start
+like
+yeah i'd like to have gigabit everywhere
+that sounds like a great product if it
+works you mentioned you've never seen 10
+millisecond ping on a game what if you
+could everywhere that would be amazing
+it's obviously very difficult but the
+background noise to making that happen
+is like
+literally like
+filling the atmosphere with tens of
+thousands of satellites and possibly
+never seeing the stars the same way
+again that's that's like leaving the
+orbit of the earth i'm still surprised
+that yeah that too elon and starlink is
+potentially doing something yeah
+our atmosphere is so bad and is also
+somebody who wants to colonize mars so
+badly i mean ultimately that's after
+something bad happens but it sounds like
+if something bad happens it spirals and
+it's also
+his thinking could be very like
+self-centric where he's not thinking
+about the i mean he's that probably
+thought about all of this i'm sure
+but like just the exponential growth of
+all the other companies plus all the
+other countries with a bunch of
+different companies within them versus
+just starlink right because orbit's big
+enough that you could send up 42 000 and
+yes it would outnumber the amount of
+visible stars but we can still at least
+get stuff into space and all the
+starlinks are one system they're all
+talking to each other but once you get
+satellites from other companies they're
+not talking to each other it's yeah
+there's some correlations with our i
+mean yeah it's naive to think if you do
+something like that it's not going other
+people aren't going to want to do that
+so like it's going to happen the nature
+of capitalism is that there's going to
+be more and everyone's going to try to
+be doing better and more than yeah so
+each other if he's the one that wants
+exponential growth thing yeah he's the
+one starting the ball rolling though and
+starting that going so that's why it's
+kind of weird to me that it's like a
+weird game of space monopoly yeah
+like if every if every car on the road
+was made by the same car manufacturer
+they could all talk to each other and
+nobody would ever crash
+yeah but that's a monopoly you can't
+have that sort of lack of competition no
+i'm just giving the one upside because
+every company wants to be monopoly no no
+yeah but yeah so now you look at like
+okay if every satellite in space was
+talking to each other that would be
+pretty good right but that's kind of
+impossible
+the competition yeah that's required
+here's a here's another image um from
+2019 showing a bunch of starling
+satellites flying through this giant
+image screen yeah there's what there's
+got to be like 10 to 15 lines just going
+straight through that looks like if you
+gave a four-year-old a crayon in a
+construction site like you could paint
+the wall as much as you want but it'll
+never look as good as you want with that
+four-year-old with crayon in there yeah
+wow so and again this is from two years
+ago and it's uh only a fraction of what
+we're gonna have i i think like going
+through this episode it sounds bad but
+my outlook on all of this has
+gotten grimmer and grimmer yeah the
+minutes have gone by well there was one
+guy we spoke to dr joseph kohler collar
+i believe
+and his outlook was more
+positive towards regulation being coming
+from the companies themselves space
+companies are a different different type
+of companies in the sense that it's very
+very capital intensive
+now that being said i think that gives
+us some time from a regulatory
+perspective
+to to understand um
+what the projections are what the
+forecasts are what the type of satellite
+or constellations those companies are
+proposing to start working with those
+companies recognizing that there is a
+need
+uh recognizing there is a common benefit
+um but also recognizing there's common
+risk and starting to work with those
+companies and developing the right the
+right rules of the world and the right
+best practices
+so he was kind of saying that because of
+the monetary incentive that everyone has
+and it's in every company's best
+interest to not crash into another
+company that the regulation is going to
+come from the bottom up from the
+companies into government how do you
+guys feel about that i don't think it's
+it's very optimistic it's super
+especially early but it eventually
+becomes a numbers game and we see every
+company i mean every single company does
+things that take losses at some point
+and like that is something that's going
+to happen and like how catastrophic is
+that
+to
+to other things like as long as it's not
+catastrophic to their business they
+don't care yeah and i don't know if i
+trust yeah for the rest of civilization
+i was trying to draw an analogy of like
+companies self-limiting themselves in
+order to not crash into others but it's
+just like i don't really see that in any
+other industry
+so yeah it would be very optimistic for
+this to be the first industry where
+companies are like you know what for the
+better of the planet let's not do so
+much yeah to go into zero regulations
+and think that right like we have
+companies that are going into
+regulations and still like not sell
+policing themselves so it's great with
+draw
+i know it's a very like sad
+outlook but it's like if you don't do
+something someone else will if it is
+profitable and if it will get them ahead
+of other people and that's just the way
+the world operates and so i think that's
+why a lot of these astronomers are just
+they they're just convinced it's like
+this is happening yeah i mean who could
+like i can't even think of how to get
+around it potentially yeah and start
+regulations i know it's like it be
+that's the thing is like the un vice
+president
+the un's the group that had the space
+treaty but um
+it wasn't every country that signed on
+to it a lot of countries have signed on
+but not ratified which apparently like
+signing on is technically the equivalent
+of ratifying but you didn't actually
+sign the doc you didn't ratify the
+documents you didn't have people saying
+yeah we did i don't know it's confusing
+um but that's the thing is like there's
+no one like
+president of the planet and without
+that it's going to be really hard
+planet president
+you're on to something
+yeah one that's what i'm suggesting yeah
+clearly one big game of monopoly yeah
+wow but on the flip side
+everyone gets free internet how
+important is that yeah i don't enjoy
+that 10 million part in here were we
+getting free and was it actually free
+and there's nothing
+yeah i was going to say like everyone
+gets it
+that is also the other thing there is
+like yeah i guess it has to get cheap
+enough but like uh at the time it gets
+cheap enough to hit those places that
+are really not able to get internet
+right now is there a better solution to
+get internet to them by then it just
+feels like something that's super super
+expensive which goal is to get something
+super super cheap to people that can't
+right quite afford it i mean elon's
+willing to throw a lot of money at this
+problem right yeah you know because he
+will eventually profit a lot from it
+um
+also just a quick a couple quick uh fact
+checks uh it was
+the european space agency which had to
+take evasive action to stop its
+satellite from being hit with starlink
+uh
+there was a one in a thousand chance it
+was going to get hit but that was ten
+times over their threshold that they
+were willing to cross okay
+um
+the average starling satellite is 573
+pounds and about the size of a table
+oh that's way smaller than i thought
+well i don't know what a table what
+table they're talking about that's the
+thing i was doing 500 pounds is not very
+it's smaller than that
+sure yeah yeah it's like a motorcycle
+yeah yeah
+but but you know there's also 60
+you know well yeah yes still i mean 16
+we're talking about tens of thousands
+potentially hundreds of thousands of
+yeah i mean it's there's gonna be a lot
+of traffic up there yeah uh and then of
+course we we
+shared that article around recently
+about spacex doing like ads in space
+with with satellites i don't really want
+to think about that i don't see how
+that's possible yeah i mean if they have
+42 000 they might be able to take a few
+of them and drink your old team
+over the sky but anyway
+that's quite dystopian it's that one
+it's kind of like the qr codes
+in china they put up with drones you
+know flying qr codes anyway that's
+pretty off topic uh
+basically i want to just follow the
+story as it as it happens in the next
+couple years because it's going to
+happen very quickly and the fact that
+just a year or two ago we only had about
+um six thousand or seven thousand
+satellites in space and now there are
+twelve thousand is just kind of like
+well 12 000 have ever been launched
+there's 7 000 now
+and they're only like 5 000 a couple
+years ago and it's just kind of like you
+said that curve that exponential curve
+it's just doing that and i'm
+more companies like amazon and facebook
+and and one web and all these companies
+have started saying actually we're going
+to put a constellation of space actually
+we're going to do a constellation in
+2019 amazon
+said they were going to put 3236 in
+space and that got delayed
+and they're still on track to eventually
+put them into space but now that
+starlink is doing 42 000 i have feelings
+that they're um trying to up that number
+so so knowing everything that you guys
+know now yeah i guess the final question
+would be
+is it worth it is it worth it to give
+internet to everybody
+for a low cost and potentially lose some
+of our astronomy some of the night sky
+as uh as someone in the very privileged
+position of having access to internet
+everywhere i go
+i don't need more satellites
+but that will not be everyone's position
+and you have to think about the again
+i'm mostly in the business of thinking
+about the final product and how it
+affects the person
+and i think there's a lot of people who
+would love the idea of wow i live in
+you know where'd we just drive we had no
+internet for like half of the trip we
+just did for a thousand miles it'll be
+really nice to just have internet all
+the time up here in lake placid in the
+forest when i go camping or something
+and uh i think a lot of people would
+probably say it's worth it and they
+don't really care about the astronomy or
+the meteors not being seen at dawn or
+just getting hit by a giant
+like all right that's the sacrifice
+they're willing to make um but from
+where i sit i think i'm good yeah
+i think that's a good way of putting it
+i i do like if our entire world
+had high-speed internet i think we'd
+function just as a society much better
+because there's all these different
+societies
+remote islands and places that are just
+like super remote that can't get it and
+just like if places like that or you
+know poorer countries that if they had
+it it would benefit them immensely and
+if it were just to take away the fact
+that we can't take pictures in space um
+then i yeah then i think it's for the
+better but i think if we're doing this
+ultimate
+aspect of like potentially
+stuff falling from the sky out of
+nowhere or like limiting ourselves and
+destroying our atmosphere like
+it gets way tougher yeah to say that
+marquez looks like he has i just had a
+random like light bulb moment oh
+airplane wi-fi does it get better with
+starlight
+probably
+like screw the astronomers you know
+put them up you'd probably get better
+wi-fi on the airplane than you would on
+earth because of that inverse square law
+oh i'm in
+you've swayed me sorry john you've
+swayed me sorry mr mcdowell uh
+no that's that's fascinating yeah i mean
+um i guess one one kind of counterpoint
+is
+you know these areas that the 40 of the
+world that doesn't have internet like
+the the like
+rapid
+change of life and change of quality of
+life and like movement from being like
+third world to second world the first
+world country
+that you get from transfer of
+information like
+like from my from my like
+classes in college just like
+researching all the different
+changes in the speed in which we
+transfer information and how quickly
+society
+developed because of these like
+exponentially faster ways of
+transferring information like
+information is everything it went from
+you know stone tablets to horse and
+buggy to the post to
+email was the biggest freaking change in
+the way that the the business and the
+world operated yeah and then we have way
+to ignore the printing press
+yeah you know books forget about that
+forgot about the book part yeah the
+wheel the wheel but yeah it's just it's
+it's just these these areas could go
+from
+being extremely remote to like
+participating in the global economy yeah
+and that's forty percent it's a very big
+portion you know right now obviously
+they can't afford it but um eventually
+if it gets cheap enough that they can
+like that could really change the way
+the world works and i've definitely
+heard from some people that say like
+you know
+can i say screw on a podcast
+uh
+screw trying to colonize mars we should
+be taking care of our the planet we have
+you know and uh you know i think there
+are multiple sides to that obviously we
+know that our planet is eventually going
+to become uninhabitable but that's my
+favorite neil degrasse tyson anecdote
+yeah when he's like all right
+so i heard that in order to populate
+mars you first need to
+terraform it so you drop nukes on the
+poles
+and you've like you know you re you
+restructure the whole planet in the
+atmosphere and everything
+and that's going to take billions of
+dollars in like all these years
+but we also already have earth and
+that's in pretty good shape we could
+probably do a little bit better and a
+little bit cheaper if we just fix up the
+one we have here yeah right um
+i feel like i'm on that team yeah
+yeah yeah yeah yeah so that's what a lot
+of people have been saying too and it's
+like if we could just really get
+everyone on the same page and really
+equalize the playing field for the
+entire world like that would be pretty
+amazing as well and this is the fastest
+possible way that that's going to happen
+honestly like because there's not going
+to be it's it's like the rest of the
+world is speeding up exponentially well
+no one has even able to
+get the internet the long tail yeah and
+we're going to be over here by the time
+they even get the internet and it's just
+kind of unfair and this is the way that
+this could happen really quickly so it's
+you know there are positives and
+negatives
+negative big negative is when you go to
+lake placid to go camping uh you're
+going to be camping under the
+satellites instead of stars yes
+there'll be waterfalls and babbling
+brooks and lots of shooting stars all
+the time shooting satellites yeah yeah
+okay yeah
+so that's the future we're possibly
+looking at sorry to bum you guys out
+today this is a fun episode it's funny i
+feel like the uh the boosted episode was
+it was a story but it was kind of like a
+sad ending because the company died so
+we're on two two sad endings in a row
+i don't want to pressure you into a
+happy ending for the next one but let's
+let's uh i'll try to figure it out try
+to find like a happy story you know in
+the meantime let us know what you think
+in the comments because i feel like
+there's going to be plenty of different
+opinions and different thoughts about
+this and also our resident armchair
+astronomers will be coming out i'm sure
+you have lots of i mean you were a
+resident armchair astronomers today yeah
+yeah i put on my astronomer hat a little
+bit there but we'll have them in the
+comments section below so we'll check
+those out too in any case this has been
+waveform thanks for listening thanks for
+watching if you're on the video version
+and we'll catch you guys the next one
+peace thanks for hanging out with us
+today and special thanks to emily zhang
+jonathan mcdowell
+jeremy tragolone reed robin dickey and
+joseph kohler we couldn't have done this
+reporting without you guys waveform is
+produced by adam molina we are partnered
+with the vox media podcast network and
+our intro outro music is by vayne sill

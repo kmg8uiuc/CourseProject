@@ -1,0 +1,2320 @@
+
+all right what's going on everybody
+welcome back to another episode of the
+waveform podcast we're your hosts i'm
+marquez and i'm andrew
+and today let's see we're going to talk
+about the teslaplat event i feel like
+i've got a lot of thoughts on that and
+what elon tweeted before and all the
+announcements in the car itself
+but also we've got windows 11 leaks and
+everyone's favorite social media
+platform
+making a watch maybe a facebook watch
+might have some rants about that
+yeah maybe first though adam found this
+really cool website and it's
+ranks the most used internet browsers
+and at first i was like
+cool i i'm gonna know everything this
+says okay i was actually like
+really surprised by some of the results
+yeah you mentioned this to me and i'm
+trying to figure out what you mean by
+that
+so first i want to just say it you can
+check it out in a couple different ways
+you can like do based on desktop or
+mobile or everything like that but if
+we're just
+assuming all platforms here what if you
+had to guess
+what do you think is the most popular
+internet browser okay is this worldwide
+worldwide worldwide all platforms most
+use internet browser so just the way i
+think about that
+is when you said most use internet
+browser i'm like what's everyone's
+default on their phone yep that's right
+and most people on the iphone are using
+safari
+and but there's way more android phones
+and i guess most of those are using
+chrome
+and then desktop desktop might be a
+little bit an
+odd one to predict because there's a lot
+of people using older browsers who just
+don't care
+um so okay most
+popular worldwide all platforms
+worldwide number one i would guess
+is chrome okay thanks to android
+number two i would
+guess is safari because of the iphone
+okay do you want to guess number three
+real quick
+that's tough one third is actually
+really close between a couple but
+i i only know so many browsers i know
+about firefox and i know about opera and
+i know about
+some older ones like maxthon and
+there's even some privacy focus like
+brave browser and things like that
+you're missing one really obviously i
+mean internet explorer
+and edge exist because people just use
+the default
+on windows yeah or does that make it
+number five i mean i guess it still gets
+a use case so it still gets
+used and like you said it's a default
+maybe it is number three
+i'm gonna go internet explorer
+okay number three well we're going to
+call it edge because internet explorer
+is not really a thing anymore right um
+yeah you're right but do you want to go
+ahead and open up that link okay yeah
+finally open it up because i think you
+may be surprised at the percentages of
+it
+this is 64 chrome
+wow 18 safari and then edge is all the
+way down at 3.37
+followed by firefox 3.36 and then
+samsung internet and opera around three
+and two
+wow is now is that because of the
+dominance of android
+well like i was trying to figure this
+out and it is cool in a second we're
+gonna go down and we're gonna click
+through a couple of these different um
+there's like you can sort it by just
+desktop oh i want to do that and and one
+was
+the tablet one is really interesting so
+i was trying to think of this
+my first thought was like you said there
+are way more androids in the world and i
+just
+as a pixel user i'm just assuming it's
+chrome as the default but
+then i see over here samsung internet so
+is sam samsung internet is the default
+internet browser for samsung phones
+right true so
+you kind of can't count it as while i'm
+sure a lot of people especially
+listening to this podcast probably
+install chrome on their samsung phone i
+know i used to
+i bet a lot i bet the majority of them
+are using samsung internet
+right and is that does that not fall
+onto chrome then even if it's like
+chromium-based it would be like
+samsung internet i mean i don't know
+enough about it but i'm assuming if it's
+listed here it's probably
+okay it's own thing i was just surprised
+at how
+but because of how many iphones and
+because of how many macs there are and
+because of how many ipads there are i
+thought safari would be at least like
+30 in second place i mean i thought it'd
+be way closer
+yeah 18 of worldwide is pretty good but
+i would expect a little higher
+from all those iphones and i also
+definitely expected edge
+to be higher because it's just the
+default on all windows systems so that
+means
+i mean if that doesn't tell you how bad
+edges
+or how little confidence people have in
+internet explorer which is now edge
+i don't know what to tell you anymore
+because there's
+obviously more than three percent of the
+market share of windows computers
+out there the the tablet one is
+interesting the tablet one's the coolest
+the tablet one has a char they all have
+a chart and i found this interesting
+because
+currently we have chrome at 46 percent
+safari at 40 um for tablets
+but the chart has a history where safari
+was at 50 percent i didn't actually look
+at that and has crossed
+under and lost and conceded first place
+recently in march like
+two months ago so that that's pretty
+interesting but again
+is that because ipads have stopped
+growing and
+you've just gotten more and more random
+android tablets out there in the world
+running chrome or are they just
+switching to chrome on the ipad i don't
+know
+my guess would be that ipad has just
+dominated for so long that's why i
+was ahead and now like you said i don't
+know if ipad
+sales are growing as fast as android
+sales are because
+lots of people haven't found an android
+tablet that they love and
+more and more are coming out and more
+and more have potential to be
+a good android tablet whereas we've had
+a great
+apple tablet for so long yeah um it does
+i am
+a little surprised when you go to mobile
+let's see mobile still is like
+i thought safari would be higher but i
+guess this is worldwide if we switch you
+can switch this to us
+yeah in the us i bet it's way higher
+let's see
+so i go to mobile and then i go to
+united states of america
+goes ahead 54 there you go
+so that would that would that would
+literally just be a count of like
+most people on the iphone using safari
+as their default lots of people use
+chrome on the iphone by the way
+but yeah just the overall default you
+can expect to dominate
+and then chrome being 38 uh that's going
+to be a lot of people on android phones
+shout out to
+samsung internet pulling in third place
+at 4.5
+there it is it's in its own category
+followed by firefox
+and opera pulls up a half a percent so i
+guess when you
+if you switch to desktop browser edge
+does go up to 11
+so i guess that makes more sense i still
+think that feels low which is pretty
+surprising
+um oh wait that's 11 in just u.s
+man there's so many options you can do i
+kind of wish i could pick every single
+thing
+that wasn't the u.s and base it on that
+remove the
+on desktop edge is only eight percent
+not even 10
+i'm i'm happy about that yeah that's
+right i was thinking sorry isn't even 10
+when you initially asked me what's the
+most popular browser i immediately went
+oh my god it's probably internet
+explorer it's probably edge it's
+probably number one because people just
+don't
+have you know there's tons of people out
+there who don't change
+but there are way more mobile users of
+internet browsers
+out there period there's lots of people
+who have phones that don't have a
+desktop or a laptop this really just
+shows
+that and it always i always know it but
+it always surprises me
+how big that percentage is and um i
+think one last thing i want to say on
+here is as a firefox user it
+kills me to see edge above firefox
+and it makes me feel like a little
+hipster it's an enthusiast browser
+which i don't get why i use it because i
+wouldn't consider myself the enthusiast
+that would take advantage of it but
+my boss when i did it just also used it
+so i just started using it and i've
+loved it since then and uh
+yeah kind of sad to see it so low have
+you tried chrome on desktop you just
+don't want yeah no i used to use chrome
+all the time i
+just i think it came to a point where my
+boss was using it and i was just
+watching my ram
+just get eaten by chrome i don't know if
+that's a
+fixed or just still like a meme i know i
+see the meme all the time it's still
+half true
+okay yeah but yeah firefox has just
+worked really well for me so i've just
+gotten used to it and kept using
+word well speaking of
+yeah this is too hard of a segue
+speaking of
+huge companies making products that not
+everybody wants
+speaking of the facebook watch have you
+heard about the facebook
+yeah yeah okay well there's a rumor i'll
+just just
+just to give some background to people
+there's this is literally just a rumor i
+don't think there's any
+uh official information there's not
+really any much
+credible leaks but there's a rumor that
+facebook
+may be working on a smart watch
+uh with some cameras in it oh i didn't
+oh i mean why can't why wouldn't it have
+a camera two cameras and a facebook
+smart watch
+so you remember facebook portal right
+yes okay
+that i mean facebook's reputation uh
+as a social network is one thing but
+facebook's reputation as a company
+is not the best especially when it comes
+to privacy
+and information and data arguably the
+worst when it comes to people
+it's not great yeah it's not great so
+when you hear facebook making a smart
+watch
+that uh they they did actually try to
+make a smartphone
+a couple years ago by the way the
+cha-cha it it was with htc
+i now remember it it was awful it
+there's no reason to remember it i'm not
+shocked that you don't remember
+it was one of the fastest discontinued
+products of all time
+i think i might have made a video about
+like the fastest discontinued products
+before the cha
+cha and this like took the throne really
+yeah it was like three months or
+something crazy like that
+but um yeah i wasn't shocked when that
+failed but when you hear facebook okay
+they might make a smart watch you think
+okay it's kind of along the same lines
+of like an unnecessary piece of hardware
+it's an accessory to an android phone
+why would i want the facebook version
+and then the one fact that just keeps
+getting attached to this smartwatch
+rumor
+is that it might have cameras on it i'm
+reading a little bit right now it says
+camera on the front uh exists primarily
+for video calling while a 1080p
+autofocus camera on the back what is the
+back of a watch
+first of all um it can be used for
+capturing footage when detached from the
+stainless steel frame on the right so
+literally the back
+so you would so you would i don't know
+about shooting video like this
+i can't what i cannot wait to see
+people walking around in like doors
+places that's really
+holding their watch straps
+trying to take photos of things i
+imagined okay i imagine for the for the
+audio only listeners i imagine it's on
+your wrist and the top of the watch that
+faces away from you would be like your
+camera to face away from you and you
+take videos of
+almost like you uh like the sony
+mirrorless cameras where you can flip
+the screen up
+vertically so you're looking down on it
+while it's facing forward so
+it's a 90 degree angle from the view
+you're looking at yeah that would make
+sense
+it would make sense functionally it's
+just stupid anyway because no one would
+use it yeah
+you can by the way use the apple watch
+as a viewfinder for your iphone
+so you can open the camera app on the
+watch
+and it literally just opens the camera
+on the iphone and you can use it as a
+viewfinder and can you tap shutter on
+that yeah you can shut her on the watch
+it'll take a photo on the phone but
+cameras living on the watch feels like
+number one it's going to look weird
+maybe a little clunky you're already
+trying to minimize bezels on a smart
+watch that's
+typically the form factor you want to go
+for on a higher end smartwatch and if
+this is a
+a dual camera smartwatch design that
+just doesn't seem like it's going to
+look any good
+i'll give them like facetime calling
+like
+okay sure that might actually be
+something like maybe you're
+just like quickly at the store and you
+want to like i still don't get why
+people facetime like at the store
+or at the gym always really confuses me
+but yeah i'll give it that
+facebook is attempting to connect people
+through video with portal like we saw so
+this would be another one the camera on
+the back
+just it makes no sense but i cannot wait
+to see people in the wild
+i'm trying to picture filming with it
+yeah
+i don't i see i do see lots of face
+times just like out
+in the like the gym locker room before
+i've seen it in the gym i've seen it
+i've seen people driving while face
+timing yeah that's a huge
+if anyone does that on this podcast i'm
+very upset with you i'm disappointed
+i've i've seen that through people's
+windows i've seen people facetiming just
+walking around in the streets which is
+it could happen i guess that's fine but
+um
+there is almost no reason i can think of
+why someone would want
+the camera to be on their wrist and by
+facebook of all kinds exactly i think
+that's what the next thing we're kind of
+getting at here is like
+if there's i have not seen anyone really
+use the portal
+and i think we all know why because why
+would you just voluntarily put a camera
+and microphone
+connected to facebook in your home now
+why would you take it one step closer
+and just put it on your wrist and now is
+potentially tracking
+all your health stuff as well like am i
+gonna start getting blood pressure
+medication
+on my facebook ads if i start wearing
+this or like
+that feels like a invasion of privacy
+but if
+we all know facebook's motto it's pretty
+much where invading your privacy yeah
+like if you if you go all the way to the
+extreme like if facebook could have it
+their way
+they they announce a watch it's got
+sensors on it cameras on it connects to
+your facebook account
+you know how like the oculus quest you
+need a facebook you needed a facebook
+account
+um this would be the same way like you
+need a facebook account you have this
+watch
+and then it would just sell
+it would just give all your information
+back to facebook to help target ads
+better and make a better facebook
+product that if they could have it their
+way i'm sure that's what happened
+you would start getting ads based on
+like things the watch notices about you
+things you've said around the watch i'm
+just imagining
+like every weird uh like medicine
+commercial we're used to seeing in the
+u.s and just like
+now that coming up and being like does
+my watch know something i don't why am i
+getting ads for
+like high blood pressure or something
+like that i was just thinking about this
+also this is one of the one of the most
+impressive things about the apple watch
+is how much it knows about you
+and doesn't relay back to apple like
+there's a bunch of locally collected
+information and a bunch of like apple
+values privacy at least
+in that way where they'll keep a bunch
+of stuff on device um
+but this watch knows a lot about me with
+all the sensors and all the heart rate
+information and
+the exact times that i go to sleep and
+wake up every day and like all this
+you know you know blood glucose
+measuring is one of the rumors they're
+gonna have all these other sensors in
+the watch and it just knows so much
+about me
+that if apple decided to flip a switch
+on privacy and just was like you know
+what we're just gonna sell all this
+information
+they would have a lot of information
+yeah i i don't know how much they could
+do with all that
+well i'm sure they could do plenty with
+it yeah i don't know i don't know how to
+feel about that
+but this kind of leads me to a little
+fun question i have also a quick point
+yeah
+the the hipaa stuff you're not allowed
+to share
+uh public or you're not allowed to share
+uh health information about people
+that you collect if it is a certain type
+of health information because that's
+the way health information works uh
+unless you sign that stuff away
+willingly
+which i feel like could very easily be
+tossed into terms of service that
+you accept maybe who knows yeah we're
+we're clearly speculating here so don't
+take anything
+yeah as uh take it with a grant this is
+not medical advice this is definitely
+not medical or
+lo or legal advice you are trying to
+collect people's data or financial
+advice
+um but we had a quick little question or
+like a couple of us were saying like
+what would you have like how good would
+the facebook watch have to be
+for you to be okay with wearing
+something made by facebook on your wrist
+all the time
+because like we always talk about apple
+watch is just so far ahead
+there aren't a lot of android watches i
+mean yes there are android watches that
+people like
+but i think we can all agree there's not
+one
+over the top clear winner android one
+there's no match
+to the apple watch exactly so what would
+this have to do for you to be like hi
+mark okay are we assuming it has to have
+the cameras on it
+do you want to take the cameras off i'm
+just yeah let's assume it has to have
+the cameras on it because like
+you're we're saying how good does this
+have to be for basically you'd have a
+total invasion of privacy
+yeah basically uh um if i just go right
+to the top
+and it's literally an apple watch made
+by facebook with two cameras on it i
+still wouldn't want it
+and like pairs equally as well with all
+of your yeah products
+the apple watch exists and i would just
+pick that over this ever so this has to
+be something better than the output it
+has to be
+better than the apple watch in some way
+it would have to have like
+i don't know like some insane highly
+technical like maybe the battery life is
+a month
+and it does all the stuff the apple
+watch does super responsive
+i just don't i don't think there's
+anything they can do to make me want
+this smartwatch it's hard i think this
+is this is turning more into like make
+your dream smartwatch and then
+still not want it because it's connected
+to facebook
+but i mean i think the first thing i
+would want i would want it to look like
+a real watch
+i'd like the style aspect of it to be
+better um
+i would want it to be super thin but
+like you said crazy battery life i still
+am a little upset at how thick a lot of
+smart watches are and i mean
+watches are pretty thick in general as
+well but batteries um
+yeah batteries are thick it's hard but
+again i really don't want facebook on my
+wrist either so
+yeah let's make it hard for you yeah i
+think it's it's probably not going to be
+yeah facebook if you're listening take a
+lot of notes
+on what happened to the cha-cha just
+remember that remember
+i'm sure they will never forget that
+yeah but yeah i think the
+the biggest thing here is i cannot wait
+to see people filming with their watch
+that sounds hilarious there needs to be
+an instagram page dedicated to like
+people of walmart but people filming
+with a facebook watch i
+i'd follow that in a heartbeat i hate it
+uh we were going to talk about windows 8
+a little bit
+that is windows 11.
+talk about internet explorer um yeah no
+windows 11 has gotten leaked a little
+bit we're going to
+we're expecting to see officially
+windows 11 stuff pretty soon june 24th i
+think is their event okay so it's coming
+right up
+but uh do you have any thoughts on what
+we've seen so far
+yeah i'll describe it quickly because
+like i mean
+people have almost the full version
+there's a couple things not quite
+working but i think the main difference
+we see
+and with most browsers is like how does
+it look on your desktop like what has
+changed there
+and the main thing they've done here is
+cleaning up the toolbar on the bottom
+and centering it
+and then when you hit that start menu
+the start menu is now
+also centered and it's it's pinned apps
+it's all app based kind of on the top
+and then at the bottom has a couple
+recent files recent folders stuff like
+that um so it's
+it's much different and it very much is
+kind of going along the same design
+pattern as like mac os or chrome os
+which is just center based big app
+buttons
+it it feels like it's going more towards
+like almost a mobile platform
+i don't know why centering it bothers me
+so much it does
+luckily you can go back to left the line
+okay
+for me windows i'm just so used to left
+align and like
+maybe that's the old person in me i'm
+sure most people who like windows like
+it well
+everyone's used to it every version has
+it's always always been left alone
+always always always been like that as
+far as i can remember um and
+yeah it looks weird in the middle to me
+but maybe that's just me not being ready
+for change
+um i've always i've always kind of liked
+that windows felt a little more like
+file based and a little less
+user-friendly but if we're being honest
+that's because we're nerds and most
+people would probably enjoy this better
+it's much it's much easier it's much
+cleaner
+apps are like super big and easy to see
+and they're all just right in the middle
+so
+i get it yeah to me honestly desktop
+os's have always been
+and probably always should be pretty
+boring like i
+i do my file management and i move
+things around and i use the programs but
+the os itself
+doesn't really need to do that much for
+me it just needs to look good and clean
+and simple and work the way i
+intuitively expect it to
+like mac os versus windows to me
+is not that exciting of a debate because
+i could i could use either
+yeah it's just like do you move the
+window controls to the left or the right
+like do you move the menu bar to the top
+or keep it on the window
+like small details are are sort of
+minimal but
+at the end of the day it's about the
+programs i'm running on the os
+that i care way more about so windows 11
+is
+is cool and it's exciting i'm sure for
+some people i heard there's a new
+startup sound
+uh which is neat yeah there is one um
+i'm sure adam can add that in
+it's in this article we have which i'll
+also post in the show notes because
+that's a lot of pictures i do
+there's a photo in here with it left
+aligned i do think
+it being back on the left side i think
+it looks better than windows 10. it's a
+little more compact
+i like that the search bar is a button
+that you press and i'm assuming expands
+into the search bar rather than windows
+10 just
+had the search bar there already all the
+time um
+but i do enjoy that there's a couple
+little other things there's like
+some new on the maximize button some new
+ways to structure windows into
+pre-planned places and yep that's what
+an os is
+yep that's simple yeah not too much i
+think there's some new xbox
+console stuff on here um but yeah june
+24th
+should be the announcement for all of it
+my favorite thing about this was um
+tom warren's video where he opened up
+the notifications
+panel on the side and he took his mouse
+and he just slid over
+and just dismissed the notifications by
+sliding
+mac os craig take some notes baby
+there are good stuff two more quick
+things rounded corners
+just design change and then widgets
+which i
+did want to talk about i actually
+thought widgets weren't really a thing
+anymore but i looked it up and
+apparently you can do them on windows 10
+but i really think vista just left such
+a sour taste in everyone's mouth
+that i don't know a single person that
+uses windows widgets anymore
+um do you remember those i do i remember
+actually
+really looking forward to windows vista
+because wasn't that right after xp
+everyone did because it was like it was
+a pretty dramatic change
+super dramatic change like very visually
+yeah because we had xp for a while and
+it was flat and it was
+opaque and we had all these like very
+clear well-defined
+aesthetic looks and then vista was like
+this translucent
+like glassy thing and it was going to be
+so new and fresh and modern
+and so i was really looking forward to
+vista i remember wanting a new gpu
+just specifically so i could have this
+great vista experience
+uh and it was it was all right that was
+right yeah it was like very
+bubbly you felt like you were uh do you
+know that uh
+what's that board game with the in the
+middle i think it's called trouble where
+it has like that big
+bubble with the dice inside it and you
+press it okay like that's what the
+buttons like the start button felt like
+on vista and then the widgets were just
+so
+bad there was all these like 3d circular
+look
+terrible they've always been weird even
+on uh on mac os for the longest time you
+had a
+dashboard thing where you could just
+swipe in a bunch of widgets and they're
+just you just have a calculator
+and a weather widget and just a bunch of
+random widgets that you could
+be just great if they put that on ipad
+but uh yeah
+but you know desktop os keep it simple
+yeah all right so let's talk about
+tesla's latest event
+their latest product and their latest
+situation
+with plaid model s and x so yeah that's
+the latest
+is tesla's model s and x their higher
+end vehicles now have a
+plaid version and they're they're both
+essentially getting refreshed entirely
+so there's a new long range model s l
+focus on model s and
+a plaid model s long range model s is
+dual motor
+we'll get about 400 miles of range and
+we'll do
+zero to 60 in 3.1 seconds i think
+and then plaid model s is triple motor
+and they have this immense focus
+on that powertrain and that performance
+and it'll do 390 miles which is pretty
+dang impressive
+and 0 to 60 in 1.99 seconds
+asterisk we'll get to that so generally
+the biggest thing actually here to me
+is the interior refresh because that's
+like really what happened with this car
+is there's a new interior have you seen
+it you've seen the
+yeah i think i mean clearly the yolk is
+the biggest thing it's something we all
+thought
+we didn't really think was gonna happen
+there's definitely been past episodes
+where we said we didn't think that was
+gonna
+actually ship with that but it is um oh
+man what do i think of it
+uh and isn't the other big difference
+kind of it's the horizontal
+screen now rather than the vertical
+screen i like that a lot there's a bunch
+of new stuff
+i don't i'll just go down the list
+honestly because there's a lot
+okay um i think we'll start with the
+yoke right so i've seen
+so they they announced the plaid car
+originally
+then we got this first deliveries event
+where they delivered the first 25 of
+them so now they're officially out in
+the wild
+it's happening there's real people
+driving them they have the oak wheel
+and they will continue uh deliveries
+from here so there's a lot of inter
+interior changes that match model 3 and
+model y
+they've got the new ventless invisible
+air conditioner system
+okay they've got the new door handles
+from model 3 and model y they've got the
+wireless chargers
+up front that are now actually built in
+right under the screen and they've
+switched to a horizontal screen with a
+new software version
+but the one thing that is definitely
+different and new
+and catching eyes is the yoke steering
+wheel yeah and
+for those who don't know what a the yoke
+steering wheel is it's imagine a
+steering wheel
+where you sort of square it up a little
+bit instead of being a totally round
+wheel
+and then just go ahead and chop the top
+half of it off just take the top half
+of that square steering wheel and just
+pop it off
+and that yoke that you have left that's
+what's going on
+not only that but there are no stocks
+on the steering wheel column yeah bigger
+deal than you think because that's where
+your drive selector usually is
+slipping switching into reverse or park
+that's where your blinkers usually are
+that's where your windshield wipers
+usually are that's where your autopilot
+select usually is that's where your
+headlights usually are
+all of that gone now buttons on the
+steering wheel or controls on the
+touchscreen
+how do we feel about i mean there's a
+lot of how do we feel about these
+50 different things okay i'll start with
+if i'm just going to go the general yoke
+steering wheel
+i think it clearly catches eyes it is
+clearly a great
+press photo it's clearly a great what
+car is that what is that steering wheel
+when you're walking through a parking
+lot or something
+awesome like looks really really cool
+functionality wise
+i mean i don't want to make the biggest
+judgment without using it but i
+cannot see myself enjoying it i think
+it's going to be very hard to get used
+to
+i i mean there's a reason a wheel has
+been on a car for so long because
+there's so many points of contact when
+you're making these big u-turns or
+k-turns or
+turning around in a parking lot or
+something like that i mean for example
+there's a video posted of a guy
+turning literally he pulls into a
+parking lot and then tries to make a
+u-turn to come out
+and as he's going like really awkwardly
+hand over hand to try and
+make the full 360 turn he's like hitting
+the horn button
+and like all sorts of different things
+are going on and it just looks
+really awkward so i believe they use
+yolk steering wheels for like
+f1 races but that makes sense because
+the
+the amount of turning they're doing
+while they're doing a lot of turning
+they're not doing like
+really really aggressive big turns and
+like full 180s 360s stuff like that yeah
+the the turns you do on a racetrack are
+maybe 45 degrees tops where the turns
+you do in real life are much more
+exaggerated um yeah very often too like
+you do that
+all the time i was thinking about that
+as i drove here today because my natural
+resting place on the steering wheel is
+actually typically
+sort of acceptable for a yoke but the
+second i wanted to do my turns i
+realized i
+i moved the wheel between my hands wall
+my hand i would i would have been
+grabbing air basically and so i'm seeing
+these videos now of that you know the
+first ones are out in the wild and
+there's people driving them and i'm like
+this is classic tesla of
+completely ignoring standards because
+the only reason their standards is
+because we've been doing them for so
+long
+the the first thing that i that comes to
+mind with this is how a model 3 doesn't
+have a screen behind the steering wheel
+every car anyone's ever owned has had a
+screen behind the steering wheel
+or some way of seeing your speed behind
+the steering wheel right
+most of them my first car ever was a
+saturn ion
+and the speedometer was above the radio
+in the middle
+very similar to where it would be for
+like a model that's hilarious
+because now so the model 3 puts it over
+on the right side of
+your vision but the only reason
+that we're all used to the steering with
+the speedometer being like right behind
+the steering wheel is because that's
+where we've trained our glance to be
+if you're looking at the road you just
+train your glance to be right below
+you have to leave the road to look at
+your speed and look back
+and i found that the more i drove model
+3 and model y for that matter
+the more i just trained my glance to be
+45 degrees to the right instead of like
+straight down so it actually didn't seem
+that bad it was just this small learning
+curve where
+fine tesla can get away with doing
+something different because it's
+actually
+fundamentally not that different and so
+i'm thinking about this yoke like is
+this going to be the same thing
+where i'm just going to get used to the
+buttons on the wheel
+i'm gonna get used to my horn and my
+blinkers and my
+my headlights being buttons on the wheel
+just because there were stocks before
+doesn't mean they had to be stocks
+they're right at your fingertips of
+course it should be easier it's faster
+and i i feel like i'm just gonna have to
+try it to understand
+i don't think there's any way for me to
+watch enough videos to go oh
+here's what the learning curve would be
+i think i just have to drive it it's
+it's way more to get used to uh like
+glancing over to the right is
+a much smaller easier thing to get used
+to i also
+weirdly found it when i used to drive my
+old car like being someone who's tall
+and if you sit in a position where your
+steering wheel is at a certain place
+if i were to have my speedometer right
+in front of me i would block the
+speedometer with the steering wheel
+all the time because i'm like looking so
+hard down um
+yeah now it's well yeah but like
+the yolk is so much to change like
+especially people who have been driving
+for years like you just get so used to i
+mean how many how often do you do the
+thing where you like
+you spin the wheel and then you like
+have your hand on the wheel and you just
+kind of loosen it and it spins through
+your hand
+actually like at any point you can grab
+it and now you're ready to go like that
+is it literally impossible
+on you right i know a lot of people who
+do that and i
+i don't personally do it but i've seen
+it a lot this is
+a lame driving instructor because it's
+the coolest thing to do oh they they
+hate when you do that though when you
+do that yeah they're like don't let the
+wheel oh i'm just making a bad joke
+yeah yeah no they're like definitely
+hold the wheel
+you had a strict driving exactly i had
+them do the textbook way
+but i feel like the squareness of the
+wheel would also hurt you sliding it
+through your hands because it's
+hear me yeah i a lot of times i drive
+with like
+one hit when i'm like on a big highway
+that's straight i have like one hand
+kind of at the bottom and i think the
+fact that
+the wheel is circular at the bottom if
+i'm doing it in the middle it's very
+easy to just
+turn on the the point of the axis where
+it's square on there
+i'm sure you can do it but i feel like
+it might take a little more force
+because it's a little less
+natural to move a square on a circular
+axis than it is to move a circle on a
+circular axis
+right yeah and you can change the the
+steering weight and all that to be
+sport heavier or comfort if it's a
+little lighter but
+i would like to try it i think the
+buttons are going to be harder to get
+used to though
+i that's the part that's interesting to
+me i think that's going gonna be the
+easiest part to get used to
+i think that i've gotten so used to
+driving with stocks that i just know
+how to go to drive and reverse and i
+know how to get my blinkers and my
+wipers
+and i think i'm gonna start driving a
+plaid model s
+and get really used to the buttons and
+then going back to a regular car will
+feel
+weird because i have to reach further to
+do all these things where i was doing
+them on the screen and on the steering
+wheel before
+i think that's just me speculating also
+wipers
+screen don't like that that doesn't seem
+great
+yeah um but too often you have that like
+in between
+wipe that's just like i don't want this
+on all the time but i just need like a
+quick
+ass i think that's what what the button
+is the button's a single wipe
+yes always automatic wiper other than
+that i think so
+okay maybe that's not as bad i don't
+know i like
+i like being able to control things like
+that automatic stuff
+usually usually isn't good it's a little
+finicky yeah um
+i don't know about the buttons as
+someone who's like i have all my media
+controls on my
+on the steering wheel on my car and
+generally if i want to do anything other
+than like
+volume up volume down i still look at it
+really quickly yeah and i've had my car
+for
+almost 10 years at this point yeah so
+like i don't know you're not using it as
+much as a blinker
+it still feels kind of strange i also
+would kind of expect the well obviously
+this doesn't happen on the stock but
+a blinker left blinker on the left side
+right blinker on the right side
+like make it a little easier like the
+most common thing should be the closest
+to your thumbs on the steering wheel
+so that's not the way the stocks were
+it's not but that's just like one finger
+up down
+yeah i mean and but that goes with yeah
+i guess technically i guess yeah it's
+it's interesting it's just gonna be
+weird
+but yeah there's just so many instances
+of tesla changing little things where
+like i guess
+we've gotten used to it a certain way
+over time and this is different and it
+will require a learning curve but
+maybe if this is the first car you ever
+drive it it
+probably won't be up yeah sure that's
+what they're going for is like something
+along the lines of like people into it
+used to this and it'll it'll become
+intuitive
+i i feel like both of them together is
+going to be a really steep learning
+curve for a lot of people and there's
+going to be a lot of
+model s drivers using their blinkers
+really poorly or making really
+bad k turns on roads yeah that's the one
+thing okay
+so the automatic drive selected oh man
+this is this to me is actually probably
+a little too far i would have liked to
+have seen a
+stock for this so here's what's supposed
+to happen
+and elon basically explained it on stage
+but
+says that the model s and x refresh
+will guess what you're going to do
+when you get to stopped and and which
+which direction you want to go forward
+or reverse
+so if you're there are a bunch of
+instances where it seems very
+straightforward
+i back into a parking spot and i park
+when i get into that car
+i'm going to go forward let's say i go
+forward into a parking spot there's a
+barrier in front of me i get into that
+car
+hit the brakes it's just going to go in
+reverse for me because it knows i feel
+like even with this example you've
+already hit a snag
+backing into the spot it's going to
+guess
+yeah so there are there are instances
+where it's pretty obvious what you're
+going to want to do if i
+pull up to a like a if i go to
+it's going to say parallel park that's
+another one i don't know what's going to
+do
+but if i just go pull up to something
+where there's a wall in front of me and
+i'm going to make a three-point turn
+i'll pull up to the thing in front of me
+it will automatically switch to reverse
+i'll back up and then i'll it'll
+automatically switch to forward when i
+stop backing up
+and i'll exit that turn without having
+to touch anything and it will have just
+done its job for me
+that's something we're assuming with
+like curbs on it right yeah yeah so can
+see when you pull to a stop it's like
+now
+you've arrived at something in front of
+you we're going to switch you to reverse
+and it just does it for you
+okay so there's a couple well it looks
+like it makes sense but then there's a
+question of like
+i want to parallel park oh yeah i pull
+up to a car next to me
+i pull up to a stop is it going to know
+i want a parallel park will it
+automatically reverse for me because it
+still sees a street in front of you
+yeah it sees like i just pulled up next
+to a car like at a stop light why would
+i want to reverse i'll keep going
+forward so i'm going to have to manually
+switch that i'm pretty sure
+um there is auto park on these cars but
+there's like a whole bunch of other
+weird finicky human guessing situations
+where i feel like
+you're just going to have to do it
+manually so i've already assumed
+i'm going to be manually overriding this
+all the time oh yeah
+so my question was how easy is the
+manual override and it's this like one
+inch wide
+slot on the left side of the touchscreen
+you swipe forward to go to drive you
+swipe backward or down to go to reverse
+and you hit the corner to go to park it
+seems
+okay not as good as a stock no seems
+okay
+uh a stock is literally just right there
+like just popping into drive pop into
+reverse everyone knows how to do that
+super easy
+and i saw someone in a video sort of
+demo it like oh yeah it just kind of
+feels like a stalk like you just
+flip it up to go forward and flip it
+down and then he missed and then he
+swiped it halfway and it went back and
+didn't work and like
+he missed the side of the screen like a
+whole bunch of questionable
+uh misses on the touch screen there so i
+cannot imagine
+like parallel parking on a busy like
+main street is
+already like if it's busy enough and you
+have to pull up and then the car behind
+you can't get past so it has to sit
+there and watch your parallel park
+i cannot imagine the stress that would
+be induced by like
+having to hope this thing guesses also
+did he use the term guess in the
+presentation
+i think he did yeah the last thing i
+wanted i don't
+want to hear i would like no yeah it
+will know
+like even if yes it's guessing don't say
+guess it will decide for you what you
+want to do
+like i can't wait till i'm on the road
+in this two-ton
+car guessing what i want to do next
+something that did get overlooked a lot
+though was uh
+right below the wireless chargers there
+are four physical buttons
+uh haptic buttons okay where you can
+switch between drive modes
+right next to the hazard button is that
+confirmed yes okay
+so that seems like it may be a more
+reliable or at least i don't know if
+you're
+it's not going to move any more than the
+thing on the touch screen but maybe if
+you want like a button more often
+that's the other thing i'm kind of
+wondering about have we like these
+buttons on the steering wheel is there
+uh
+are they like touch screen ish buttons
+or is there like a physical is
+enough to where i'm like kind of having
+some divider that i can feel between
+these
+so i was worried about this i was asking
+about this in my impressions video they
+are haptic buttons they don't click at
+all
+yeah but is there a differentiator
+before i click the button to know that i
+am on
+new button or something like that like
+are they raised a little bit is there
+do you know sometimes though when it's
+touched they'll put like a a little
+raised piece in the middle
+so you can tell like oh i'm on the left
+blinker or the right blinker yeah okay
+good point so they have a little divider
+between the left blinker and the right
+blinker so you know when you're on which
+blinker
+but on the other side like the
+difference between your horn and your
+headlights is just you just have to
+press the right
+space you just have to hit the right
+touch target you just don't know there's
+gonna be a lot of model s's honking
+and you're not gonna know if you just
+messed something up or if someone's just
+pressing the wrong button on the
+the wheel or people are gonna think
+tesla drivers are
+angry flashing my headlights was just
+like hitting the stock and now it's like
+hitting the button on and off real quick
+oh yeah you have to go
+you gotta hit the one off just just to
+flash
+not stop being not what i wanted not
+what i wanted so yeah we'll see
+i would have loved to have seen like an
+option for a regular steering wheel
+but this is classic tesla they're just
+going to go forward with this and
+it is what it is kind of the other thing
+though it's like we're talking about
+getting used to this
+not only are you giving people more
+power and
+more like a more intense driving
+potential like now you're giving them a
+steering wheel they're much less used to
+like
+i hope people are safe when they do this
+and get used to the steering wheel i
+mean for a straight line
+yolk's perfectly fine i'm sure people
+will launch their cars because
+it's clearly a new 0 to 60. but uh
+yeah yeah that's going to be fun out of
+all of this
+maybe the most exciting piece to me is
+the new performance so there's there's a
+long range version with this new
+interior
+and there's the plaid motor plaid model
+s with the triple motor performance
+version with this new interior
+um that has a 1.99 second zero to 60
+with one foot roll out
+so it's probably closer to 2.1 or two
+points what does that mean
+as a not car nerd good question so a lot
+of cars measure their 0 to 60 from
+zero and a lot of cars measure their 0
+to 60 with a one foot roll out
+basically a one foot roll out means
+literally exactly how it sounds the tire
+starts rolling and once it's rolled out
+a foot
+that's when they start counting the 0 to
+60.
+for whatever traction reasons or
+whatever there's a bunch of performance
+cars that
+that measure their 0 to 60 after rollout
+and so yeah with this little bit of roll
+out you figure the car is already going
+like four or five miles an hour by the
+time it gets
+one foot of roll out over this tire uh
+it is still extremely fast
+yeah but bragging rights lets them put
+1.99 seconds with
+a foot of roll out and that's what they
+chose to do if you can go
+under two you're gonna pick it but yeah
+yeah clearly if it needs the one foot
+roll out
+it's probably not actually an under two
+from some do you know like
+the average of like what cars like how
+many cars use
+zero to sixty versus rollout to sixty
+typically it's it's funny it's kind of
+like whatever they just want like a lot
+of performance cars use it with rollout
+like if you're asking about the
+fastest couple of zero to 60s ever
+measured they're all with rollout
+and that's fine and we kind of just
+accept that um
+but this is still fast than all of them
+so i guess yeah we'll just we'll just go
+with it we'll just go for 1.99 if our
+snarky twitter account for a corporate
+performance car company i would make fun
+of all the other ones that that
+one foot roll out yeah enjoy your
+handicap
+still got to beat it but yeah that's the
+other thing is so cloud model s has
+a 200 mile an hour top speed with the
+right tires anyway
+and it's rated at 1020p horsepower which
+this is the this is the interesting part
+is like it's doing track laps now
+without overheating
+they've figured out the heat pumps
+they've done a much better job
+conditioning the battery to keep it
+doing launches and doing high
+performance runs
+over a longer period of time without
+overheating that was an
+issue with previous model s owners and
+model three was already a step forward
+with that so that's cool
+then they showed this chart on stage
+where they showed like p100d
+then model s raven and then the
+horsepower or i think the torque output
+of plaid model s which just kept going
+up like it just
+it seemed essentially flat at a thousand
+horsepower up to 200 miles an hour which
+is
+kind of scary um but the the main
+question is are they gonna
+continue to improve on this for roadster
+like they have these carbon sleeved
+rotors and they have all this crazy tech
+to make it work
+um i don't know it's just like a next
+level
+performance gain for a four four-door
+sedan with like eight feet of storage in
+the back like it's crazy
+so i think that's one thing people
+always forget is like it's so quick to
+like take
+model s numbers and compare them to all
+these other like
+performance cars but then remembering i
+mean this is what we made project love
+day about
+um for people who don't know we did an
+old tesla
+video contest where we made a video
+about like a commercial for tesla we
+actually won it
+um partially because we have a lot of
+fans but the whole video is based on
+like
+a very fast car being able to do
+everyday activities
+yeah fun video to make but yeah i feel
+like people always forget
+about like how much trunk space and how
+much like of an everyday car a model s
+is
+with these numbers yeah so so
+390 miles of range is nice
+yeah but it's not wait can i say my one
+more
+my favorite part about plaid yeah go
+ahead the logo on the emblem on the back
+i love the flat emblem i absolutely love
+it
+apparently that plaid it was just for
+the first 25 deliveries at the event
+those people are very lucky because
+that's awesome
+somebody's probably gonna i bet someone
+sells those yeah like i just
+love the spaceballs reference um and to
+put it physically on the car like that
+it's hilarious
+i wonder if mine are you on we'll figure
+that out later but yeah it says
+the the just plaid text on all the
+others it's just this plaid pla
+is it in plaid nope just uh just like
+the other text those just chrome letters
+it'll just i don't want one anymore
+yeah this is a major detail um
+no yeah this is a this is it so so the
+the range that people were talking about
+this is the
+the question that sort of hovered over
+this whole event was are they going to
+address
+plaid plus yeah because what happened
+before this event was maybe
+just as interesting as the event itself
+which is
+tesla had also announced and promised
+another car
+called tesla model s plaid plus
+that would have assumedly new battery
+technology
+520 miles of range a slightly faster
+sub 1.99 second zero to 60 and about
+1100 horsepower
+everyone went well this car is bonkers
+why would i get plaid if plaid plus is
+coming out next year i'll get plaid plus
+then literally hours before the event
+maybe a day or two before the delivery
+event
+it was on sunday and the event was on
+thursday
+okay so a couple days before the event
+uh elon tweets this is like official
+tesla news classic but elon tweets that
+plaid plus is
+cancelled canceled that's the first time
+i don't think i've ever seen a tesla
+model get announced and then canceled it
+was like such a weird way he did
+it though because it wasn't just like a
+tweet that says plaid plus is cancelled
+it was this
+thread of tweets where he says
+originally modelos goes plaid speed this
+week which is like
+get everyone amped one minute later
+reply thread plot plus is cancelled no
+need as plaid is just so good so it was
+like a
+it's canceled and then let me throw
+three percent off with something else
+and then a quick like
+zero to 60 under two seconds quickest
+production car made of any kind
+has to be felt to be believed so it's a
+very quick like can't wait for a model s
+plaid
+pie plus is canceled and the plaid is
+going to be so good so
+just like i actually thought this was
+brilliant i mean it's a brilliant way to
+announce it when you kind of don't want
+but yeah of course test i feel like the
+tesla
+community was like oh my god this is
+awesome did he just say it was cancelled
+and then like that was the the news for
+like two or three days
+yeah and so the question is all right
+plaid plus is cancelled number one what
+do you mean by
+plaid is just as good yeah and number
+two why is plaid plus canceled it was
+going to have 500 miles of range
+and i think there was a follow-up tweet
+essentially saying
+what elon said yeah so it's actually a
+response to
+electric i believe and we'll post that
+in the show notes as well and he said
+uh what we're seeing is that once you
+have a range above 400 miles more range
+doesn't really matter there are
+essentially zero trips above 400 miles
+where the driver doesn't need to stop
+for restroom
+food coffee etc anyway i think that's a
+nice distraction
+i totally agree with you uh
+if you if you really read into that
+saying
+seems like people don't really need more
+than 400 miles
+i would argue people don't need faster
+than 2.5 seconds 0 to 6
+60 even that's a good way to that's a
+really good way to put it i didn't think
+of it like that so the point is
+um we we're using our inferencing and
+our context clues to imagine probably
+the reason plaid plus is cancelled is
+because
+the batteries that would have been
+needed to create that car
+aren't quite available yet they're 4680
+cells they're higher density they're
+much more impressive technically
+and we think they're going to be in
+cyber truck and roadster to get those
+respective 500 and 600 mile rated ranges
+but if we started with plaid plus we're
+probably going to be taking
+resources and and cells away from those
+more important vehicles
+so we'll just cancel plaid plus shift
+all those orders to plaid
+distract them about why we're switching
+yo plaid is good enough
+it's great trust me it's going to be
+just as good basically the same
+and just sort of sweep the 200 extra
+miles under the rug because that was a
+big difference
+390 miles 390 miles is nice i currently
+have like 300 miles
+and 390 as a max range sounds great
+but 520 is
+way way more confidence inspiring that's
+like
+literally i could drive to north
+carolina from new jersey i can drive
+probably to like cleveland from here on
+500 miles of range so
+i would have been really excited about a
+car with that sort of range
+uh rather than a 0.2 second faster 0-60
+so that to me is a little bit
+interesting and concerning but
+also brings up questions about uh
+well when are we going to see cars with
+that type of range are we ever going to
+if elon keeps saying if he sticks with
+this
+uh 400 miles of range isn't really
+necessary then
+why promise 600 miles for roadster and
+500 miles for cybertrek
+yeah still happening i think there's a
+lot of like weird things to unpack from
+that because like
+if you're saying you think it's so i
+think the approach you're taking for it
+is
+the optimist i've seen two ways people
+are seeing this yours is the optimistic
+one like
+let's save these for ropes or cyber
+truck coming out we don't want
+those to be delayed anymore we don't
+have enough for them
+the other approach is these aren't ready
+these cells aren't ready yet
+and people don't think they're
+completely ready we don't know when
+they're gonna be ready
+is this gonna mean cyber truck road
+circuit delayed further and like
+i think both and saying they're not
+ready right now means
+they're definitely getting delayed so
+he's trying to not
+put any of the attention on to that
+potentially so yeah i wouldn't doubt if
+it's like a kind of
+little of a little of b like maybe the
+batteries are pretty close to being
+ready and it would just delay plaid plus
+and then if you put
+plaid out before plaid plus and i don't
+know
+there's a lot of speculation going on in
+that way yeah but i do think
+like i think that's really interesting
+what you just said though is like
+if you're using the excuse for 400 miles
+right now
+does that mean you're basically saying
+you don't think roadster
+or cybertruck should go 500 miles
+because like
+you could easily make the argument that
+a
+sports a coupe doesn't need to go 500
+miles like who's going on a road trip
+efficiency has never been a concern
+sports cars so that doesn't make sense
+for me now cyber truck on the other hand
+like i do think
+there are a lot of people looking at
+trucks to go long distances
+so that makes way less sense but now are
+you going to bottleneck
+your truck because you used this excuse
+previously
+yeah or do you actually believe that
+which then i think is a whole another
+thing where it's
+elon looking at numbers way too much
+numbers of what he has right now
+and then potentially limiting stuff in
+the future because of that
+so if i just stay with my my just
+straight logical brain
+number one plaid plus was not cancelled
+because plaid was good enough
+it was cancelled and the distraction was
+plaid plus is good enough trust me yes
+it's great
+but then two the reason that plaid plus
+is cancelled is probably going to turn
+into a reason that cyber truck and
+roadstar are delayed
+yeah probably totally agree with it but
+as long as we're not talking about those
+yet
+we don't have to talk about this yet so
+all the focus was on plaid
+that night and obviously it's still a
+very impressive car 390 miles
+is only slightly less than 412 for the
+long range so i'm
+i'm perfectly fine with that um and yeah
+it's a it's an impressive car but yeah
+it's just got me
+thinking about like how much how much
+longer we have to wait for roadster this
+was announced in 2017.
+was it that long 2017 is when the
+roadster was announced
+so i mean i knew we would take a while i
+think it's i think it's that they keep
+like
+talking about it or like releasing it
+and stuff or showing it
+you know at uh the semi-truck event that
+gets people more and more hyped for it
+and then
+you see it pop up every once in a while
+but yeah it might take a little longer i
+i
+what are your thoughts though on wanting
+more because
+it's one thing to think about 520 miles
+as
+i would like to go on a 520 mile trip
+where in that
+singular case i think elon's probably
+right chances are on that 520 mile trip
+you're going to take
+you're not doing it straight you're
+taking breaks you're taking restroom
+breaks
+if there's a charger available at all
+those then yeah makes no sense
+yeah i think there's tons of other
+scenarios though
+where that doesn't help in that extra
+range um
+i think the the one i found the most
+interesting is the people who are
+the most effective way to charge is
+lowest battery correct to around what
+60 percent is like the really really
+efficient so
+now you're zero to sixty percent is much
+bigger and a way bigger range
+so that means you can now drive further
+and still charge as efficiently as
+possible
+or there are the people who maybe live
+in an apartment or in a condo or
+something that don't
+have a garage and a charging place at
+home yeah now they're not charging
+every other day they're charging every
+three or four days like that's so nice
+to not have to i know someone with a
+model y
+who they live near a college and every
+once in a while like every couple days
+when they come home they go
+drive onto the campus and sit in their
+car chargers all the way to full
+yeah so they're sitting there for like
+45 minutes
+that kind of sucks i'll add two more uh
+versions of this yeah
+i i have basically two types of road
+trips that i do
+one would be like visiting family and
+two would be for an ultimate trip
+one for visiting family it'll be here's
+the destination
+it's this many miles away you're going
+to drive there you're going to park
+there for a couple days and then you're
+gonna drive home
+it would be nice to not have to stop at
+all
+meaning drive there park it for a couple
+days and then drive all the way home
+and so no if even if it was only a 250
+mile road trip if i had 500 miles of
+range i would not have to charge and i
+would just come all the way home
+if it's obviously a much less range i'm
+gonna have to charge at some point
+the other version is going to ultimate
+so literally you're going to go drive
+somewhere
+park for a couple hours and then drive
+home
+uh this is for a game not a tournament
+but the point is
+i just really don't want to have to stop
+yeah at all
+even if it's 400 300 200 miles i want to
+go there
+not stop not just go about my day go
+about my weekend
+and then drive home and the more battery
+obviously you have the more likely you
+are to be able to do that
+there's something also to be said that
+like yes there are a lot of
+superchargers
+but as he says stopping for food coffee
+and stuff like that like
+that's a valid excuse for stopping
+getting to top off but you don't always
+get to choose the food that's at these
+places so like
+we've done a couple of stops one time we
+stopped and there's a great burger place
+and we all sat down
+had a burger and charged a ton because
+we were really enjoying the food
+then there's like like i'm really hungry
+and you stop and it's a gas station with
+like a
+subway and like or like really
+restrooms yeah or some random yeah not
+something you want to eat or
+you never know like if you want to take
+it one step further if you have dietary
+restrictions and one of these fast food
+places doesn't cater to that very well
+cool now you're just sitting in the car
+so that's that's when it starts getting
+to the point where gas is better i like
+your
+theory of if you can do 500 miles you're
+probably going
+further than quite a few gas cars now
+you're getting the advantages
+over gas cars that's what i was gonna
+say yeah so i'll end it with this
+before we take a quick break i think if
+elon's uh main goal
+with cars like this is to give the full
+smackdown to gas
+powered cars you want to give them every
+single reason across the board is better
+than a gas car
+better 0-60 better technology better
+traction better safety better comfort
+better torque better everything if you
+can also give them better range that's
+not a small detail
+people will definitely notice being able
+to go twice as long
+as far as days between filling up
+whether it was gas or electric that's
+going to matter
+so i'd argue it's the biggest hurdle
+from gas tv
+easy i don't think anyone's doubting
+that ev has better
+specs and just like potential and just
+pure drive train but like
+uh what's it called range anxiety is
+like easily the biggest thing stopping
+people from switch so why are you
+limiting yourself
+already yeah it seems kind of confusing
+to me
+so as long as there's less superchargers
+and gas stations keep making that range
+longer
+all right we got to talk about this bmw
+i3 yeah so first of all why are we
+talking about the i3
+well uh i'm currently testing the i3
+with range extender
+for a column i'm doing for top gear if
+you haven't
+already seen i've been reviewing a bunch
+of evs and high-tech cars
+for top gear column i think it's called
+hard drive it's a fun one i mean
+if you don't watch or read the top gear
+magazine check it out
+um so the latest uh after the f-150
+lightning
+will be this and so they get the car
+here in our hands for a couple days
+and inevitably there's like a first
+impression we check out the car a lot of
+them are really cool
+the i3 with range extender
+has been very puzzling to me
+in a lot of ways because honestly i'm
+trying to think all right what's the
+target demographic
+like where does this fit into the eevee
+landscape we know what the competition
+is we know what the price is
+i'm just going to give you a couple
+quick headliners about this car
+yeah and then a question okay this car
+cost fifty thousand dollars with ten
+thousand dollars of options so it's
+60 grand so right off the bat you can
+picture other cars that are also right
+around 60 grand
+then it is a compact form factor so it's
+it's a
+much smaller than most of the other cars
+it's uh
+it's got an electric motor and a battery
+that can give you
+about 175 miles
+when full and then it has a three
+cylinder engine and a
+two gallon gas tank as your range
+extender
+so you drive around on pure electric
+until you run
+out and if you ever do run out you can
+drive around as a gas car it gets around
+35 miles a gallon
+for a total of 70 miles on gas
+and that's the i3 it's a smaller
+so because it is so small
+the back seat is very small the trunk is
+very small
+the front trunk i'm not even
+exaggerating i don't think i can fit all
+three of these cameras in the front
+trunk
+no it's just because it has like it's
+like it has a couple things inside it
+already
+because it has an engine it has an
+engine yeah and a gas
+tank and a battery and the electric
+drive fan so it's got all this stuff
+in this very small place and so it's
+turned into
+like uh all right i have 60 grand to
+spend on a car
+why would i pick this one yeah and i
+don't
+think i know the answer look do you want
+to like take a quick uh
+quick roll through like our impressions
+when we first got into it it's just like
+let's try and let people imagine this
+car
+a little better i mean if you haven't
+seen an i3 um
+you know it's a bmw so it's got it's got
+the the the grille it's got the little
+the nostrils on the front yeah it's a
+it's a black and white
+two-tone pretty modern looking car a lot
+of glass a little split sunroof going on
+i don't mind the design
+for the size i think the size is weird
+but i don't mind the design it's like
+weirdly tall so it's kind of looking
+like a little minivan
+but very mini it has a very like do you
+know those hot wheels cars that just
+like never really had correct
+proportions
+so like it's got big wheels it's got big
+wheels but the front
+is just like so squished but it looks
+like it should be bigger but it's
+on this small car yeah there's like kind
+of this weird
+window line where the back window is
+like lower than the
+front driver side window and or the
+front door windows
+and it's just like very flat back
+hatchback
+it didn't have a bad amount of room in
+the back for what it was
+it's not great yeah um then you get
+inside it and it's like
+i mean it's bmw so it's going to be nice
+quality inside the majority of the
+inside minus this one
+paneling on the back doors which was
+kind of weird it's like
+pretty high quality it has some weird
+design choices um
+this stock is this like gigantic
+yeah how do you describe that it's like
+a growth out of the steering column
+yeah like it would be like holding like
+a
+a camera lens with like a nub on it to
+change like you have to put your entire
+hand around it
+in order to change gears on it yeah um
+it has some nice like blue accents and
+everything i like again i don't think
+the design is off
+it just feels but and then the steering
+wheel
+feels despite how short the front of the
+car is
+you feel like you're sitting like in the
+middle of the car rather than the front
+of the car and like really controlling
+it you feel really far
+back that was my strength that was my
+number one driving takeaway is like oh
+there's like really nice visibility and
+these windows are really big but there's
+a lot of car in front of me and not a
+lot of car behind me
+i think i'm in the middle of the car
+which is like that's an
+unusual feeling for a four-door car
+technically well not uh
+i don't need would you it's four door
+yeah they call it when it does so
+it has the type of door where you the
+back door is like almost a half door
+where like you have to open the front
+door and then the handle is on the
+inside
+and you open it similar to trucks that
+aren't
+like full cab trucks um i don't know if
+you call that something a little
+different
+you can't get in without opening the
+first door so i can see i consider it a
+four-door because you can't get in the
+back seat
+but yeah it is a small door i think the
+um there's like the
+hyundai vlog yellowstar yeah yeah i
+think they call that a three-door ticket
+well that only had a third door
+it has it's sim oh no it didn't have one
+on both sides
+oh yeah that had that way yeah it's very
+good so i i give it four-door status
+it's just very compact obviously
+yeah um so you have 60 grand yeah
+you have it to spend on some sort of new
+car
+why why would you why would you pick
+this one
+because it's okay 60 grand for context
+new model y
+performance performance model y um
+that's going to give you
+much more range that's going to give you
+about 300 ish miles of range that's
+going to give you much better
+performance this thing isn't a slouch
+but it's no performance car right yeah
+it's uh smaller wheels it's
+it's got a sport mode i would guess it's
+gonna give me about a five and a half
+seconds zero to sixty
+it was like a zippy car when you're
+rolling so like merging would be great
+in it but
+there was literally a time where we went
+tried to go from zero to 60
+and you like like it was comical
+how bad it took to like go like
+we all heard you slam your foot down
+kind of had a second to look at each
+other and then it started
+going yeah it was like it's like if
+you're in like a crv like when you slam
+on the
+gas you're not expecting to get rocketed
+forward like it's gonna
+it'll go oh you want to go faster now
+give me a second and then it'll start
+moving forward so like
+yeah it's nimble and it's zippy it's got
+a tight turning radius but like
+it's not a performance car so so model y
+is going to give you and i'm just using
+model y as an example but
+much longer range on electric no gas
+tank
+much much more storage oh yeah much
+bigger performance
+much more features just as far as
+software and autopilot and speaker
+system and all this stuff
+and so you have to want to get this i3
+you've got to
+want either something really
+compact you've gotta or you've gotta
+want a bmw
+specifically or you've gotta really
+really want for some reason
+a plug-in hybrid that has a gas tank
+even though it's worth smiling what to
+call it it like doesn't really feel like
+a plug-in hybrid but it also doesn't
+really feel like an eevee i'm like
+i'm trying to paint the picture of the
+person getting this and i'm imagining
+someone who lives in new york city and
+has an awful parking spot
+sure so they want a compact car yep they
+only trust legacy car makers
+so they don't trust new things so they
+can actually mw
+i think you can i think you can stop at
+just wants a good compact ev yeah but i
+want to get
+really narrow with this because i just
+there is no other i want to paint the
+picture of the person who
+loves this who wants obsessed with this
+car yeah i'm just there is no other good
+compact ev
+so i'll give it credit for that specific
+achievement but it's still not great
+yeah
+i mean it would have to be someone with
+money to spend because 60 grand is not
+cheap for a car by any means um you
+would need
+like i still think the interior is
+pretty solid but nothing like to blow
+60 grand on so there's that i mean maybe
+if you live in the city having the
+compact car
+range doesn't matter that much but it
+still helps to have that little
+kick if you're like uh on one of the the
+expressways around new york city and you
+need to like zip
+over a lane or something like that and
+then like
+somebody who has is just getting into
+the ev world but still has range anxiety
+so you have this little reservoir of gas
+in there also you don't carry anything
+or or
+any of your friends are over 5 511 yeah
+yeah like
+range it's funny if you live in the city
+and you can get away with a bigger car
+like a model 3 which is not that big but
+it's you you almost never have range
+anxiety because you have 250 plus miles
+of range
+and superchargers i feel like you'd have
+more range anxiety with a tiny electric
+battery and a two gallon gas tank wait
+but are there a lot of superchargers in
+new york city
+enough that you could go around the city
+a thousand times with them yeah there's
+plenty in the city that cover the actual
+radius of the city
+and if you have 250 miles of range you
+can always get to a supercharger in new
+york city
+you only have to drive four miles to get
+to one pretty much anywhere in the city
+so here's a question that's kind of off
+the bmw
+topic but i saw a video today and i know
+is an exaggerated
+version of it but there was a
+supercharger outside of a
+disneyland i believe and somebody was
+going to get in line for it and the line
+was like
+literally like 30 cars deep does that
+happen
+fairly like i could see that happening
+in new york city i've never experienced
+that on the east coast
+okay i've seen it on the west coast
+because there are way more
+tesla's specifically on the west coast
+yeah yeah that being said
+uh i have only waited in line
+once for a supercharger and that was on
+like a weekend
+in the morning where i guess a lot of
+people are driving and it was a
+new jersey like going south there's like
+six chargers and there's dunkin donuts
+right there and everyone was just
+chilling
+probably down to the shore or something
+but i i do see some pretty serious
+backups
+on the west coast where there will be
+like 12 chargers and like 12 cars
+waiting while everyone else is charging
+that sounds like
+that nightmare is not great that can
+give you that anxiety where you're like
+am i going to get to this charger and
+it's going to be
+full or you know a long wait because if
+you don't have enough range to make it
+to another charger
+you're going to wait potentially waiting
+like hours you've got gotta get filled
+that's brutal yeah yeah so i no i
+haven't experienced that yet
+on the on the east coast but yeah new
+york city
+plenty of chargers plenty of space
+plenty of range if you
+i'm trying to think like okay what if
+you want a compact car
+you live in the city you want something
+small but you don't care about it being
+an ev
+you could get any number of compact cars
+if you don't care about it being an ev
+then this is pointless yeah so you have
+to for some reason
+want a compact ev
+sort of but it has cast but it has gas
+but you can get the one you can get the
+one that's not a range extender
+okay anyway yeah look forward to the
+calm on top gear magazine it's just like
+a
+quirky car i've really yeah it's
+obviously this will be very positive i
+was just trying to think like
+should i make a video about this car at
+all it's not really that interesting
+other than just the conundrum of like
+who would buy this
+um and we're asking at the studio like
+all right what price would it have to be
+to actually want to buy an i3 with 170
+miles of range and a 2 gallon gas tank
+and we landed at like 25 20.
+i don't think 20. i didn't even pay 25
+for my car right now and i would take it
+over this oh really
+yeah yeah i don't i don't think i'd want
+this car
+no it's neat but i wouldn't choose it if
+somebody wanted something like this so
+much
+so bad it would make more sense for like
+smart car to come out with something
+like this
+and not have a million features like bmw
+would and just be
+totally on board with this is a compact
+car with not a lot of range and a zv
+and it'll do the things you need for a
+compact car i will say
+while i do feel way safer in my car i do
+feel safer in this than a smart car
+yeah there's a little more of a bubble
+around me this thing does feel kind of
+like a tank for how small it is
+it is it's very uh center of gravity is
+very low because of
+i guess you know there's batteries in
+there and obviously there's a lot of low
+weight but
+it does feel safer than a smart car so
+i'll give it credit for that
+yeah i would never say i felt unsafe in
+this despite how small it is so i guess
+that's kind of one perk
+there you go we said something nice
+about it good looks good look cy3
+i think that's a good place to end it
+being positive uh anyway all right well
+that's it
+thanks for listening to this episode of
+waveform check out the top gear column
+when it comes out if you get the
+magazine
+check out the if we do get the plaid
+somewhere around here soon we hope to
+make an impressions video and check it
+out in person
+um and by the way if you haven't already
+subscribed to the waveform youtube
+channel
+definitely do that here there's also a
+clips channel
+where we're uploading of course the
+smaller more interesting sections of the
+podcast for you to check out this clip
+so there's two youtube channels for you
+to subscribe to both linked below
+and from the main enkei bhd channel
+other than that this has been a fun one
+stay tuned maybe roadster will come out
+someday thanks for listening
+catch you guys later

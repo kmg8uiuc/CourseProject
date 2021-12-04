@@ -1,0 +1,756 @@
+what's up guys welcome back
+to the waveform podcast we're your hosts
+i'm marquez and i'm andrew
+and uh what are we talking about this
+week with wwdc this week i mean
+it's hard not to talk about it um
+there's obviously
+a whole lot to talk about so before we
+take a craig dive into that wwdc hole
+we're just gonna check out a couple
+quick stories we have beforehand
+do you like that i thought of that right
+before craig died if i swear he does it
+for the memes
+it was too good um okay the the first
+thing we have here
+i i wrote this down because i wanted to
+just just present
+some numbers just to to hear it just so
+you guys can hear the numbers uh
+there's four iphone
+games that each gross more than a
+million dollars
+per day yeah and i just want you to
+think about that just like okay
+there's a lot of there's obviously a lot
+of people that use the iphone there's a
+lot of people that play games on the
+iphone
+and there's a lot of micro transactions
+and ways for those developers to make
+money from those apps but
+the top couple uh i think i'm gonna
+i think we wrote this down real quick
+here uh the number one
+roblox makes an estimated
+3.01 million dollars
+per day that's in red
+i know how popular roblox is i feel like
+it's similar to
+minecraft fortnite levels of hype and
+it just really is proving that this
+whole like
+microtransaction free-to-play platform
+is a money maker oh yeah i just what do
+people buy in roblox i don't like
+skins i mean wow that's what i think
+i don't know it wouldn't surprise me i
+don't think it's a game that has a whole
+lot of competitive
+modes to it so i don't think there's
+much you can get in the game that would
+actually give you a competitive
+advantage over anything
+um usually microtransactions in
+pc xbox stuff games don't give you any
+competitive advantage you just get like
+aesthetics yeah but mobile games are one
+of those games where you can get it
+like if you think of um i don't know if
+you ever play like clash of clans or
+boom beach there
+there are a lot of these games we're in
+beach it's called boom beach yeah
+it was pretty much like you develop a
+like island base and you go around and
+attack other
+island bases game
+similar but like the thing about it is
+is imagine in a tower defense game if
+you
+built one of your towers and then you
+have to wait
+24 hours before you can build anything
+else until that tower is complete
+but if you're willing to spend tokens or
+whatever spend money on tokens you can
+make that
+you can build it in a second and then
+get better at the game by paying
+more money so it's generally a lot of
+these games are time based i think
+claire was even playing like the sims
+and in the sims you can like
+do an action or build something in the
+house and then you have to wait x
+amount of time and you can pay to do it
+faster
+so there are actually these like
+competitive advantages
+in a lot of these mobile games which is
+probably why they're
+making so much money yeah so roblox is
+number one three million dollars a day
+uh then you got clash of clans in a
+distant second
+with an estimated 1.8 million dollars of
+daily revenue
+then candy crush saga would be your
+number three
+and pokemon go at number four yeah those
+are like they don't post they didn't put
+how much they make but there is another
+number here that is
+the top 10 iphone games generate almost
+11.2 million daily
+yeah this is one of those like great
+stats where like okay uh if you were to
+separate
+you know sometimes remember how we if we
+separated just max
+from apple yeah just max would be like a
+fortune 500 company just because of how
+much revenue they make from max
+i feel like if you just separated the
+top 5 to 10
+games on the app store by itself
+that company by itself 11 million a day
+we do the math that's
+yeah a lot of money now so the first
+thing i thought of this
+when you posted this is we've talked so
+much about apple taking 30 percent
+i had to crunch the numbers um because
+what's 30 of 11.2 million that means
+apple
+in profits just from sell i mean it
+sounds weird to say just from selling
+this they're clearly doing other work
+they're doing customer support and
+processing transactions and everything
+but they're making 3.3
+million daily and profits just off the
+estimated top
+10 games i mean we're talking hundreds
+of thousands of apps on the app store
+right yeah
+but there's a couple wild couple huge
+ones that just make them a ton of money
+well you know what good for apple good
+for good for apple for building such a
+massive app store that they can afford
+to
+just give that platform to everyone but
+yeah wow that's a lot of money
+good for them good for roblox actually i
+didn't realize it had that much
+that much active user base uh all right
+we want to talk about twitter blue
+though
+okay so twitter blue how do i describe
+twitter blue
+i've been asking for a bunch of paid
+features actually from twitter for a
+long time
+and i'm still sort of hunting for some
+of those
+premium features that i would like as a
+creator but
+as of right now twitter has announced
+their subscription service called
+twitterblue
+and they're starting to roll it out and
+we're hoping
+maybe at least i was hoping maybe
+editing
+your tweets after a brief period would
+be one of the features
+for those who are already typing into
+your keyboards why it's such a bad idea
+to allow editing tweets you can watch my
+dear twitter video
+where i explain exactly how i think
+editing tweets should work which was
+you know it should be a very limited
+amount of time they are able to edit
+tweets it's a limited amount of
+characters you're allowed to change and
+tweets show a change log in a history so
+change logic it's huge
+if it tweets changed then you know if i
+retweeted something and it gets changed
+obviously i can
+i can see that anyway uh so what does
+twitter blue
+allow for twitter blue will cost about
+3.49 canadian or 449 australian per
+month
+so we're guessing well i'm not good at
+conversions but i'm thinking that's
+around
+three dollars a month usd it's only only
+available on those two because those are
+the two
+only two regions it's out in right right
+where it's launching
+it gives you a bookmark folders feature
+to let you group
+save tweets to make them easier to find
+later
+do you save tweets not really no like
+if we ever really need them we
+screenshot them for like a video or
+something but i don't think i've ever
+saved a tweet i didn't know you could
+save a tweet i also use pocket
+for free oh so adam was just teaching me
+about that the other day i've never
+heard of it before but yeah so that's
+free
+there's also reader mode which lets you
+keep up with threads by turning them
+into an easy to read group of text and
+mashing all the tweets together into one
+page
+that i think that's kind of interesting
+but
+for a reason that to me makes no sense
+for paying
+um i've i have friends that just don't
+use twitter and when i try and
+show them a tweet thread they're super
+confused and have no idea who's
+responding to who and if you just never
+use twitter i kind of get it
+i i know it's like we use it we're used
+to it um especially when you bring in
+retweeting because then it's like
+here's the thing they're replying to the
+thing underneath them
+and then there's people replying to the
+thing above the retweet
+under that but so this would make sense
+to me for people who are not used to
+twitter but nobody who's
+not used to twitter is going to buy a
+twitter subscription yeah you would have
+to be
+someone who uses twitter a lot who would
+want to buy this subscription so they
+could share these tweet twitter threads
+with people who aren't on twitter very
+much
+interesting um uh other twitter blue
+features are purely aesthetic
+adds a new color theme option as well as
+the ability to change
+the color of twitter's app icon and it
+gives you
+an undo feature we have it we have edit
+tweets there it is
+okay so that's it what do you want
+this undo feature so it doesn't actually
+it's kind of like undo send in gmail
+where
+it says it will let you within 30
+seconds undo a tweet
+and that undo tweet is not deleting the
+tweet you just sent
+it just never sent your tweet so my
+whole thing is when you make a typo
+you don't really realize you made a typo
+right away even if you proofread
+nobody's perfect everyone likes to go
+proofreader tweets obviously yes we try
+to proofread our tweets do you think
+people
+who tweet all the time just don't
+proofread their teeth
+sometimes stuff slips through you don't
+catch it somebody tweets at you hey
+you meant to say this word instead of
+that word this autocorrect got you this
+time
+and so because of that reply that i got
+really quick i'll go up
+i caught it and i wish i could just edit
+the tweet but i'll have to delete it
+and then re-post and and hopefully
+that's all fine
+um with twitter blue if you tweet the
+thing
+and then nobody replies because it
+hasn't been sent yet you're not
+gonna catch the typo that you didn't
+catch while you were proofreading it and
+then it's going to go out
+and then it's going to see the typo and
+then you still can't yeah
+exact same scenario it's like you said
+people make
+mistakes and like i've proofread things
+multiple times and sometimes like even
+in the proofreading process you already
+know what you're reading
+so in your head you're basically reading
+exactly how you meant to type yeah
+and it's really easy to miss type of
+instead of off
+or if you type the wrong there like
+you're saying it in your minds quickly
+it's really easy to miss and then the
+first 20 comments when you post it
+are you used the wrong word of the wrong
+there yeah
+i just uh i was just at my high school
+for a
+ceremony and didn't realize until i saw
+my old yearbook that i had a high school
+yearbook quote i think that's why i
+thought of of and
+there's a typo in that high school
+yearbook quote i didn't do that on
+purpose
+i was a pretty good academic student
+actually i can't remember when i made
+that quote or decided to use that quote
+but i uh
+it said off instead of of was that even
+my typo
+yeah that person who typed it just wrote
+it wrong there's also an extra space in
+there for some reason
+i don't know um the point being i can
+already see all the comments about like
+just proofreader tweets yeah well
+mister you've never made a typo in your
+life that would work or misses
+it's great for you you don't need this
+feature but for the rest of us mere
+mortals we would like
+just the ability to add and edit a few
+characters how much would you pay
+for a full-blown exactly how you
+explained it edit tweet button okay
+just for this one feature because
+there's a couple other features i really
+like that
+there's a couple other features i would
+like in twitter blue that i would
+actually pick
+i like to hear them and i'll go over
+those but if you could just give me
+this ability to edit a few characters in
+a tweet that i've been asking for
+i would pay at least 10 bucks a month
+just for that wow
+i'm a heavy twitter user i know that's a
+higher number than most people would
+give
+i i pay that much for unlimited songs in
+spotify i pay that much for
+basically an endless library of ad-free
+videos on youtube
+i would pay that much just to be able to
+edit you know it's as much as i think
+that's a high number i think it is most
+important for people who
+are would almost consider that a
+business expense because
+editing like deleting a tweet and and
+then reposting it
+isn't really a big deal for the majority
+of twitter users but if you're someone
+with a large following
+you're potentially literally deleting
+hundreds of comments within the first
+minute or two and while a lot of those
+will
+just point out the typo like that's it's
+an engagement hit that kind of stinks
+yeah yeah
+so that's uh there's other things that
+would be yeah i want to know what else
+you want
+would want and what is the like what is
+the like tier three
+payment per month to get literally
+everything you want oh god okay so we're
+talking about twitter business at this
+point
+yeah definitely i would pay for higher
+quality image processing
+that is coming right uh so currently you
+do have
+really good uh pn i think it's png
+processing and it's uncropped images on
+twitter and that's nice
+i would just pay for like a universal
+like high quality processing i would
+actually pay for this on
+several platforms like youtube priority
+processing i would already
+love that but yeah i would pay for high
+quality
+universal like unpre uncompressed not
+uncompressed but really good processing
+images that would be great for someone
+like me who uploads a lot of high
+quality files especially thumbnails
+and i would i would probably want
+let me pick one more good idea here
+well that would be great i'm pretty sure
+we all just took new headshots
+in the studio for like our profile
+pictures and all of them
+just got destroyed mainly where you want
+high quality uploading it just
+absolutely destroys if you've ever
+looked at your own twitter banner
+it's been ruined yeah it's been ruined
+and your profile youtube banners also
+are
+really i get it they have to be all over
+the place but like
+come on yeah it looks pretty rough so
+like the features you have here in
+twitter blue are
+like okay but honestly totally should be
+built in for free to twitter like
+they're not
+that special or serious um so
+i would not if it was available here i
+would not be paying
+twitter blue i do think there's one
+other thing that could kind of fall in
+the like
+quote-unquote business aspect of this
+payment is that there's like
+some sort of advanced customer service
+if you do do twitter blue so if you need
+help
+i'm assuming copyright stuff or
+or harassment or imitation and things
+like that
+i must i'm guessing you would have a
+little quicker jump to the line on
+trying to figure stuff like that out so
+that actually could be beneficial
+it's just not fun like it's not a fun
+you're not excited to pay three dollars
+a month for that yeah i guess this is a
+this is a fair introductory price um
+it's
+lame but i'm not i'm not paying for it
+sorry yeah it's not the one
+uh what else i have one more article
+that i
+i kind of read this morning because i
+heard about it yesterday and i just
+thought it was
+kind of interesting it's pretty quick
+though okay um so yesterday morning
+around 5
+30 our time so we probably 5 30 a.m our
+time so we probably didn't even notice
+this but
+um huge websites went offline
+uh reddit twitch and even amazon were
+down for like a little bit and it's
+apparently because of
+they all go through this web platform
+called fastly
+and i guess fastly was having some
+issues well the verge posted an article
+this morning that i'll put in the show
+notes um
+it was actually fastly came out with a
+comment saying that it was triggered by
+one singular user
+and it was accidental they were it
+they quote was triggered by a valid
+customer configuration change
+on their end so this customer is trying
+to configure something different with
+their
+like completely legal thing we're doing
+the right thing but they didn't update
+in mid-may
+and for whatever reason this
+configuration change hitting that new
+update
+caused this massive bug that shut the
+entire
+i don't know if it was the entire
+platform down or something
+specific but if you're shutting down
+amazon reddit twitch like
+so something big went down and we're
+past like one singe or
+that's a rough buck i guess
+i think the verge's like subline was
+actually just like fess up who was it we
+want to know
+um but it even got to the point where
+some uh
+uk government sites were actually on the
+same platform and they were taken down
+and people were like having trouble
+accessing like government things they
+had to turn in it's funny because
+sometimes
+you know large swathes of the internet
+all go down at once because they all use
+the same services like aws or something
+amazon's web services a lot of sites use
+that and as soon as
+aws goes down for a little bit a lot of
+websites
+all at once don't work or barely work
+for a while
+um so it's kind of funny that amazon
+would be one of the
+large sites to go down because there's
+someone else's services
+and twitch is owned by amazon i guess i
+don't know exactly what fastly does
+um but yeah i i just thought it was
+crazy that someone
+uh you see i mean usually when you see
+those places go down though it's a
+targeted attack and they like explain
+that's the target attack they have to
+figure it out and try and stop it but
+this was just
+some poor customer like imagine calling
+back like oh yeah that bug you
+you inherit like figured out the other
+day or you couldn't make your
+configuration change yeah you took down
+amazon in the process
+and some uk government websites yeah at
+5 30 in the morning
+that's a pretty brutal mistake to make
+sick
+bragging rights i think i guess yeah i
+just thought that was pretty funny
+all right we gotta talk about wwdc the
+worldwide developers conference here's
+the thing about wwdc
+we have seen hardware at wwdc before
+sort of right sometimes it gets unveiled
+which get people's expectations really
+high
+but it is a developer conference like
+google i o and like others so
+we can't be shocked when there isn't
+hardware yeah i mean this was an
+entirely software show
+yeah i'm always surprised when people
+say they're like underwhelmed by it but
+it's like
+it's a developer conference you're not
+going to get some crazy stuff what was
+it last year
+they mentioned m1 or m1 max but
+not like specifically the the product
+based on it so it's like
+kind of a hardware announcement the mac
+pro got an unveiling at wwdc like that
+was cool
+just an unveiling like we didn't get to
+buy it that day or anything but
+this was just software so but we want to
+go through all these because apple makes
+a lot of software they make ios they
+make
+watch os they make ipad os they make mac
+os
+they make home kit they make everything
+in between so
+they updated pretty much all this stuff
+we could just start with ios 15 right
+that's the that's the yeah i think
+that's usually the big one the fun one
+we're smartphone reviewers that's
+usually uh
+that's fair this is what this is what
+we'll see on the iphone
+in september or whenever the newest
+iphone the 13 comes out
+this is what will like launch on the new
+iphone and
+i'll be honest there was a lot of stuff
+i think there's a lot of good stuff and
+a lot of really thoughtful updates
+put into ios 15 both some some of which
+that i was expecting some of which
+i saw and i was like oh that's an
+interesting idea i didn't think they
+would do that like the facetime stuff
+uh matter of fact let's start with the
+facetime stuff so facetime got a bunch
+of like smaller things and then a couple
+big things
+yeah i think one was like spatial audio
+added to it so
+you can kind of make it feel like you're
+more in the room i guess with people it
+sounds
+fine sounded like one of those things
+that's like kind of cool but you won't
+really use too much
+yeah it'll also have a portrait mode so
+you can turn on blurring your background
+which we've seen in others like zoom
+you can just blur your background i felt
+in the actual announcement
+the example they were using like the
+edge of detection wasn't that great
+her like whole shoulder was kind of like
+weirdly
+i don't know it was a little off i have
+i have never seen
+good live video portrait mode yeah
+exactly
+so i'm not shocked that it doesn't look
+that great if you have you ever tried
+zoom's
+automatic background blur it is
+hilariously bad
+like it'll generally work because it'll
+cut you out because you can see your
+outline but like
+you'll turn your head to the side it'll
+just leave like a blotch that's not
+blurred out
+that's the thing is like zooms i didn't
+know they had that but it makes sense
+because they have to like replace
+background but
+generally when you're replacing the
+background you kind of understand this
+is already a meme and i'm okay with
+moving my arm and it just appearing out
+of the beach
+and the like sunset i have set behind me
+um
+so yeah i i i'm not expecting that to be
+great i don't expect many people to
+use it really either there's a couple
+other features that i think i'll tie
+in that i could see people using all at
+once
+but yeah it's just kind of like a thing
+you can turn on if you want to yeah uh
+share play this is a cool one to me i
+didn't think this was cool so
+with shareplay you know how you can
+screen share inside of zoom or screen
+share inside of google meet or screen
+share inside of skype or skim insurance
+live teams or screen share inside of
+whatever you're using
+uh instead of just screen sharing
+something you can actually all pull up
+the same content at once by using share
+play
+so if you have apple music or a tv show
+or apple tv or something like that or
+since there's an api now any one of the
+supporting services
+you can all be watching the same content
+at once
+i say all because you could have a
+multi-person facetime and
+it'll all be synced up for all of you so
+you know how people do this thing where
+they'll like facetime each other and
+then
+watch yep a movie at the same time
+my family and stuff especially during
+the pandemic like yeah
+you are making up ways to do things with
+people yeah now
+you can watch the movie on your phone or
+watch it on your apple tv
+while you're face timing and so you'll
+have the same playback controls and
+you'll be able to fast forward and pause
+for everyone at the same time and
+everything stays in sync that's pretty
+cool i think that's really neat that's
+pretty cool
+you can screen share now inside of
+facetime as well which is obviously
+very useful for family tech support
+shout out to fellow family tech support
+i'm with you guys i understand the
+struggle is real but now you can
+you can screen share so you can like
+show people how to do things which is
+cool
+um and now also facetime
+is available for android
+that's definitely going to be the clip
+title for
+100 yeah kind of barely i mean facetime
+links it'll work this is the easier way
+honestly i think i can say that facetime
+is available for android like
+it'll functionally do almost all the
+same stuff you can't initiate a facetime
+call from android but
+if you start a facetime call or schedule
+a facetime call you can send people
+a link to that facetime call where they
+can join if they open it on their iphone
+it'll open in facetime
+if they open it on the web from their
+android phone or from their
+windows desktop for example they can
+still join the facetime call yeah so
+you can join literally a facetime from
+android
+and they use the ugliest possible
+android phone
+in their little facetime demo on stage
+and on their website to this day i don't
+know what phone that's supposed to be
+but hey you can now hop onto facetime on
+android which is a
+i never thought i'd really say that yeah
+right i i wasn't expecting that
+it is like a kind of sideway of doing it
+like it's not
+actually facetime for android but the
+fact that you can still
+do it and honestly most people who are
+like having facetime calls and trying to
+get a relative or a friend
+on it like sending them the link is
+probably the easiest way of doing it
+rather than making them download
+facetime and everything so i mean
+there's never gonna be a facetime app
+for android that's never going to happen
+yeah
+but if there was like that one family
+member who has an android phone who's
+been left out of all the holiday group
+facetimes because he doesn't have a mac
+or whatever
+well now he's in now you're now they're
+in now they can uh
+like they can join the facetime as well
+which is exciting but to me all this
+stuff to together
+feels like apple sort of responding to
+how often we see this like work from
+home type culture or basically everyone
+doing everything virtually now
+we're like people are very familiar with
+zoom like zoom didn't really have a
+place
+in everyday life until 2020

@@ -1,0 +1,1923 @@
+all right what's going on everybody
+welcome back to the waveform podcast
+we're your hosts
+i'm marquez and i'm andrew and that's
+not andrew actually surprise wow
+for the audio only listeners david just
+ripped his face off i ripped andrew's
+face
+we ripped andrew's face off welcome
+david mel
+to waveform episode 70. so uh shout out
+to andrew he's out in
+the mountains right now going on fun
+hikes climbing big rocks
+i'm sure having a good time but uh we
+still have plenty of tech to talk about
+and figured we'd
+put it all in one place here um our last
+episode
+was episode 69 nice there it is and uh
+we took some time to do a
+fun little like game show type thing
+that we built so it's a sort of a tech
+trivia show you can play along
+it's about like tech and videos from the
+first half of the year it's it's a
+little more visual heavy for maybe for
+that one go to the youtube channel for
+it
+but we're back with a bunch of tech to
+talk about
+i kind of want to start with windows 11
+because you said are you running windows
+11 not on this computer this is actually
+andrew's computer i
+left my surface book at home sadly um
+but i am running windows 11 on my
+surface book
+so it was just unveiled last week and
+now there's a build available for the
+public to actually download and try
+i made a reaction video just like
+talking about my couple major
+thoughts on the new changes it's very
+glassy and shiny and transparent overall
+the start menu centered now that you've
+used it for a little bit maybe a day or
+two
+have you found some things like super
+easy to get over
+or like really jarring or have you
+gotten used to all of it how's it going
+a couple different
+things i found that one it sort of feels
+like microsoft is
+trying to simplify everything with the
+ui they're trying to make
+it from what i've gathered it feels like
+they're they're moving the ui elements
+more towards feeling like a phone
+which is pretty funny but it kind of
+makes sense
+uh especially for the generations that
+are growing up right now if they want to
+onboard all of these like kids yeah
+that have been using phones since they
+were born yeah there's the there's the
+big pullover thing from the side
+which is where all these widgets and ai
+news
+feeds live is that part of what you're
+talking about it's that and then
+everything's bigger and bubblier
+um so for example in regular windows 10
+yeah if you like click down on like
+there's all these icons in the bottom
+right with like battery management you
+can switch power modes and all these
+things
+now you click and there's just like one
+set of
+quick settings that comes up okay and
+they're they're all
+pretty big icons they're individual and
+you can swap them out it's almost like
+the quick settings menu on your phone
+yeah and you can edit what's there and
+they're big and then all the menus
+just look completely different they're
+more simplified uh they're definitely
+more aesthetically pleasing
+okay and so i think it's definitely
+something windows
+needed to do because they're kind of
+known for being very
+um what's the word i guess like
+focused on information heaviness and
+less on just
+ui and aesthetics yeah and it just needs
+to it just
+they needed simplification for people to
+be able to like know how to use it
+right i also found weirdly that big sur
+also had a lot of elements
+that looked like they belonged maybe not
+on a phone but at least on a touch
+screen yeah like big touch targets
+sliders things that are like way bigger
+than they used to be
+yeah felt less like a computer and i
+wonder if that's
+kind of in the same vein they're like oh
+well there's gonna be young people who
+are used to ipads we'll make it look
+kind of like an ipad or are there future
+things in mind i don't really know
+um centered start menu good bad
+totally okay i haven't gotten used to it
+yet personally uh i keep going to the
+left you can move it
+right so you can move to the left if you
+want i'm trying to get used to it before
+i move it
+yeah um it's a little bit weird i do
+like that
+the icons come up from the center it
+feels more like
+it's being you know birthed from the
+center
+that's maybe a weird term but like yeah
+everything like comes out of the center
+instead of having to like look around
+your screen
+it was a it was a big focus of the event
+of like this whole centered theme
+yeah it's like it's gonna it's not only
+the center of the screen but like it's
+the center of your life
+and it's the center of your environment
+and windows is now the center of this
+like
+ecosystem yeah i feel at home oh man we
+should have had panos on that windows 10
+home
+yeah no it's it it makes sense to me
+anytime i go to windows i just hit the
+windows button on the keyboard so it
+would just be an aesthetic change for me
+instead of mousing to the corner i would
+just hit the button and be like oh it's
+in the middle
+but yeah you know it's a small thing to
+get used to for the last like year or
+two they've been updating their
+icons to yeah basically get ready for
+this
+and their new icon design i think is
+really good it's very specific
+very like you don't really get it
+confused with any other
+icons yeah i like it yeah me too i like
+it this the new store icon
+but also speaking of the store uh that
+was one of the biggest most interesting
+parts of
+their announcement yeah and i we should
+talk about it for a second so
+you can now this is the headline you can
+now run android apps
+on windows 11. oh cool great i don't
+know if i'm gonna do that but
+like okay you know makes sense lots of
+people who are used to a certain number
+of apps they want to bring them
+everywhere they go they can now use them
+on their windows pc
+neat um the the subtext to that headline
+is inside of the windows store the way
+this is going to work
+is microsoft has partnered with amazon
+and amazon's android app app store which
+is not the same as the play store it's a
+it's a big overlap but it's an
+amazon app store will surface results
+inside of microsoft store yep
+so you have to want to search in the
+windows store in the microsoft store for
+apps
+and then when you do step one yeah when
+you do you'll find some android apps in
+there let's say you want to install one
+if you do you'll have to be signed into
+your amazon account and you'll have to
+have the amazon
+app store app on your pc yeah so once
+that is all done then you can download
+apps that were built for
+arm chips and android and touch screens
+and put them on your pc
+uh do you care at all about this this is
+going to try it i'm not saying there's
+so many thoughts about this i i tweeted
+about this
+because i was really like this feels so
+hacky and convoluted
+and it kind of goes back to
+we use computers differently than we use
+phones right when you have a phone
+you're used to going to the app store
+downloading an app like
+you don't side loading apps you can do
+on android
+but you only would really do it if like
+you're either trying to get it for free
+or you'd normally have to pay for it
+um not this is not legal advice yeah
+um i shouldn't actually do that but yeah
+um
+or if you it was like taken off of the
+play store or something and you wanted
+to get it
+yeah um that's pretty much the only i do
+that all the time stands yeah
+yeah so the whereas on my computer
+yeah side loading on a computer is
+basically the default
+like you download apps from websites
+yeah it's a different interesting
+behavior i'm trying to think of all the
+apps that i typically install like when
+i set up a new computer
+whether it's a mac or a windows machine
+i don't really go
+to the actual store very much now on a
+mac i do a little bit more yeah there's
+a little bit better curation and
+i get slack and my to-do list and you
+know final cut and tweetbot all from the
+store
+but when i'm setting up a windows
+machine i'm going to the browser for
+pretty much everything every first slack
+for that app for spotify for that app
+for you know my to-do list for the app
+all these are things that i'm
+downloading from the web
+and i don't really go to the microsoft
+windows store
+so is this an effort i guess for them to
+like make you more comfortable with the
+store get you
+using the store more even though they
+don't want it to take over the whole
+experience 100
+i think so because like like i said
+before um you know we're so used to like
+just going to an app store on our phones
+whereas on our computers and you said
+like
+yeah you maybe will download some apps
+off of the mac app store
+you still can download most apps from
+the
+website right you still can yeah and
+even on android
+uh way back in the day when you go to
+amazon.com it would be like
+hey we have a free app of the week on
+the amazon app store you should
+sideload the and like they encouraged
+you to
+sideload another app store on your phone
+which now
+seems like weird you would think google
+would get really mad about that
+um that might be an antitrust thing i'm
+not sure but
+like the fact that you had to side load
+the amazon app store
+onto your android phone in the past and
+they would kind of just like
+copy as many apps from the play store as
+they could onto the amazon app store
+yeah and now you have to do that on your
+computer
+it just feels so hacky one and then
+two i really dislike that you need to
+have now a microsoft account
+and an amazon account to be able to run
+android apps like like it's more of a
+it's more about principle like we all
+have both
+accounts yes and it's fine yeah but like
+the same way you needed a facebook
+account
+to use an oculus rift yeah i don't want
+both exactly
+okay and and then the other thing is
+that um we've tried
+you know running mobile apps on on
+screens that were not made for mobile
+apps chrome os supports android apps
+i like that for some reasons because i
+never use them
+yet the only thing i really use that for
+was being able to upload photos
+to instagram from my laptop which you
+can actually do in chrome if you emulate
+a
+tablet a mobile device yeah okay but if
+you like edit on your pc then you want
+to just upload yeah
+there are some like edge cases
+but but at the same time like the
+experience of using a mobile app on
+anything but a mobile device is really
+bad
+yeah yeah it's not great like he showed
+tick-tock on the screen
+and they just showed tik-tok open but i
+was like go ahead try to scroll yeah you
+don't have a touch screen
+go ahead and you're on the mouse like
+you know it's like not
+an ideal experience yeah all these apps
+are built for
+finger input so trying to replicate that
+with the touch pad
+on various windows laptops will be
+various different experiences
+so it is what it is but i did see you i
+think it was confirmed you'll be able to
+sideload android apps i think straight
+up apk is
+right into windows 11 which is pretty
+cool which is nice
+so if i find like a dark sky clone
+somewhere on the dark web i can
+install the apk yeah uh but
+that is that is the state of yeah the
+new store on windows 11.
+i just i don't know what android apps
+that you would want to run on a
+computer that you couldn't there isn't a
+better alternative that you can just
+download from a website
+you know and like i definitely think
+that this is a move
+for microsoft to get more people
+comfortable with the windows store
+because they can take more revenue if
+you buy games directly off of the
+windows store
+than if you you know buy it on steam
+they don't get revenue from that
+yes although they they did make a pretty
+big point in their presentation about
+like the choice developers have now
+where you can go through microsoft and i
+think they take a 15
+cut so or you can use your own payment
+system and they don't take a cut at all
+right and they set it on stage yeah
+because
+now that everybody knows apple's taking
+a 30 cut that's sort of a big deal
+yeah so yeah just making developers
+comfortable making users comfortable
+checking out how great this windows
+store is
+it is really it is really interesting
+because like i want to immediately
+dismiss the idea that people will ever
+use the windows store at all
+ever because i have never used it at all
+ever and i
+don't plan to but that said like i said
+with like
+pre like newer generations being more
+used to at the idea of app stores
+yeah if they come onto windows devices
+and there is an app store maybe
+they'll default to that versus the side
+loading of downloading something from a
+website yeah
+and it'll have all the apps they already
+know yeah and the other thing is that
+like windows 11 is very geared towards
+like they made a big deal of it being
+very touch screen friendly
+right and this concerned me a little bit
+because uh if we remember windows 8 it
+was
+overtly touch screen friendly so much so
+that desktop users got
+really put to the it was built for touch
+screen it was built for touchdown
+tiles and everything yeah they made a
+big deal of this also being more built
+for touch screens
+i think it's a better kind of like uh
+balance because they just made the touch
+targets bigger and
+like the ui doesn't actually really
+change when you switch to touchscreen
+mode
+but it is easier to use so
+it's a good balance i'm just a little
+bit worried that they're going to like
+fall back into that cycle of like bad
+windows good winners bad windows good
+ones
+so i i agree i think they're they did
+make a nicer balance i think i hope
+they've learned their lesson
+like if we went to windows 8 and then
+they got right to 8.1 like they made the
+changes they had to
+yeah so i feel like yeah we have bigger
+touch targets but it does still look
+like
+windows as far as i can tell and i'm
+sure we'll find out more as this comes
+out
+eventually by the end of the year i
+guess but uh
+yeah i think that the last bit about
+windows 11 i want to talk about was the
+the confusion about what computers can
+actually
+update to windows 11 because there's a
+certain chip now it was a mess
+i guess can we break it down as simply
+as possible there's a chip
+yeah that is in most modern pcs that
+is required to run windows 11 yeah and
+if you i think a lot of people just
+don't know if they have the chip or not
+or they've realized that their like
+three-year-old laptop
+doesn't have the chip or it isn't
+enabled and you have to go into the bios
+and enable it and then it'll work
+yeah um i think a compatibility checker
+that handles all this stuff would be
+great if it just
+had blanket they have they have it okay
+it was broken for the first about week
+right
+so so it's like the this chip is called
+a tpm chip it's a security module chip
+that is supposed to handle like
+lower level security stuff microsoft
+said you needed a tpm 2.0 chip which
+only came out like three years ago
+uh and actually in the system
+requirements it said
+2.0 but it's not actually required 1.2
+is required which came out a long time
+ago
+okay almost every computer has a 1.2
+chip
+um the problem is the compatibility
+checker
+was like no it was broken for multiple
+reasons like
+for one reason it was saying you need a
+two when you actually only need a 1.2
+and then the other thing was the bios
+thing whereas like i think
+they're like you would you would think
+that maybe
+everyone that wants to get on the
+insider build or like
+the like beta build of windows 11 would
+know how to
+do stuff with their bios i don't think
+that's the case this is not the case
+there's a difference between beta
+testers and people that are like willing
+to like
+get really into the wheels the bios and
+everything
+yeah which is it's a scary thing to do
+yes you can really mess up your computer
+yeah so all right well i hope i hope it
+gets simplified in the future i'm
+looking forward to more testing of
+windows 11
+yeah segway time speaking of
+uh 11
+wow i i don't know you're gonna
+but well the xperia one mark three has
+nothing to do with eleven
+well it has a one and it has a one in
+there three ones
+it doesn't have a two one so the name is
+two elevens but then
+one of the it gets it left anyway it
+walked away
+okay the review of the sony experiment
+iii is now live on the channel
+and i wanted to shout that out because
+this i'm gonna hold it up right now this
+has got to be the most oddly put
+together set of
+flagship parts i've ever seen yeah it it
+is it becomes
+uber enthusiast it's like a really good
+phone yeah i really enjoyed using this
+phone except for the one weird auto
+rotate bug
+um but i just want to just go over from
+the top to the bottom
+every weird decision they've made about
+this file yeah sure and why it just
+seems like it's
+it's geared to be the lowest selling
+best phone they've ever made
+okay number one the name it's the sony
+xperia one
+three okay yep that's just good luck
+explaining that
+it's you can say mark three yeah you can
+say it's the the third
+one whatever you want to say it's not a
+great name
+yeah um but there it is sony xperia one
+mark three
+two this phone was announced in april
+and it's been
+under embargo for a while since then
+i've had this phone for about a month
+yeah i got the phone and typically this
+is what happens we get a phone for
+review and it's like all right
+well when does it actually get like
+unveiled when is the embargo up it'll be
+in a week or so and we'll have that
+amount of time to play with the phone
+sometimes it's two weeks
+nice this one it was like five weeks
+we're like okay
+this is what happens is it gets
+announced it has some cool features and
+then slowly the hype
+drains and the attention span forgets
+yeah and then it quietly launches
+a month later no one buys it so yeah it
+is out now
+um yeah the screen the screen is the
+next one
+so this is a high-end phone it's got a
+snapdragon triple eight 12 gigs
+of ram android 11. but this screen is a
+21x9 4k oled
+at 120hz so
+it's a battery burner it definitely
+burns through battery but it's 4k
+all the time and you cannot change the
+resolution
+and that to me is kind of crazy you can
+change the refresh rate
+between 60 and 120. um would you even
+want a 4k phone
+or it's one of those things that like
+they have those
+compatibility not compatibility checkers
+but they have these grids
+online that you can look up that's like
+what resolution do you need
+for how far away you are from your
+device
+and it's usually for tvs and it's like
+you only need 4k
+if you're sitting up this close because
+then you'll start to see the pixels
+your phone is like six inches from your
+face yeah so so i think that's why
+apple did the whole retina display thing
+was because like look you're here um
+you know it's like at least you can
+toggle the 4k
+mode on in youtube and know that it's
+giving you all the pixels
+okay yeah um but it
+it just feels like something they felt
+like they needed to do because they have
+the bravia line of tvs
+i would be fine with it it's just you
+can't turn it down yeah like
+sony put a 1440p screen in a lot of
+their phones and
+at any point you can just switch it to
+1080p mode and you'll save battery life
+you'll save power you're pushing less
+pixels performance will be better and
+you just know you have the ability to do
+that at any time
+if you want 1440 turn it back up now you
+can watch the video at full res
+this phone is 4k yeah which would be a
+great
+option but you cannot turn it off yeah
+and i wonder if they'll add that with a
+software update or whatever but i mean
+it's a great looking screen but like you
+said if you're looking thinking about
+retina display
+um that's like 250 to 350 ppi is like
+pretty good
+yeah this is a 640 plus ppi
+that's insane like yeah yeah i got i
+mean i got to say like i do appreciate
+high density displays i remember when
+the lg g3 came out
+and it was like it was the forced 1440p
+phone
+and it just blew my mind and they had
+all of these demos built into the phone
+that would just be like 1440p video and
+you could show your friends and it was
+amazing
+um and i like 1440p phones i just find
+it hilarious because like
+samsung for example who like when the
+ultra came out
+everyone was like oh but i want to run
+you know 1440p at 120 hertz and they're
+like
+aha you can't do that you can run 1080p
+at 120 hertz or you can run 1440p at 60
+hertz
+and yet sony's just like you will run 4k
+4k all the time at 120 hertz no choice
+oh my gosh and you're gonna like it too
+yeah
+uh yeah no this is a is a really
+interesting choice and we'll see if that
+ever changes
+but then also okay this phone also has a
+but it's a nice design it's matte black
+it's kind of like soft touch it's pretty
+squared off but it's got a
+ton of like these niche features that
+you just don't see combined to phones
+nowadays yeah one headphone jack yeah
+wow they added that in the two by the
+way in the xperia one one
+they didn't have it 11 windows 11. um
+and the experiment they didn't have it
+which was like
+you know sony this is your chance yeah
+exactly so they added it back yes it's
+still here yeah
+uh there's this really nice haptic motor
+and this like
+sync where it'll like sync to the beat
+of your music and vibrate the music
+which is
+yeah xperia xz2 they added that and it's
+kind of ridiculous but whatever
+it works yeah it's a powerful motor i
+dislike when there's like a weak
+vibration motor and you're like yes
+calls because of it yeah
+tool-less sim card tray sony's always
+had this and
+it's so underrated for tech reviewers so
+happy
+like i know people generally don't care
+but it's so nice and especially because
+they also have dual sim and a micro sd
+card slot micro sd card expansion
+yes so you can add up to a terabyte of
+storage via micro sd
+that's a dying breed how many dying
+breed things we have in here there's a
+led notification light on this phone
+yeah
+you really don't see that very well i
+remember when i had to like run
+cyan engine mod on my galaxy
+nexus 6 to be able to enable the the led
+notification oh
+yeah because it had one but it didn't
+talk to any apps yeah yeah yeah that was
+a weird time that was weird like they
+were going to use it and then they
+scrapped it but you could like get it
+back if you ran your own custom wrong
+yeah and then it would glow like green
+for text and yellow for twitter and like
+yeah first whatever like that's that was
+cool um
+this phone's got custom buttons okay so
+all the way on the right hand side
+power button and fingerprint reader
+volume rocker up here which is nice
+custom single button down here just for
+google assistant yes
+very nice give me that very nice i kind
+of wish there was a software toggle to
+continually make that whatever i want
+but yeah i would have made it assistant
+anyway so cool
+yeah and then a separate camera toggle
+yeah
+with a half press for focus and a full
+press to launch
+or take photos and videos that is all
+like very unusual to find in any other
+phone out there right now yeah
+but i think the camera is where it gets
+the weirdest yeah
+so we've got triple cameras on the back
+uh a regular an ultra wide and a
+telephoto yep but the telephoto
+has two different focal lengths and this
+was a we were trying to figure out how
+they did this
+or you know what exactly is happening
+inside the phone
+there are some sony videos on their
+youtube channel where you can see it's
+it's a periscope type lens so it's
+sideways inside the phone
+but there are glass elements moving
+inside the phone so it'll snap
+between 70 millimeters and 105
+millimeters yeah
+in practice it's not actually that big
+of a difference in zoom that's
+like a 1.3 x
+or whatever you want to call it but it
+was just fascinating
+that it would actually do that and they
+actually spent the time
+to engineer such a unique solution
+inside the phone
+yeah um do you think this has a future
+do you think this could be
+built by other companies do you think
+they'll keep doing this yeah i could i
+could see it as being
+a thing for sure i think optical
+telephoto lenses
+are very important because like software
+is fine when you have really high
+resolution sensors and we do have really
+high resolution sensors but again
+you have all of these problems with
+higher resolution sensors in smartphones
+because
+like sure but they're not big enough and
+then when you do make them big you have
+a very
+small plane of focus yep what sony was
+trying to do with
+with this and they started this in
+xperia one two i believe was like they
+want to have the holy trinity of lenses
+which is a 16 to 24 a 24 to 70 and a 70
+to 200.
+okay and so the idea is that there's a
+16 there's a 24 and then in the mark
+ii there was a 70 and you could zoom you
+could do software crop
+between them yeah this one i think
+they're just trying to give you as much
+optical capability as possible i love it
+yeah i think it's a great idea but i get
+a little nervous about this
+for two reasons one um
+i don't so i was i talked about this in
+the review video but what samsung did
+with
+dual aperture yeah where they they had a
+really good idea they were like okay we
+would like to be able to close down
+aperture because you can get more in
+focus you can take sharper photos
+there's all sorts of useful applications
+of it and
+in the galaxy s9 they had either a wide
+open or stop down i forgot what the
+f-stop was yeah but like 4.4 or
+something yeah versus like 1.8 or
+whatever wide open
+and you could see it like snap close
+snap open and they
+they built that under the phone and i
+was like that is super cool literally a
+variable aperture
+in our main smartphone camera yeah and
+the next year was gone
+yep and they never did it again and
+really usually you really could have
+used it because there's phones like the
+s21 that have the ultra
+shallow depth of field where if you
+could just stop down to f4
+like every photo in daylight would look
+better so
+the fact that they never brought it back
+despite being super useful it makes me
+nervous that this might never show up in
+another phone again yeah it's just a
+gimmick
+nobody's gonna buy the phone sony's
+gonna realize all the r d money was for
+nothing and then it's gone
+yeah so i'm nervous about that it might
+happen it might not
+um but the other thing is like it's it's
+not that great of a
+camera set yeah it's a you know sony's
+made like
+great improvements with their software
+and obviously sony makes alpha cameras
+and they've
+made really good cameras in the past and
+so this is really good fast
+focus and really cool having a dedicated
+shutter button and all
+the advanced modes and everything 20 fps
+burst mode it's great
+i never miss a shot there's like no
+shutter lag but then the shot i get is
+like
+yeah a little too shallow a little bit
+muted
+so it is what it is the phone itself
+though uh
+very nice i'll show this on the podcast
+even though i did it already
+on the video uh world's slowest auto
+rotate i've never seen anything like
+this
+in any other phone ready
+wow it takes a good four seconds
+yeah it's a we actually timed it
+yesterday on average it was almost three
+and then one time it took seven yeah and
+as a person i know not everybody some
+people just lock auto rotate and never
+use and don't care but as a person who
+does rotate stuff all the time i watch a
+lot of videos
+it got very annoying yeah something to
+keep an eye on maybe they'll fix that
+with software but
+sony xperia one mark iii hundred bucks
+if you can get over that
+then you'll have the world's maybe not
+the world's first
+variable aperture or variable zoom but
+yeah
+a couple really impressive things 4k
+screen and a nice smooth android
+experience
+yeah yeah they're good their ui is
+really good i think i think we were
+talking about this yesterday it's like
+i think the s like the s21 ultra 1200
+dollars is a best
+a better overall package for people who
+care about the things that most people
+care about
+yeah but if you're like a hardcore just
+like i want the best
+everything yeah then like these are
+really good phones
+yeah i would say i would argue the s21
+ultra for the same price will give you
+all better cameras yeah they would give
+you a better screen despite not being 4k
+because it's bigger much brighter yeah
+they would give you better software
+they would give you better battery life
+they would give you faster charging
+and they'd probably give you more
+software updates but if you care about
+the things that sony does yeah you care
+about the dual stereo front-facing
+speakers yeah which is the
+expandable storage that samsung doesn't
+have the headphone jack the led
+notification light like all these crazy
+enthusiast things
+it's your boy i always used to say the
+xperia ones are the r slash android
+phone
+yeah that's what's gonna happen we
+haven't uploaded the video yet as of the
+recording of this now but this is
+this is where i expect people to care
+about this phone cool
+so did you see the boss dynamics new
+video on their youtube channel it did i
+love these videos yeah i gotta say
+and it gets a mixed reaction in the
+studio i have it here in the notes that
+i think adam wrote this is how the world
+ends
+i i'm not so down on these i'm kind of
+into the idea of like robots being able
+to do
+all sorts of crazy things so i'm just
+going to describe the video
+real quick for those who are listening
+uh picture spot the boston dynamics
+robot
+that we've done a video with with a
+about a three foot goose neck robot
+attachment
+that that yeah the neck attachment one
+is the one that freaks me out the most
+yeah it's kind of it looks like it's a
+it's like a face on top of the robot
+on a neck and then picture like seven of
+them
+all doing a choreograph dance extremely
+precisely i might add with like
+obviously very robotic movements but
+also like a pretty good amount of rhythm
+yeah so yeah good for them this is like
+i tweeted about this i was like this is
+a this is a whole job
+yeah like it's somebody's job at boston
+dynamics
+to choreograph a dance they they get
+probably free access to like i'm gonna
+need seven robots this week and
+a bluetooth speaker and i'm gonna make
+something happen yeah and then they get
+to do it
+what were your thoughts watching the
+video when we first saw it i always
+they're they're fun
+they're definitely very fun yeah um i
+think they're
+equally equally scary come on
+i i look if you've seen black mirror
+okay like there's an episode and they've
+referenced this before
+where they have robotic dogs who are
+chasing down people in like a
+post-apocalyptic
+world and i i think the stuff that these
+robots can do is insane and like they
+have the humanoid ones too that dance
+and they're
+it's they can do freaking like backflips
+the humanoid ones are a little creepy
+yeah a little bit
+they're very robocop so here's why i'm
+not creeped out really by them
+uh-huh is because i know that they are
+all
+programmed to do exactly what they're
+doing
+like when we go in to do a robot shot
+with mia like obviously mia doesn't look
+like it doesn't have these
+anthropomorphic features like it doesn't
+have arms and legs
+like like spot the dog or like the
+upright one wherever
+whatever it's called atlas or atlas yeah
+um
+so it's mia so it just sits there
+holding a camera but it only does
+exactly to the t what we just told it to
+do and only does it when we tell it to
+do it right
+yes so even though it looks
+anthropomorphic like a dog with a neck
+dancing in front of me in
+synchronization it would be very creepy
+if they decided to do that by themselves
+yeah but i know watching that that a
+very skilled programmer is responsible
+for starting all the moves at the same
+time and building the moves so that it
+looks like they're doing it in sync
+that's the most impressive part to me is
+someone had to decide like
+on beat like how i'm gonna make this
+robot move to make it look like it's
+dancing so i see that i'm like wow good
+for the program like
+that's awesome what i said in slack is
+will you be saying the same thing when
+it's dancing on your grave i do
+i just don't i i see the move and i'm
+like wow that's
+very cool but there's there's no way it
+does things it's not programmed to do
+and like that was a really funny michael
+reeves video we've talked about before
+where he like
+programmed it to like find a bucket and
+pee in it
+because it had like you know all these
+sensors he put attached to it like
+that's funny
+but yeah it only does what you're what
+it's probably yeah i mean i think like
+the the i the dancing is fine right the
+dancing is great and i think that
+because they're so precise like michael
+even said like
+this is cg right because their precision
+and their timing with each other is so
+exact that it almost feels
+fake because human movement is so
+not perfect yeah if you've ever seen
+like synchronized
+uh swimmers or synchronized dancing or
+whatever there's always just a tiny
+little bit of
+yeah like and your subconscious will
+notice that yeah i wonder if they'd
+programmed a slight delay
+or a slight variance if that would have
+been more
+realistic looking i don't know if they
+want the realism though it's like it's
+like when spot
+is in his like default mode and he's
+doing the thing with his legs where he's
+just going back and forth
+it like doesn't feel right it's really
+precise it's so precise
+yeah yeah i don't know i i i enjoy it
+and like
+i i think these are great demos of like
+keeping yeah it keeps them in the news
+it's good pr
+and it's just it's just more friendly
+things that the robot can clearly do
+i think one of the things we were
+wondering about is like
+does does boston dynamics have the
+biggest delta between
+how good their image can be and how bad
+their image could be
+probably because because you know once
+in a while you get a weird headline of
+like here's the police using a robot dog
+in new york city and you're like
+what i've seen this robot dance now it's
+like guarding like i don't like it i
+don't like that
+like don't don't combine those things
+yeah so yeah i think they
+they keep themselves in a pretty good
+eye yeah and it's it's
+clearly gets more capable every year
+like if you look if you scroll down on
+their youtube channel look at their old
+videos
+yeah they probably those things like
+crap now they look
+rough yeah in the past then no pun
+intended yeah
+yeah uh so i'm happy for them yeah no i
+mean um and hyundai bought them now
+that's something i don't know if we
+talked about yet yeah that was the the
+last weird part of this
+was uh it was a bbc
+and i was trying to figure out why on
+earth they chose that
+um bts the the band the k-pop band
+collabs with a bunch of other korean
+tech companies all the time they collab
+with samsung all the time yeah all the
+time
+and so that was the connection is uh
+hyundai's korean hyundai
+just bought boston all of the company
+you're a stake in it
+them if not probably a majority
+stakeholder yeah which is kind of crazy
+because like they were owned by
+google for a while and then softbank
+bought them from google and now
+softbank sold it to button to hyundai
+so now they're obviously pretty tight
+with hyundai they have 80 percent
+okay yeah so yeah that's so hyundai's
+like yeah we'll do
+a bts dance video with the robots that's
+that's the natural thing we do to
+celebrate because we live in the future
+now
+yeah so it's beautiful yeah yeah
+uh i just okay just like don't put guns
+on the dogs and then we'll be okay
+that's the only thing i think there's a
+department
+at boston dynamics in charge of making
+sure no one does anything
+too crazy yeah sure yeah for now
+all right well now we have some we have
+some patreon some creator economy news
+to talk about
+now i like to think i'm i'm pretty
+plugged into the creator economy i've
+talked to a lot of fellow creators and
+obviously we
+we have internal dialogues and
+discussions about this stuff all the
+time
+um but we have a note here that jack
+conti the ceo of patreon right
+creator of patreon um did an interview
+with neil i
+on the decoder podcast i haven't
+listened to it yet but you have
+but there are some notes about some
+things he brought up
+on the creator the creator economy and
+stuff he talks about with uh
+the 30 apple tax yeah you want to break
+it down yeah so
+so if you've been following um the news
+with
+especially with epic and apple uh
+basically
+apple will take 30 of any transaction
+that is made
+uh through an app that is on their
+platform
+basically and they got mad at epic
+because epic was trying to sell fortnite
+skins
+with like a workaround way so that apple
+didn't get the 30
+cut yep apple says well we're providing
+both the service the giant platform that
+basically created
+the the entire app market and
+also we have all these like security and
+safety protocols involved to make sure
+that you're safe and you don't get
+malware and we have to protect our users
+and that just kind of created this whole
+conversation on like
+what do platforms like what are they
+owed
+you know google takes like 30 as well
+and so that kind of created this whole
+antitrust thing
+and now like we talked about earlier
+microsoft
+made a point it was almost a digital
+with windows 11 on the windows store
+saying we're not going to take any money
+if you have your own platform you know
+payment system
+yeah and now i feel and like facebook's
+doing the same thing like they just
+released their own like newsletter
+service
+and they're doing a similar thing where
+like until you make a certain amount of
+money
+it's gonna be you're gonna get all the
+revenue like so now it almost seems like
+people are competing
+for we're giving creators as much
+possible um like revenue from what
+they're making as possible
+music to my ears yes yeah competition is
+good competition is good
+that's actually a main point that jack
+was making um
+in the decoder podcast was neil i was
+saying was talking about like this
+anti-trust stuff
+he's like what do you think about it and
+and jack was like well
+you can kind of see like as more
+platforms
+compete with each other to give creators
+more revenue because like
+creators are the content and
+content is king and when you are
+providing
+all of the content for a service like
+you think about twitter if twitter navi
+users
+it wouldn't be a product yeah i think
+about this all the time
+uh we use the word platform yeah and
+when i think of a
+physical platform a platform is
+raised up above the wrist and so
+something being
+on that platform gives it a visibility
+it wouldn't have if it wasn't on the
+platform
+and so if you think of something like
+twitter for example as a platform
+it's like okay yes if i just want to
+share my thoughts about
+bacon whatever i could just write them
+and email them to a bunch of people and
+then hope they
+share that and then you know it is what
+it is
+maybe only five people read it but if i
+tweet it
+that platform could rise it to people
+searching for tweets about bacon or
+people who follow
+my account or people who share things
+with other enthusiasts about bacon
+the point is the platform is benef
+is a benefit to everyone on it yeah the
+other half of that
+is the platform is nothing without the
+stuff on it yeah
+so if your twitter if no one tweets yeah
+it's not much about what is
+what is your service exactly so you can
+build an amazing platform and discovery
+but you need
+the content creators to actually
+complete the cycle and make this thing
+work so yeah youtube is
+another huge example which is like
+totally if you want to make videos
+on the internet that people see there is
+only really one place
+that you can guarantee the maximum
+number of people see it and that's
+youtube
+and so youtube's in this phenomenal spot
+where it's like hey we
+are the reason people see your stuff
+yeah but on the other hand
+creators of that content are the only
+reason youtube got to where it is today
+yeah
+so i think about that dynamic a lot and
+i'm curious if you know how patreon
+sort of fits in as a puzzle piece of
+that yeah i think the dynamic has
+shifted a lot
+uh first of all because this idea of
+like creator economy didn't really used
+to be a thing this idea that like
+everyone is a creator everyone is unique
+everyone is kind of a product
+the words have been said a lot in the
+last year or two yeah
+it's blown up a lot because i think in
+the past these services saw themselves
+as like
+hey we're a product you're going to use
+our product and like
+the creators or the ind or people that
+have twitter accounts are just
+using the product but there there wasn't
+this mindset
+shift of like oh the people on your
+platform
+are making the platform make you money
+right
+and so now because more people are
+become are coming online more people are
+becoming more creative and like trying
+to market themselves as
+creatives and drawing more people to the
+platform
+more creatives are kind of like
+demanding
+not demanding necessarily but like
+needing
+more revenue from the things that they
+are helping the service they are helping
+lift up right yeah
+like you said if youtube didn't have
+like these big channels
+then they wouldn't really be a platform
+but anyway the whole patreon thing
+really interesting because patreon's
+been around for a very long time yep
+um jack conti was very early to this and
+i've listened to like every interview
+that he's ever done i've listened i've
+like watched all his videos
+and he's been like beating this drum
+forever that like eventually we're gonna
+get to this point
+where everyone can make a living doing
+what they love
+because of scale because when you have
+the internet
+and you have like a thousand people that
+like love what you do
+if they will give you a dollar a week
+which is very little for them like
+we have this idea of like subscription
+service and like
+over saturation slash anxiety with
+youtube premium and like hbo max and
+like
+sure uh but we're kind of tailoring our
+lives now
+to everything being a subscription
+service the cool thing though about are
+we doing that on purpose or is that just
+the way the world is i think it's
+just the way the world's shifting i
+think there are benefits to it it's like
+if you subscribe to a cable subscription
+before but you only watch two channels
+yeah why are you paying 30 when you can
+pay two dollars right you know so it's
+like
+so you're sort of you're we're breaking
+down like more individualized
+subscriptions
+instead of just like you know instead of
+icloud plus or whatever it's called with
+10 different services
+i'm going to pay for just the two or
+three things i need right and i'm
+overall going to benefit more from
+penguins right right okay but now
+if you're like a super fan of something
+right and you like you want you just
+want to
+absorb and eat up everything that that
+creator is making whether it's music
+whether it's videos whether it's
+you know podcasts like anything you're
+able to
+throw a dollar five dollars at somebody
+so you allow
+a lot yourself like a 300 budget for
+like
+subscription entertainment and it
+because of scale
+because the internet is so massive and
+you can allot
+so many fans so quickly as a creator
+even if only a thousand people you have
+a thousand
+core audience members which is fairly
+easy to get now right like
+in the past that was very difficult now
+it's pretty easy to get a thousand
+people to give you
+one dollar like a month or a week
+interesting yeah
+you can like make your living you can
+exist as a human because everyone is
+trading money around in micro doses
+right
+i think that yeah the the fact that we
+see so many more subscriptions
+out there now is probably a big reason
+for this like i think jack probably
+seemed pretty early because back then it
+was like
+if i pay 10 a month for netflix
+why would i give any one person five
+dollars
+right what how could they possibly
+create that much value for that one
+netflix
+is ten dollars a month right but now
+there's so many different things that we
+pay a subscription fee for
+not just cable but like i pay for
+youtube tv
+i also pay for youtube premium i also
+pay for spotify that's like nine ten
+dollars a month i also pay for
+this and that and there's als there's
+like all these different subscriptions
+that i think
+deliver their value basically per month
+and
+a lot of those may be creators whose
+youtube channels i've subscribed to and
+have joined the the club on
+yeah like i paid them a couple bucks a
+month yeah and that's because i'm not
+just supporting them but i'm getting
+more out of it
+and so now there are so many
+subscriptions happening
+that it's a more natural reaction to be
+totally willing to pay
+one to five dollars a month to an
+individual because
+we're just doing that all the time now
+yeah so yeah that 300 bucks
+a month budget probably seemed a little
+high back in the day
+today probably seems pretty real because
+if you break it down like in the past
+like
+a lot of that was going towards your
+cable bill and you only use two of those
+channels and if you can
+break down everything into just like
+micro payments you're gonna still be
+paying a similar amount of money but
+it's just more tailored to you
+there's a more personal like i am
+helping this creator make a living
+like it feels very personal it's a
+connection there there's a connection
+there
+um and and also i think people are
+starting to realize like
+coffee costs five dollars and i get that
+every day you know and it's like true
+what what is the value of one cup of
+like just not getting a coffee one day
+and then i can pay five creators
+yeah it's so funny it's like pretty dope
+when you like compare the value of
+things like
+if i pay 10 a month for netflix and i
+pay how much if you
+if you buy a five dollar coffee twice a
+week every month that's
+40 that's that's a lot more than that oh
+yeah what am i getting out of this
+coffee
+exactly so yeah maybe netflix seems
+underpriced now instead of overpriced
+yeah
+the point is yeah we the creator economy
+thing i think
+you know i've i don't really talk about
+it that much but i feel like the
+the scale of things the way they've
+ballooned over time
+makes things like youtube feel more like
+a fabric that we exist in
+rather than like a structure of a
+platform where now
+uh yeah anyone who shares something that
+they
+love or something that they make can
+accumulate enough
+people who will just be within this
+fabric and drawn to that thing
+yeah that they can eventually make that
+what they do yeah that's it like before
+like tv
+super structured to me like there are
+channels and there are shows
+and there are ad slots that support the
+channels and the shows and
+everything is very much like what's on
+amazon it's built a certain way yeah and
+if you
+want to be a tv news anchor and that's
+what you want to do
+then there's a path you follow and then
+if you land here at this company then
+you can
+you can be part of this structure
+exactly where
+on youtube it's like i don't really have
+to pick a channel or
+pick a news network i can just do what i
+want to do yeah
+and this fabric will sort of find you
+instead of being siloed into these
+things so we're all kind of connected in
+that way
+um just reachability too like remember
+when gangnam style hit
+it was the first billion dollar view
+video billion views yep
+sorry not billion dollars first video
+with a billion views and it was fast too
+it was like a month or two and but but
+the when that happened all the headlines
+were like oh my gosh
+a video on the internet can get a
+billion views how many videos have a
+billion views now
+a lot a lot because you've got this like
+growing like there's a lot of kids now
+that are just very online and they like
+they use youtube as their main
+entertainment source and
+like you said it's become almost a
+fabric of society and i was thinking
+about this the other day like twitter
+now is part of the fabric of society
+like there are major
+like nations make statements on twitter
+that can affect
+local global geopolitics and like all
+this stuff
+yeah crypto crypt
+[Laughter]
+um okay but bring bringing it back to
+the point of this new story the point of
+the decoder
+episode that kind of like made the
+reason this made headlines
+was that okay so patreon is a very old
+platform right it's been around for a
+very long time it was like
+really early youtube is like when
+patreon got started and the cool thing
+is like patreon got started just a
+little background because
+jack conti and his wife are musicians
+and i i watched their videos yeah they
+were on youtube
+yeah yeah and they wanted to fund their
+band
+with they wanted their band to be like
+their full-time thing but they're like
+how do we do this
+and jack had created this music video
+that he put like blood sweat and tears
+into he spent all of his money in his
+bank account to make this music video
+where he was like inside the millennium
+falcon like he built a cockpit in his
+garage
+all of this stuff and he was just like
+this is so unsustainable because i got
+he got a million views on youtube with
+that video which is amazing
+but he got like 300 in revenue
+and he spent multiple thousands so he
+was like
+i want to do music full time how do i do
+this and he came up with this idea of
+creator economy that it's he was so
+early to it
+but the point is he was so early and it
+was very early in youtube
+that like when you sign up for a patreon
+page you're not
+generally in the patreon app doing
+discovery right because like
+a lot of the reason that that apple or
+google says you owe us 30
+is because they're get they're creating
+the discovery platform
+whereas patreon is such a different
+thing because when you subscribe to a
+patreon
+account it's not discovery based you
+already know
+that you really like this creator you're
+willing to give them
+three five ten dollars a month because
+you wanna see extra content from them
+you wanna have that personal
+relationship with them and that's the
+only reason you're on that site right
+now exactly
+it's it's not a discovery based platform
+at all it's like
+i love this person i want to give them
+my money and so because of that
+generally people signed up for patreon
+accounts on the web
+and so you would go on a website you go
+to the specific patreon page
+and you would say hey i'm gonna sign up
+i'm gonna give you five dollars a month
+now the they do have an app obviously
+um but what neil i asked him was like
+so is apple taking 30
+of every patreon subscription because
+like
+you know if people like sign up in the
+app
+and uh because there was this whole
+elite battle with spotify
+where and netflix spotify and netflix
+like
+for a bit spotify offered hey if you
+sign up for our account in the app it's
+12.99 a month if you sign up on
+spotify.com it's 9.99 a month right
+literally
+that's the difference and netflix i
+believe still doesn't have you still
+can't sign
+up for a netflix account in the netflix
+app right you have to go on the web
+right for that reason so neil i was like
+is apple taking 30
+like how are you getting around that and
+he was like um
+no and so neil i was like that's weird
+like why haven't they come after you yet
+because there's actually this other
+platform um that is
+similar to patreon uh
+where apple did go after them recently
+and they're a very small company
+so it's kind of weird that like patreon
+hasn't been hit with this yet
+yeah um jack conti has i don't i don't
+know if he's
+ready to face that legal challenge like
+when eli brought it up he seemed like
+a bit like i don't that's not really
+something i want to deal with because i
+just want to like help
+people make money right um so
+so yeah it's interesting and it's
+basically going to be this thing of like
+how hard is is apple gonna crack down
+on all platforms you know gotcha
+interesting yeah yeah i think part of
+what we were saying too about that of
+like
+okay patreon is not necessarily a
+discovery platform yeah this is
+something
+uh people talk about with only fans too
+it's like
+when you get to only fans someone else
+funneled you there yeah it's not like
+you're
+i guess i don't know but i'm imagining
+people aren't browsing around only fans
+looking for things they're not browsing
+around patreon
+finding things it's because someone sent
+them to their patreon yeah
+so i wonder if the the ideal future of
+something like patreon
+is actually being more a part of the
+fabric
+of this discovery that we have on
+youtube for example
+now i don't know if they ever want to be
+part of youtube
+but wouldn't it be ideal if you could
+say hey if you would like to support
+what i do
+there's a there's a couple buttons right
+below this video for you to
+just immediately like become a member
+obviously youtube has channel
+memberships already
+but if you can really be off though
+never really took off and i don't
+i i don't know if there's any good
+reason for it because it's kind of the
+same thing yeah you've put
+tiers in now different price levels
+different rewards
+but it's the same thing where it's like
+you can you can be a part of
+that discovery because youtube will send
+you places based on where it thinks you
+want to go yeah
+and then when you arrive there you'll
+have someone going hey if you like more
+of what i do you can get more
+you can support me here yeah yeah that
+seems like actually an ideal
+future i don't really know why it didn't
+take off yeah it's strange
+patreon specifically at the very end of
+the podcast you mentioned that they
+specifically don't
+really want they don't want to be a
+platform i think that's the difference
+is that like like you said they're not a
+discovery platform
+they want to be like just a way for
+creators to get
+paid and because of that they don't
+actually host content
+they don't host video they don't host uh
+like a
+mail delivery service so like they
+specifically partner
+with these other platforms these other
+services that creators are already using
+so
+when you have patreon exclusive video
+content it's hosted through a vimeo
+plugin
+when you have patreon exclusive uh music
+it's hosted through like a soundcloud
+plugin
+and you have patreon exclusive email
+list it's hosted through
+a mailchimp plugin like they do not
+really host content they're just a way
+for people to get paid and they wanted
+to do that specifically because
+it's as soon as you start hosting
+content that all of this stuff gets
+murky
+right right there's a reason that like
+there's all that um there's a lot of
+discussion that like twitter needs to be
+uh held accountable for what its users
+post and that whole like section
+the legal part yeah yeah yeah that's the
+whole thing and so i think they're just
+trying to avoid that because they're
+just like we
+really just want people to get paid yeah
+i also think they might be incentivized
+if if that was a part of their like new
+business that say oh we'll do exclusive
+content built into patreon
+it would actually be good for their
+business to shuffle people around
+and discover other patreon things that
+they can also subscribe to yeah so you'd
+want people to
+you eventually become a site that wants
+people to stay on patreon as long as
+possible
+yeah to make patreon as much money as
+possible because you're going and
+bouncing around to different creators on
+patreon
+rather than just like this very direct
+relationship between
+the creator and one patreon site yeah i
+do think they
+understand that it's very difficult to
+be like you might like
+this person do you want to give them a
+monthly fee of five dollars
+yeah it's tough like we grew up in this
+era where
+like as soon as the iphone and the like
+ipod touch came out
+most apps were free so our generation is
+not used to paying for online content
+the music thing is the number one is
+like the biggest shift i've seen i
+remember back in the day on itunes
+it was like i a new album comes out and
+it's like all right
+the whole album is 10 bucks but i only
+like three songs from the album and i'm
+going to buy these three songs for 99
+cents each and they're in my library
+and i make the tough choice of never
+listening to any of the rest of those
+songs again
+which is a horrible idea by the way yeah
+but oftentimes the first the songs you
+hate the most
+that's true end up being the best songs
+on the album that's true but now
+like if you bring that up to like my you
+know teenage cousins they're like you
+paid for
+one song are you kidding you paid a
+dollar yeah and
+yeah so like now they're just so used to
+being subscribed to apple music
+subscribe to spotify where you have
+access to a library for a fee and that's
+the service you get for paying every
+month
+and the second you stop paying guess
+what nothing is available to you
+yeah and that's totally fine and that's
+a that's a version that everyone is just
+basically accepted at this point yeah um
+so yeah i think we're just kind of
+building off of that
+like new philosophy of like yeah this
+service provides value to me and the
+second it doesn't anymore
+i can just not have it anymore yeah
+which i i think
+is a good way forward there are a lot of
+people that are very against not owning
+what you
+oh yeah what you view what you listen to
+i totally totally understand that as
+well
+but in this world that is moving like so
+internet focused that you don't really
+need an office and a lot of for a lot of
+jobs anymore
+you can live anywhere you want just
+being able to have
+as much stuff digital as possible so
+that you don't have as much
+physical weighing you down i think is a
+great thing yeah
+here's a yeah here's a random question
+to tie this up
+for a subscription mindset yeah i was
+gonna phrase it one way i'm just gonna
+go to the extreme
+okay would you pay a subscription
+for access to your car
+so instead of buying your car would you
+pay
+25 a month for a tesla model 3.
+you mean a lease it's less than a lease
+because you're just paying for access to
+it
+yeah it'd probably be more it would be
+way more than 25 a month let's say
+let's say 200 bucks a month for access
+to the car and the second that you don't
+pay it anymore you don't have it but
+you can cancel at any time yeah you also
+have to pay insurance would that be
+worth it to you a thousand percent i i
+mean personally
+uh for people who know me i have major
+commitment issues so
+even getting an apartment was like
+extremely
+stressful for me because i love the idea
+of just like one day i'm like you know
+what
+today i want to live in iceland oh so
+it's an advantage for you to not have to
+own it oh yeah
+oh i see owning big physical things is
+scary because i was going to say like
+you own the car
+would you pay 20 bucks a month for
+autopilot and if you ever stop paying
+then you don't have it anymore
+and that's what they're gonna do that's
+what they're gonna do and people really
+don't like that it's like i
+own my car it has software on it i own
+the car
+i use the software period yeah don't
+make me pay over and over again for the
+thing i already own and bought from you
+but yeah if you just take it all the way
+to the extreme of like
+well you don't own your car but you can
+use it like you own it until you stop
+paying
+yeah that would be fine i'd be fine with
+not owning my car
+i don't think a lot of people would i
+don't think any everyone would the
+autopilot thing
+it again it's gonna depend on i know
+this is a little like
+we're going over here but this is like a
+little bit like
+autopilot right now cost ten thousand
+dollars yep if they made it
+30 bucks a month you're basically
+weighing like
+how long do i think i'm going to have
+this car is this a bet is it a better
+deal for me to have it temporarily yeah
+will it affect the resale value all this
+it's a math thing
+but i i do think that a lot of people
+are okay with like
+paying very little amounts monthly
+instead of paying a lot
+now and then having this physical burden
+on them yeah
+yeah makes sense so anyway all right
+well i think that's a good place to end
+it we sort of talked about
+a spectrum of things we hit the boston
+dynamics thing we had xperia one mark
+three we talked windows
+11. yeah that's actually a lot of topics
+it is kind of a
+solid variety i didn't really have very
+good segues today because they're
+they're just not really
+related in any good ways um but david
+thanks for joining me on the podcast
+if you want to find other things david
+does where should they find you
+um well my twitter is at durvida mill on
+twitter that's pretty much my main
+platform where i say a lot of things um
+it's part of the fabric of your
+existence fabric of my
+personality uh obviously you can also
+find
+things i do on here and then uh
+davidamel.com
+it's my website but it's like you know i
+update that every now and then
+word you'll be back for sure yes awesome
+yes all right
+thanks for listening thanks for
+subscribing on the waveform youtube
+channel if you haven't already and if
+you leave any comments
+make sure you leave suggestions for
+things we should talk about or even do
+in future episodes that's been it thanks
+for watching
+waveform is produced by adam molina we
+are partnered with studio 71 and our
+intro outro music is produced by vane

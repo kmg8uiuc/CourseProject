@@ -1,0 +1,2074 @@
+hey what's up mkbhd here welcome to an
+episode
+of the waveform podcast it is tectober
+yeah i am so tired i'm sure you are dude
+but where are we uh we're your hosts i'm
+marquez i'm andrew and it is you're
+hearing us on a friday but we're
+recording us a little bit earlier in the
+week and this week we had an apple event
+on monday yep we had a samsung a google
+see how tired i am yeah we had a google
+event on tuesday we had a samsung event
+on wednesday like today when we're
+recording as we're just getting straight
+into here exactly
+and we have a lot to talk about i think
+they're kind of in order of excitement
+because well for me anyway as a creator
+there's some really interesting stuff in
+all three but really right from the top
+the apple october event was pretty hype
+it's what it's what y'all have been
+asking for yeah for a long time yeah
+exactly so i made a video about all the
+stuff and i opened the video saying like
+all right i'm gonna try to stay calm i'm
+gonna try to stay neutral but i was
+really excited for these laptops like i
+this is
+i've edited videos for a long time
+and over a decade at this point and
+there got to a point where the cameras
+and the footage got past the level that
+i could acceptably edit on a laptop
+and i was kind of sad because like i
+really i like editing on a laptop i like
+editing anywhere but i also really like
+crispy 8k footage yeah
+and it got to a point where it's being
+like detrimental to the production of
+our stuff because i mean we would fly
+out to an event
+you would edit and like i would wake up
+the next morning getting ready to go to
+the plane and your eyes would just be
+like bloodshot like marquez did you go
+to sleep you're like no i was
+babysitting the export waiting for it to
+render so that's what developed the
+travel imac yeah and imac pro so i think
+you know we'll get we'll get more into
+it but i think the big thing here will
+be like are these laptops going to
+replace the travel imac yeah i've told
+the story before but i'll just tell
+abbreviated version the first time i
+started uh editing on final cut pro i
+was using premiere on a
+macbook pro and john morrison from tld
+was using final cut pro on a macbook pro
+we both went and shot that kobe
+interview in staples center in la he
+shot the behind the scenes video i had
+the main interview we both finished
+editing around the same time we both
+started exporting around the same time
+and then we were like let's go grab
+dinner oh wait a second his video is
+done exporting already he found a
+mistake in his video went back corrected
+it exported it again meanwhile i'm like
+like 16 done exporting and i'm like i
+this is this is bad so i had to switch
+to final cut pro and i got a lot more
+speed out of that but still when you go
+like red footage when you go exporting
+these transcoding these huge files
+it takes a very long time and i usually
+do have to sit and babysit like a six
+hour export i mean you're like an
+anomaly in the sense that no matter how
+many times you upgrade you find ways to
+break it and stuff i mean even the mac
+pro some days has has its moments uh
+yeah you need to be like hired by by
+apple or google or any any tech company
+to just like test it to dress test their
+stuff well that's what i'm here for so
+we got a couple things at the event uh
+there's some other audio products right
+before the macbook pros there was the
+airpods 3. when it comes to listening to
+music on the go
+airpods deliver a magical wireless
+experience
+which we'll be testing uh they're
+essentially
+airpods pro
+minus the silicon tips and and the noise
+cancellation the good stuff yeah so yeah
+so but it's cheaper so it's 179 and they
+also all now have a magsafe compatible
+case that slaps on the back which is
+kind of cool they actually quietly
+updated all of the airpods with wireless
+charging to a magsafe compatible
+wireless charging case but that's a cool
+new feature we'll check those out yeah
+it seems like it's basically just
+airpods
+two with the airpods bro case and has
+spatial audio right and design yeah and
+space yeah yeah yeah
+they've never fit in my ears without the
+silicon tubes they some people i'm so
+jealous because they fit perfectly in
+their ears without the silicon and they
+just run around and somehow it's magic
+and good for them i'm not one of those
+years i think um like
+anc and uh transparency mode is awesome
+but
+i would like the main reason i buy the
+pros is just for the silicone tip so
+they would actually fit so like i would
+be totally down for i don't need spatial
+audio give me the ones that fit at the
+179 price point i'd be so much happier
+maybe someday but they also uh we got
+some new colors for the homepod mini not
+really too crazy but some yellow orange
+and blue so it's just black and white
+before
+that's pretty sweet and white sorry
+i'm assuming it's space gray i don't
+know it was almost black whatever yeah
+so there's some color in the lineup now
+we also got a new lower tier of apple
+music called apple i guess
+apple music voice or voice something
+yeah it was a little confusing actually
+at first uh basically just sounds like
+you're triggering all of your audio
+experience from siri i'm not really sure
+if that's
+a way to get more people to use apple
+music are there people out there with
+like only a home pod but no iphone so
+they need to listen to music i'm not
+sure
+i think the final we were all very
+confused we thought at first it was an
+extra five dollars just to get siri to
+work with apple music which would be
+weird yeah um but so i think what we
+finally found out is that it's basically
+just like a cheaper because apple
+music's 10 bucks a month right so this
+is five bucks a month so then it's just
+a cheaper way of if you i guess only
+ever really play music um when
+uh like
+you're using your homepod and stuff like
+that if you're mostly playing i guess in
+a home atmosphere through that through
+siri i guess maybe apple carplay
+probably would take it as well sure you
+really don't like the um
+it's a thing yeah it's it's a thing now
+but then they got to uh
+they got to the product we were all
+waiting for
+the 19 apple polishing microfiber cloth
+beautiful i can't believe it's on sale
+separately yeah it's basically the cloth
+that came with the uh pro display yeah
+yeah
+it's got a whole compatibility list on
+there that was so good if you guys if
+you haven't seen yet quinn posted it or
+you can just go to apple site but the
+polishing cloth somebody took the time
+to put in the com what it's compatible
+with and the best part is it's not
+compatible with all iphones it's
+incredible
+i almost wonder
+if there's something specific like i was
+trying to figure out if that's when like
+gorilla glass started or ceramic shield
+started it it ends right around the
+first iphone se and nothing before that
+is
+quote-unquote compatible yeah you gotta
+have the latest ios to use this
+microfiber yeah right ios 13 only um but
+yeah so that was good but but for real
+m1 macbooks m1 pro and m1 max
+so
+i don't know i guess i'll start with the
+chips then get to the macbook pros
+because there's it's a whole lot all
+together and they're a package so uh m1
+pro and m1 max are the upgraded versions
+higher end versions of apple silicon
+i've also explained all this in an mkbhd
+full video but essentially they're much
+bigger gpus yeah much much beefier on
+the gpu side the m1 stuff was great it
+wasn't super heavy on the gpu because
+these are replacing machines that didn't
+have dedicated gpu so it's integrated
+that's cool now i get these big gpu
+cores so uh m1 pro 14 or 16 gpu cores
+much bigger gpu and it's a physically
+larger chip going into this machine
+and then there's m1 max which again is
+10 cpu cores but it's doubling that gpu
+again so an even physically bigger chip
+but way more gpu and we're starting to
+get these crazy numbers like the memory
+bandwidth numbers are 200 or 400
+gigabytes per second yeah uh up to 32
+gigs of memory on m1 pro or 64 gigs on
+m1 max
+i think they're being equated to like a
+rtx
+3080 a desktop rtx 38. that i'm sure a
+lot of people are rolling their eyes at
+that point it's just pure numbers right
+now exactly no one really has compared
+them or benchmarked them against
+anything and if we want to compare real
+quick the m1
+you know the original m1 that is eight
+cpu cores seven or eight gpu cores
+68 gigs of memory bandwidth and 16 gigs
+of max memory so we're talking like
+double or triple between them one pro
+and then one max yeah so i'm a huge fan
+of m1 especially in this computer i've
+been dailying for a while the 13 inch m1
+macbook pro because of its efficiency
+it's got incredible battery life but
+it's also got great single core great
+snappy performance so that's all good
+but these are just much more powerful
+chips so they're appropriate for higher
+end machines and the only thing they
+showed them up in is macbook pros
+i was kind of curious if we'd see an
+upgraded imac like a 27-inch imac or
+like or even a mac mini or a mac mini
+exactly i i could see it in some other
+stuff too but it's just macbook pros
+that we got maybe there's another event
+coming for the rest of that stuff
+but okay the macbook pros m1 pro and m1
+max represent a huge leap forward in
+silicon for pro systems and our teams
+have been hard at work designing a brand
+new macbook pro that can take full
+advantage of that incredible performance
+and capability i love it they they
+basically just redesigned they went
+backwards by like five years and
+re-imagined everything
+and re-imagined everything about it
+re-reimagined yeah so uh 14-inch and
+16-inch macbook pro
+um
+really liking both of the designs so the
+design first of all it does have
+a slightly new shape and it really
+reminds me of like uh like those older
+clam shells like not the ibook the power
+books yeah the power books and i think
+that's very intentional and the whole
+design sort of fits around that so it's
+cool the footprints are about the same
+as the 13-inch and 16-inch macbook pro
+um
+but we have
+ports now first of all i'm trying to
+figure out where to start we have ports
+yeah love the ports we have magsafe
+has a charger up to 140 watts from the
+brick which is very large it is very
+large but we were talking about how
+there are cell phones out there now with
+without charging true
+but like magsafe i've
+i never really used long term a laptop
+with magsafe i kind of joined right
+around the uspc all that happening okay
+you can still charge laptops with usbc
+by the way people are wondering that
+okay but if you want that fastest
+charging magsafe is back
+can i just quickly say with a braided
+cable also which i'm very excited for my
+old magsafe cable when i was in college
+i was
+like doing work one day on it and i
+heard a pop and smelled smoke and the
+cable like next to the computer had like
+frayed and somehow like shorted it or
+something like that and i had to go get
+a new charger so wow i'm hoping the
+braided cable will
+fix that well the other good thing is
+it's separate from the brick so if that
+happens you can just get rid of the
+cable or the brick which used to be like
+that also but like you i think it
+shorted the brick due to i don't know
+exactly what it was but yeah that's bad
+news it's not fun having to spend 80
+bucks on a new charger when you're in
+college yeah for sure everything this
+one i hope it's good it should give you
+uh half battery in half an hour which is
+pretty sweet um so that's one good port
+then we got full-size hdmi out of
+nowhere i don't have a lot to say about
+hdmi but it's back it is always a good
+thing to have because having a spare a
+random hdmi to c dongle is way less
+common than like a just like c expansion
+dongle or an sd card like reader or
+something right there's no like single
+hdmi dongle it's always part of another
+big there are some it's just like no one
+has one just like laying around really
+we're a whole tech studio and if we ever
+need that yet it's very hard to find
+somewhere in here we have like one
+hidden somewhere so it's that's good to
+be back i'm we're not sure if it's hdmi
+2.1 or what the what the spec is of it
+yet but fingers crossed there
+then we have three thunderbolt 4 ports
+so that's good
+no full size usb but there is
+a
+headphone jack which supports how did it
+fire impedance well it's
+but it supports higher impedance
+headphones now okay which is a very pro
+touch because higher impedance
+headphones would typically require you
+to plug in via usb a separate dac which
+then you'd plug the headphones into so
+not only are you saving a port
+theoretically if this internal dac is
+really good but you still have like your
+head it just plugs right into the laptop
+and that's nice and convenient so that's
+cool
+and then the sd card slot is back
+and an sd card slot enabling fast access
+to media that's what i was really pumped
+about i saw that slot on the side of the
+laptop i was like this is game changer
+people are going to get this laptop game
+changer game changer something they took
+away from us
+that's the fun part about all this is
+like we used to have literally
+everything i've just talked to you about
+other than the high impedance headphones
+all these ports used to be on the
+macbook pro so
+usb is here it's faster with thunderbolt
+4 but like we've had usb for a while
+yeah thank you for hdmi thanks for sd
+cards a lot
+we have to give apple kind of like i'm
+not giving them full credit because they
+didn't admit how wrong they were by
+taking it all away from us but they did
+bring it back so i'm not gonna like jump
+from the rooftops that this is like some
+groundbreaking reimagined um
+but like we're very happy they're back
+let us be happy yeah the language in the
+keynote was really funny love watching
+them just like those yeah those moments
+of like
+pros appreciate the flexibility of
+multiple ports just like you hear them
+say this and you're like yeah but you're
+the ones who just yeah anyway you did
+this i mean if you want to talk about
+things that they're fixing that they
+caused the problem for let's go to the
+keyboard now of the yep the new it's so
+much better yeah so uh typically we have
+a macbook pros with a touch bar which is
+a half size
+strip of touch screen at the top
+mixed reception wasted space yeah i
+thought it had potential honestly when
+it first came out i was like oh this
+could be really cool if developers make
+cool stuff here and if this like starts
+to but it didn't turn out to be that
+yeah i think there are very few people
+who love the touch bar right so they're
+coming out of the woodwork now that it's
+gone exactly but you know pick them up
+now while you can because it's gone and
+we have replaced it with a full-size row
+of actual buttons function key buttons
+um never seen before yeah never before
+seen in a laptop uh no but there's still
+touch id over on the far right hand
+corner which is nice and then all those
+buttons are real and physical and i
+actually like the keyboard the keyboard
+is like in set inside the laptop and
+that whole keyboard well is black now
+which is a subtle thing but it again
+sort of has retro vibes and is a it's a
+new it makes the new design look
+different and i like it it's really
+funny because we were setting up uh
+an older
+macbook just for for adam to use for the
+week and
+i was using the old butterfly keyboards
+like it was right after the event and i
+was just like we've come so far they
+really just destroyed this laptop before
+finally fixing it they did everything
+wrong i feel like to get to that point
+it was definitely like boiling the frog
+what's the saying or like if you slowly
+you've never heard this oh like if you
+just put a frog in a pot of water and
+slowly turn up the heat it won't realize
+that it's boiling until it's dying
+and no animals were harmed
+this is a common thing because i i've
+used all of these keyboards for the past
+like five years and i never really
+thought like every year it would get a
+little bit shallower and a little bit
+shallower and i was like wow the
+keyboard is a little shallower it's kind
+of annoying and then the next year i'd
+be like oh the camber is a little
+shallower again that's kind of annoying
+but now that i'm using these and i went
+back to the shallowest one oh my god
+that keyboard is bad i want in the final
+review i want you to like side by side
+like typing test on them or something
+yeah cause just setting that up like
+just typing in a couple passwords and
+and stuff it was brutal it's rough i i
+can't believe they got that thin so they
+definitely boil the water on me but i'm
+glad i'm glad they're back again so
+keyboard thumbs up
+uh and then the last big upgrade i mean
+they did improve the speakers and the
+microphone but the last big upgrade is
+definitely the screens yeah so like i
+said 14 inch and 16 inch in the same
+uh
+form factor essentially it's slightly
+different dimensions but as the 13 inch
+and 16 inch outgoing
+but what what we're really seeing here
+is the display thinned up the bezels and
+got closer to the corners it looks
+pretty good it's three and a half
+millimeters all the way around
+and then there's a notch at the top i'll
+get to that in a second don't worry
+don't worry i'll get to that in a second
+but the display itself is 120 hertz pro
+motion so it's up to that high refresh
+rate and it's hdr it's essentially a
+mini pro display xcr it's using the same
+mini led tech and gets way brighter up
+to 1600 nits peak brightness and hdr
+content and editing
+which is really exciting to have to not
+i think john tld again he just tweeted
+like it would be a shame to use these
+laptops in clamshell mode you know you
+can like close them and plug them into a
+monitor because that monitor now is
+probably better than whatever you're
+going to plug it you have an xtr yeah
+yeah
+so that new screen is going to be
+awesome for editing but
+let's talk about the notch it's it's
+kind of weird that this this so the the
+aesthetic now is there's a notch at the
+top in the middle that houses the new
+webcam it's a 1080p webcam
+finally
+great another another big step for apple
+doubled the resolution thank you
+um but it's so wide that it seems like
+it has more it has enough room for a
+whole face id suite but they didn't put
+it in
+and
+to me first of all it's like okay you're
+going to do that in the next one you're
+going to put face id in the notch
+because now they all have to look the
+same and you just waited a year and we
+all know it's happening
+but let's say you don't care about that
+you still got touch id on the thing on
+the keyboard the other thing is the
+extra screen
+is up at the top to the left and right
+of the notch that's all menu bar now yep
+and that's actually fine i the way it
+was described is it's basically you're
+getting extra screen up there that you
+didn't have before totally agree yeah
+yeah because a lot of the way it's
+really easy to think about it is wow the
+notch is cutting into my screen
+the notch is just the last bit of the
+screen that you didn't get rid of does
+that make sense like you're getting more
+screen and the notch is just left behind
+well so it makes so much more sense here
+because like
+in a phone that was also the case you
+know you were getting extra screen and
+you were just kind of getting your
+notifications up there the problem was
+is on a phone it's really easy for your
+notification bar to fill up and then
+you're you don't have that space yeah
+you are never going to fill the menu bar
+and notifications or whatever up on a
+laptop uh we'll see okay maybe
+never but like it is far far harder and
+most people will not sure so yeah you do
+get the extra thing i i'm pretty sure i
+know what you're going to complain about
+that the
+menu bar is like four pixels longer than
+the notch so rather than it just being
+perfectly flush with the menu bar
+you like see the menu bar under the
+notch and it's just this like little
+tiny thing yeah that is super frustrated
+from a company that just takes design so
+seriously that seeing that makes me
+believe there's a reason for it i just
+am not exactly sure what it is yet i
+think it may just be because the area
+underneath the display or the area
+underneath the notch is a little bit
+taller than 16 by 10
+or whatever aspect ratio they're going
+for and so now when you full screen a
+video or full screen any app it's going
+to full screen underneath the notch the
+apps will never cut into it that's
+another thing that kind of peeves me a
+little bit what um it's like when you're
+in a full screen video
+and you have the bars above the video it
+centers the bars as if the bottom of the
+notch was the top of the screen so
+when you now black out the the part with
+the notch and you add the extra black
+bars there's more blank space on top of
+the bottom i mean these are super
+nitpicky things but again like in a
+design perspective it would feel much
+better if it was evened out yeah if they
+can move it up a little bit but
+you know it's it's never the notch will
+never cut into anything no which is good
+uh but yeah they're they're totally
+gonna add face id to the next one that
+they make it's just this one doesn't
+have it and i would have actually been
+totally fine with face id and the laptop
+like windows hello you just open a
+laptop it looks at you with the webcam
+for like a second and it just unlocks
+this would have been a
+more secure version of that with like
+their face id tech but it's not here so
+i have a feeling this is a notch that's
+going to
+slowly melt away to our eye
+and i wouldn't be shocked care i don't
+mind it at all yeah i think it's totally
+fine again you're getting extra screen
+it's just those little tiny things that
+kind of
+make it look not perfect or yeah in an
+otherwise incredible machine this is
+probably the easiest thing to like trash
+on this yeah i mean it's the notch it's
+easy to try yeah but other than that
+they're expensive the 14 inch starts at
+19.99 the 16 inch starts at 24.99 and
+you can max both of them out with the
+same specs the same m1 max and 64 gigs
+of me or yeah 64 gigs of memory and all
+the high-end stuff eight terabytes of
+storage
+and uh the highest end 16-inch i think
+will be 100
+so yeah you can spec it up pretty high i
+think the highest you can get with like
+all the programs like pre and if you
+like
+6 600 sure but yeah 61 for max hardware
+and everything yeah um my only other
+gripe here is
+the name max in a mac is
+very confusing uh your a-roll for any of
+these is gonna be brutal because you're
+just gonna get tongue-tied for
+everything there's a couple m1 max max
+on the way i don't even know what you
+just there it
+definitely stay tuned for the reviews of
+these i'm very excited i hope i get to
+to edit on a laptop again that's my
+ultimate goal i really feel like the the
+final test in that is just like
+do we ditch the travel imac yeah yeah
+the travel imac that's it's an imac pro
+right now that's sitting in a massive
+pelican case that weighs about seven i
+think we could fit on that pelican oh
+easily i could fit in that case it's
+huge but we have to we we literally like
+pull up to the airport with like all our
+bags and then this massive rumbling box
+behind us and we go can we check this
+bag please and they're like is it
+oversized and like look at it
+yes it's oversized
+uh and that thing shows up on the other
+side in the oversized baggage and then
+we set it up in the hotel and it's a
+desktop so if we can not do that ever
+again this laptop's a huge win i don't
+care what anyone says all right well
+that's enough for uh for monday's event
+yeah let's get into tuesday
+so tuesday we had the google event the
+pixel 6 reveal now this was a mysterious
+phone because nobody knew what the pixel
+was going to look like no one had any
+clue if there would be one or two pixels
+if they would have like a weird camera
+design no one had any clue yeah would we
+see the pixel ultra yeah will we finally
+get the ultra this is heavy sarcasm in
+case you can't tell uh we knew what they
+were going to look like but we were
+finally just getting sort of
+confirmation and prices basically it was
+an hour-long
+price reveal even though they released
+the price in the first like five minutes
+yeah price reveal and some cool feature
+demos yeah so neat um and we do have
+them here in the studio officially i can
+show you there it is and i can even
+unlock it and show you the home screen
+there's my home screen i can't as of
+this moment show you anything else
+but we can talk about all this stuff
+yeah that we went over in that hands-on
+video so the prices are the most notable
+5.99 for the pixel 6 8.99 for pixel 6
+pro
+how did you were you surprised when you
+heard those prices i feel like we were
+guessing them and we were guessing a lot
+higher uh yeah surprised but for kind of
+different reasons so
+with tensor it's really hard to kind of
+guess where the price range would be i
+think the most surprising thing is the
+delta between the prices of how high
+they are i could have seen both phones
+going for 5.99 7.99 like a 200
+difference or 699 8.99 but to see one at
+599 899 puts this like just huge gap
+between the two where then you start to
+wonder like
+where is your money best spent kind of
+thing 5.99 is an awesome awesome price
+tag
+so we're seeing like because pixel 5
+with you know a kind of smaller chip
+than like the uh the flagships at that
+time so i was kind of expecting like
+maybe it would be really awesome you
+know pixels never really killed their
+hardware compared to other flagships and
+stuff like that you know if they can
+undercut some it would be really really
+awesome almost like the new one pluses
+like you know what i mean but um so
+seeing 5.99 is great yeah 8.99 still a
+little under but it's pretty pretty up
+there still yeah that is pricier
+so yeah i don't know there's there's a
+lot of interesting stuff i i guess let's
+start with the differences between the
+yeah i think that's fine if you haven't
+seen the designs by now like you it's
+got the camera bar on the back it's got
+these big screens 6.4 and 6.7 inches
+they're big phones they've got these
+these unique colors and obviously
+android 12 material u
+but the difference is okay for the 300
+bucks you're gonna get
+one
+uh a slight you get a slightly bigger
+screen 6.7 inches and you'll get that
+screen to be 120 hertz instead of 90.
+and you'll get that screen to be
+slightly curved around the edges instead
+of flat yeah and so it has like slightly
+smaller bezels yeah that is neat and i
+think
+i think a common sentiment is like
+people were like why isn't there a small
+one i wanted there to be a small phone
+but the uh the response from google
+would likely be
+we're making a 599 phone and we're gonna
+give you as much phone as possible for
+that price and people
+usually want a big screen so we're
+giving you a big screen for low dollars
+which is
+fair yeah i think it's i mean we've seen
+with iphone mini like the sales weren't
+as as good as we were all hoping for um
+and then i think what people really
+wanted it though because pixel 5 was
+like a great size it was much smaller
+not like mini size but still just a
+smaller phone so i think people were
+expecting
+maybe something similar to that at least
+in this release but it didn't happen so
+yeah we just got some
+chunky boys some big phones the big
+phone also has a bigger battery it's
+five thousand milliamp hours versus i
+think it's 4 600. those are still both
+great battery sizes both pretty big
+batteries so that'll be fun to test they
+both have the same tensor chip they both
+have the same specs other than 12 gigs
+of ram and the pro versus eight in the
+in the regular six which is a bit more
+ram but they both have a lot of ram
+then you get these glossier sides on
+this pro phone versus uh actually matte
+black sides on the six i actually prefer
+the matte aluminum on the six it's
+something pixel's been doing for a bit
+like the i saw the pixel 4
+i loved the like orange or the white
+color with the yeah the matte black
+sides but no accent
+but uh the powder makes me so mad that
+would have been tough how do you do
+these do these two tone colors on
+everything and like pixels always like
+love the different colors yeah just put
+the accent button on
+i want to see the green one so bad and
+with a green accent button would look so
+well as good as these phones can look
+i'm still a little indifferent to it
+over the whole design
+can we normalize uh not doing glossy
+sides like every time we hear them
+describe it it's like we were inspired
+by high quality finishes used in jewelry
+and watches it's inspired by jewelry and
+it's it's very glossy and premium
+looking and it's like yeah jewelry is
+shiny but like the matte one doesn't
+gather fingerprints actually this pro
+has a matte cutout at the top likely for
+the millimeter wave support did you see
+the other colors of that we're off on
+such a tangent yeah right now but
+there's a white one the white one at
+least the white kind of matches it but
+doesn't match the silver rails and then
+the yellow one it has this like
+almost i don't even know how to describe
+it like
+almost gold kind of like matte yellow on
+the top because it we're assuming it's
+the window for millimeter wave yeah so
+it's like this matte finish on the top
+the problem is it doesn't span the whole
+thing so you can see
+the size of it yeah and it looks really
+bad on the yellow i think i also call
+the yellow banana cream pie like that
+you've left on your counter for two yeah
+that's fair what was android b i guess
+that was before it was like a beta oh it
+should have been banana cream pie if it
+was named uh wow what a tangent okay
+where was that so you you also get one
+more camera in the pro yes so we have a
+standard 50 megapixel primary camera in
+both we have the same ultra wide camera
+in both
+we do have
+an added 4x telephoto in the pro
+um which again will go to further
+lengths to zoom in if you want optical
+zoom super res zoom is available on both
+but you can go further with this extra
+dedicated telephoto and another subtle
+thing the selfie camera on the pro
+is a little bit more ultra wide it's
+ultra wide and the the rank the regular
+six is wide but not quite as wide and it
+doesn't shoot 4k selfie video it does
+1080. so it's a slightly upgraded selfie
+camera on the pro
+that's about it millimeter wave if you
+don't get it on like one of the carrier
+versions of the pixel six at a
+millimeter wave that's another
+difference but that's probably yeah just
+be careful if you're it is not 5.99 if
+you're getting millimeter wave off like
+verizon or att if you're in the us i
+think it's like 699 or even 729 from a t
+just yeah
+so is that a is that a 300
+is that not enough for a 300 difference
+so when i break that down
+my thoughts are the two things i would
+miss the most are the telephoto
+and
+i just i'm mad that the selfie camera on
+the regular's not as wide i love wide
+selfie cameras same thing i know how
+that's not a thing on every single phone
+was it pixel three that pixel three and
+then he took it away for four yeah is
+that big pixel 3xl notch had those two
+selfie cameras biggest mistake google's
+ever made yes yeah so i i don't i kind
+of struggle to think what else they
+could have done to make this worth more
+money
+i just
+yeah i don't know it's like i don't see
+myself wanting to spend an extra 300
+because i like the matte sides better i
+like the flat screen better although i
+will say
+the bezels do make it look chunkier and
+more like brickish um when you're just
+looking at it but i still like the flat
+screen was that word
+brickish oh brickish oh oh yeah i don't
+know if it's an actual word that's fair
+um yeah it looks more like you know when
+you when you see both of them from the
+top the pro looks so much better because
+of the curved screen it makes the
+pencils look yeah but totally fine with
+the bezel i mean i've dealt with this
+massive forehead on the 4xl forever i
+think i can deal with some just oh yeah
+they'll both be an upgrade for sure um
+but like i have the ultra wide which is
+what i'm dying for i'll miss the
+telephoto but um i it's basically saying
+i don't want to spend 300 for a
+telephoto and i like the size of the
+smaller quote-unquote smaller one better
+yeah 6.4 inches is still plenty of
+screen yeah i think that's a good i
+think that's going to be a really good
+deal and a really good phone for a lot
+of people yeah now again this isn't the
+review that's coming up we're testing
+them for sure i am annoyed by the double
+embargo
+um it is a red flag it always is every
+time i myself am not going to order one
+until we get through our all of our
+testing yeah david's testing one uh dave
+is testing the the pixel six right now
+i'm testing the six pro we might trade
+at some point soon but look forward to
+those reviews definitely this is a
+random question yeah when you're talking
+about a phone
+let's say pixel 6 versus pixel 6 pro or
+iphone 13 versus iphone 13 pro
+do you automatically assume when they
+just say the number that they're talking
+about the smaller version so if i say
+like how's the pixel six do you assume
+i'm only talking about the regular pixel
+six because there's so many times i add
+the word regular or smaller or something
+like that to it i feel like we need to
+create a word for saying
+yeah it's kind of like talking about
+cameras where you talk about the primary
+camera or do you say primary or wide or
+regular camera um i think i assume yeah
+i'm talking about the bass okay
+i feel like we do but when you're
+talking to like
+everyday people who have phones like i
+think
+it's very default to just say like i
+have the iphone 13 and that could mean
+anything from mini regular pro pro yeah
+i think people
+don't really call phones by their name
+they kind of use the suffix as like uh
+an add-on it's weird it's like people
+i'll talk to people be like oh you got
+the iphone 13. yeah i got the mini one
+so to them they got an iphone 13 but
+it's the mini one instead of the iphone
+13 mini or if they got the pro they'll
+go oh yeah i got the iphone 13. i got
+the pro one
+so they're all kind of the same phone
+just like one of them costs more and
+it's the product that makes sense it's
+like a trim model on a car like you
+don't go around and say like i got a
+subaru impreza like excited or something
+you just say you have it and then you
+like to have the sport yeah i got it i
+had a toyota camry xle back in the
+morning that was very confusing too i'm
+looking at them now and it's yeah very
+confusing but yeah um a little all
+better than galaxy s
+whatever
+you know
+the majority of like relatives and stuff
+that i ask what phones they have they're
+like i have samsung
+because they just have
+completely given up on trying to
+remember yeah they just want the model
+number and then the subtext so to them
+it's the samsung galaxy but there's a
+thousand subtexts of the samsung galaxy
+oh did you get the s21 fan edition or oh
+you got the s21 or the s21 plus or is
+that the s21 ultra what which galaxy are
+you talking about like there's a million
+of them i feel like we're the opposite
+is where it's like what phone do you
+have it's like oh the s21 you you skip
+samsung i know exactly what you just
+typed the end of it yeah yeah that's
+that's kind of the way we are in this
+world but but yeah so i'm i think i'm
+very close adam i know order what'd you
+ordered probably ordered it right
+regular ciama
+regular the regular six but it feels
+that i don't want to order a new phone
+and be like yeah i got the regular it
+just doesn't feel as good yeah the
+pixel's thick yeah wait what color did
+you get black black black i think that's
+the green
+no i didn't like the the only special
+colors i liked were on the pro and when
+i decided to get the six are you gonna
+say
+oh no
+yeah i think black on black with the
+aluminum sides all matte black that's
+that's a nice murdered out pixel six i
+like that it looks good i
+i kind of dig the green even though i
+dig like the more olive green of some
+other phones that have been doing it
+recently the thing is i i'm a full case
+person at this point i kind of hate to
+admit does that mean is that what like
+being old in the tech world is
+using a case no this we are in a very
+isolated weird world where no one uses
+cases but outside of the studio
+everyone uses cases
+that i know but like in this world of
+people listening to the podcast right
+now like am i getting shunned can you
+tell i'm over 30 because i use a case no
+i even pulled on twitter do you use a
+case on your phone and it was way higher
+than i expected even among our audience
+it's higher than i expected which is
+funny because it was lower than i
+expected oh it was like seventy seventy
+five twenty five twenty five i expected
+it to be
+even in our tech based audience like 90
+10. because in the real world i think
+it's like 95 yeah
+actually my my friend i don't know if
+you know chris but we went rock climbing
+outside and he's no case and his phone
+is just like sitting on the rocks rock
+climbing with no case well he i mean he
+doesn't keep it in his pocket when he's
+climbing but when he's putting it down
+it's not in a bag it's just on and he'll
+be on a boulder yeah and i'll like move
+it out of the way i'll pick it up to sit
+there and then i'll be like i won't put
+this down and i just hold it on my lap
+then because i'm too scared of breaking
+dude i'll put my phone face down on my
+own desk next to my bed and be like
+afraid to like drag it because i might
+get a thing of sand or something yeah
+yeah
+yeah no my case i've just i'm full blown
+in the world of like
+i will just toss my phone on the ground
+when i'm out climbing or when i'm like
+at home doing work and stuff like that
+because it has a case on it
+for these phones now i think the like
+obvious thing to do is like cancel the
+camera bump so the camera the camera
+visor or they're calling it a camera bar
+whatever you want to call it i like that
+camera bar camera mountain range yeah i
+mean it's everything it's huge it's the
+whole width of the phone but like that's
+nice because now it doesn't rock from
+side to side when you're when you're
+typing with it face down or face up
+which is nice
+but uh yeah now you get a case and the
+case basically like no brainer just just
+go the depth of the camera bar across
+the whole back so now you have like a
+flat back
+i think that's fine can i say for this
+is a little off topic i should have said
+in the beginning but for anyone who has
+seen the renders of these and like
+videos of these um and you're buying one
+the camera bar is not as off the phone
+as you think when i first saw it it
+looked like it was
+it looked like you could like pinch it
+up from that like with your finger
+protruding yeah but
+the phone itself is still thick it is a
+thick phone it is a brick and then you
+add that on top and it almost feels like
+the full thickness that i originally
+thought except that less of it's the
+bump more of it is the phone where
+previously i just thought it was a
+thinner phone with a gigantic bump bar
+whatever you want to call it i think
+this is so exciting because the pixel
+cameras have always been so good and
+this design language screams
+we
+care about this camera a lot like we
+went deep we put in extra space there's
+a lot of hardware here
+big camera thing and they focused on on
+the camera for a while in that event
+yeah a lot of cool stuff in there a lot
+of cool features like software features
+they did uh uh faking long and short
+exposures like we didn't talk about
+magic eraser magic eraser is pretty cool
+okay wait so i'll do the exposure stuff
+real quick so if you take a picture of a
+moving subject with the right shutter
+speed with a nice camera you get a
+blurred background but a sharp focused
+object which is kind of cool it's like
+you have to get good at it but like like
+you take a picture of a car passing by
+or something you can you can nail that
+in sports you can fake that on the pixel
+by holding it still and as the object
+passes in front of you snap a picture in
+a special mode and it will use ai and
+software to go oh the object's moving
+this way let's blur the background this
+way and you look like you got that cool
+sliding shot yeah and i think another
+example is like it will do more than
+just the background because they showed
+someone on like a bike the wheels
+yeah or like somebody next to a
+waterfall where the water had the like
+long exposure flowing but the people
+like standing there yeah you can fake a
+long exposure too if you look at like a
+waterfall or light streaks by cars
+driving by at night or something if that
+does well i'm pretty excited about that
+because i'm really excited to get ultra
+wide because i like taking pictures and
+i really like taking pictures when i'm
+hiking and everything so getting to add
+this cool like little water feature like
+could you take some really sweet
+pictures but what about magic eraser
+though okay this is fun i mean my first
+thought was
+i still don't remember what they called
+it but the chain link fence from like
+2016 at google i o which was like
+google photos is now going to erase
+these things in the middle of your
+picture and it just showed this like
+really cool gif where i remember io the
+oohs and oz that came out of it were
+like
+one of the biggest parts of the event
+and it was like a kid playing baseball
+with a chain like fence in between it
+and it just erased it so this
+immediately reminded me of that thing
+that they just never talked about again
+it's often the uh
+the land of misfit toys with the bixby
+speaker and the
+air what is the air the charger air
+power air power yeah um so
+essentially what it seems like is if
+there's
+one of the examples they did was amazing
+stuff in your background it seems like
+um it will
+content autofill essentially content
+aware fill yeah yeah yeah so if there's
+something
+over your shoulder or in the background
+of a photo
+and it has a somewhat clean enough
+background or repeatable enough
+background that it can identify that
+thing you open the google photos app you
+go into this magic eraser tool and it
+automatically finds and highlights that
+thing and if you don't want it there
+anymore you tap it and it disappears and
+it fills in the background for you yes
+seems really cool uh
+i know from my experience with content
+aware phil and other tools
+that it's highly dependent on the
+ability to reproduce the background well
+and of course we have tensor now we have
+google smarts we have ai we have all
+these you know cool tools we've talked
+about luminor ai before just like hey
+replace the sky and just knows what the
+sky is so we've seen some really cool
+smart photo tools i'm very curious how
+well this one will work in the the real
+world exactly of like i have a photo
+bomber over my shoulder in new york city
+will it erase it but like put a taxi
+where he was or what's going to happen
+yeah that's what's good is like luminar
+ai is replacing it with something this
+is supposed to be
+content aware filling it so it's
+supposed to be what's in the background
+so if you have a very busy background i
+cannot see it having a good time doing
+that um i think it'll be really awesome
+for people if there's like something
+very
+my new in the background yeah i i know
+exactly how i can make this work well
+like just because of how i've seen it
+work especially in photoshop and the new
+after effects tool like if you give it
+grass and you just put like a ball in
+the grass behind you or a person yeah
+with like just sky behind him like that
+contrast it'll be able to fill that in
+no problem the the problem will come if
+you're on like a sidewalk and that
+person behind you's feet are on the
+sidewalk but their legs are over the
+pavement their torso is over a car and
+their heads in the sky like and half the
+fire hydrant next to them and like all
+this other weird stuff that's going to
+be a mess in the background but i think
+it'll be really great for just like
+instagram where it's a smaller photo and
+maybe there's just like one person in
+the background you might not notice it
+that much after you touch it up but sure
+um what i did notice is they were all
+background pictures it was fixing so
+depending on how well that does
+i think the chain link fences are still
+going to be blocking all of our shots
+right i will celebrate the day when
+google finally i
+i talked to google about this and they
+suggested that this was instead of the
+chain-link fence feature so they they
+said you know how we would get rid of
+the you know that you know the
+chain-link thing for example did they
+actually say they brought the chain-link
+fence up and they said well we found
+that people actually like to take things
+out of the background
+so to me
+chain link fence is never happening
+i also don't know anyone who takes that
+picture with the chain link fence in the
+front so you just go a little bit
+forward you can't though
+be google and say you don't need an
+ultrawide you need a telephoto because
+you take pictures of your kids playing
+sports and then say i'm not going to
+take a picture behind the batting cage
+at my kids baseball game yeah i guess i
+was picturing you like three feet behind
+the fence taking it through it no you're
+10 feet behind yeah you're in the
+telephoto yeah okay yeah that's fair
+well maybe they'll keep working on it i
+don't want i'm not crossing my fingers
+anymore but i think we'll officially put
+it in the graveyard with sure with
+air power yeah with products that were
+announced and then silently sort of
+disposed of
+um that's yeah that's the pixel man the
+reviews are coming up i think uh
+the prices are the most interesting part
+of the pixel because they're so
+competitive but stay tuned for those
+reviews and we will have them probably
+next week all right well that's enough
+of tuesday
+that's enough of tuesday uh wednesday we
+had
+the samsung event the biggest event i've
+probably ever seen yeah oh yeah it was a
+it was fireworks the whole time straight
+straight heat from top to bottom no
+that's sarcasm too uh this was a small
+one so it was on samsung unpacked two
+for this year it was it was very small
+like they didn't even have briefings or
+anything for it not really any new
+products it's just new updates to some
+stuff the one i found interesting was z
+flip 3 has some new colors
+or it's not really well not new colors
+it's new customization of yeah mixing
+and matching colors so you can have like
+now you can have a yellow top half and a
+blue bottom half or a red top half and a
+yellow bottom half whatever um which is
+cool it's like some level of
+customization i
+it every time i see this stuff i think
+back to like moto maker and how dope
+moto maker was hiatus specifically
+mentioned that because they said we've
+never um offered this kind of
+customization before and i was like did
+they say we or we've never seen because
+motorola would like to have a word with
+you no it's just them
+yes
+classic classic line of like this is the
+most we've ever offered yeah no yeah
+moto maker was thick it was like you
+could pick wood you could pick the
+button colors you could pick like all
+this other stuff this was um
+yeah it just makes it match colors
+basically yeah but that's cool i like
+that it's a 100 extra bucks to do that
+though i don't think that's that
+unreasonable if you really if you really
+want to mix and match colors then yeah
+i'm sure i will also say and i kind of
+missed it but i think hiatus saw it also
+he said the box the z on the box
+reflects the color choices that you make
+which is kind of cool that nice touch
+yeah nice nice touch if you're spending
+100 extra bucks they they go the extra
+mile for it i guess that is cool
+there's some uh smaller little things
+there's some watch updates yeah they
+were and they also had a um
+special edition i forget the designer
+yeah they collabed with another designer
+i
+won't try to pronounce it because i'll
+mess it up but i think there's a watch
+band and earbuds exactly and then the
+the watch four series got some new watch
+four new watch faces uh they also now
+have a gesture control where you can
+knock knock for a quick launch of a
+feature which is pretty sweet and
+there's fall detection now so
+neat sos notifications if you fall from
+the watch series 4. um that's about it
+really for unpacked two not a whole ton
+but we did also have two other things
+this week because it's a lot uh we have
+surface duo 2
+which is um how do i describe it well
+we've brought it in here i haven't like
+like you said we've been super busy you
+did a lot of this video and you've been
+checking it out um we've had it for like
+two days i think by the time we're
+recording this um
+i haven't really gotten to see it yet so
+this is my first time yeah seeing it so
+as you open it up yeah we we saw the
+surface duo one i'm really interested
+how people are gonna receive this and
+like try to understand this but service
+duo one was like
+really sweet hardware
+but then a really
+rough experience otherwise like buggy
+software
+poor cameras bad battery life like there
+was not a whole lot else going for it it
+was a cool idea because wow a dual
+screen passport slim thing in your
+pocket seems really cool
+so this is the second one right yeah
+they've made a bunch of improvements is
+what i say in the video they've made a
+bunch of objectively great improvements
+to it things we asked for things we
+asked for even
+and
+have realized in the process that it's
+now actually worse to use
+which is really strange it's i i don't
+really see too many examples of this
+which makes me like step back and like
+contemplate the entire form factor as a
+whole so that's what i tried to go into
+in this video
+but you're holding it now do you have
+any uh
+super quick okay one minute thoughts on
+it um the curved screen i do have to say
+like does make it feel like a little
+a little less of a bezel in the middle
+but like you know we i think we all kind
+of assumed in this form factor the bezel
+on the the cree i don't want to call it
+a crease but you know the it's two
+screens yeah it's two screens so like
+you kind of expected that they did make
+they made the bezels on the outside
+smaller but they're still huge um so i
+give them credit for that the black
+color at first look nice seeing both of
+them i like white better now here's my
+biggest issue
+i know everyone's gonna say this we
+wanted better cameras it doesn't fold
+flat
+which i don't even have the biggest
+issue with but and now i'm gonna do this
+on video and try and explain it on audio
+you hold the bottom
+because the camera bump on the top it's
+in like a wedge shape
+it it snaps into the camera fine which
+is like like feels really nice and
+that's one thing that the surface has
+done really well but if you're holding
+the bottom of the phone when it's like
+this
+any pressure you're squeezing it and the
+whole phone is flexing
+and like that just
+doesn't feel good and doesn't
+it feels like something's going to break
+still very thin i feel like even just
+squeezing it and looking at it it feels
+like it's now bowed in a little bit um
+yeah i never oh there's a flashlight on
+apparently okay
+cool don't know how i did that okay that
+was my fault
+uh yeah
+cool yeah i got it it still feels like a
+great piece of hardware like it's too
+wide it's too
+wide to make it thinner a lot of
+thoughts on this right okay so the new
+screen is uh same aspect ratio but it's
+a little bigger it's 8.3 inches inside
+and it's a 90 hertz brighter display i
+like that it's 90 hertz honestly the
+software is still so buggy that it is
+one of the stutteriest devices i've used
+and i didn't even get to the price which
+i will eventually but for this price it
+should not stutter this much so that's
+unfortunate but uh the camera on the
+back it's way better and that's i guess
+a pretty low bar to clear because the
+previous camera on the surface duo was
+the front-facing camera yeah
+and not a front-facing camera they seem
+to care about that much yeah so if you
+hand it to me so before you would have
+to uh you still have a selfie camera but
+you have to flip it all the way around
+to open it flip it around and then use
+the selfie camera and take photos of
+things from the screen on the other side
+fine it worked i don't think that was
+the worst idea in the world back then it
+just felt like the selfie camera sucked
+so bad it was bad right so this time you
+have these triple cameras on the back a
+standard an ultra wide and a 2x
+telephoto which is not amazing but you
+know what it's real cameras now yeah in
+order to take your photos you have to
+open it and if you fold it all the way
+around again you're blocking the camera
+so now you have to open it all the way
+out to take photos like this
+which is
+it's minor but it's a little annoying
+and
+it's just a
+thing and you take photos and it's got
+this ui where you take photos on the top
+and then it shows up at the bottom and
+it's
+it's well laid out but it's just a just
+a strange design if you're listening
+right now and don't have video what he's
+saying is
+before you would fold it all the way so
+both screens were facing out and as flat
+and you know what essentially is the
+smallest version of the phone to take a
+picture because that's how we all take
+pictures with our phones now because of
+folding in on itself you block the new
+cameras
+the phone has to be all of the way open
+which
+you look like the person taking a
+picture with an ipad now yes and you
+never want to look like that person i
+promise you
+um so can i also say
+is that camera bump bigger than the
+pixel camera bulb thicker at least you
+know like uh further off of the phone i
+think so it is a little thicker because
+it is a wedge shape the funny thing
+about the wedge shape is it's it is the
+wedge shape oh yeah because it is
+matching when you pivot around and click
+it into place pivoting it around and
+clicking into place feels nice until you
+realize that there's nothing wedging now
+the bottom like i said and if you pinch
+that the whole phone flexes yeah and now
+just when you use it one-handed like
+this
+um it's open a little bit and that's a
+little bit weird to hold now it's like
+it's just it's way flat it's already
+weird to hold because it's way too thick
+so it's so anyway i get you know into
+this in the video and i'm like okay they
+added the cameras the cameras are are
+objectively better but now worse to use
+is that a win a little bit but also a
+little bit of a loss and there's also
+like these weird quirks about the
+software where like i still have a lot
+of
+touch responsiveness issues which is
+strange in this software it's android
+but it's you know it's dual screens and
+i'm trying to span apps across the
+screens
+um and the one weirdest part
+is if you span an app across both
+screens
+you literally lose the text that's in
+the middle of the screen like a full
+like probably 20 pixels are like bent
+over into the middle watch the video so
+you can see it on camera it is
+it's not a good idea to read this like a
+normal book
+where text goes across i guess a normal
+normal book they'll do two pages without
+pages on either side but if you're
+trying to web browse you you no longer
+want to bring up an article full screen
+because you're cutting off all the text
+in the middle yeah i guess you would
+want you would want to spin it and do it
+vertically and then you can always
+scroll the line past it exactly one
+thing i thought of was they don't market
+this as a gaming phone but at any point
+when you have something that is a bigger
+screen like you wanna actually do a
+little bit they kind of do not like rog
+phone levels or legion um but i have
+game pass on here well so the thing is
+is
+i kind of get the idea of like folding
+it up and you have a controller on the
+bottom and the screen on top but you're
+not really getting more screen real
+estate in the games of there right so if
+you wanted to play a game at full screen
+you can
+but if you wanted to play any type of
+shooter like pub g or cod mobile or
+something like that you can't full
+screen because your crosshair will be in
+the middle and the literal entire
+purpose of playing the game is to shoot
+people and now you can aim so that's
+yeah interesting yeah so the difference
+between something like this and a galaxy
+fold would be you still have all the
+screen in the middle but dual screens
+dual screens was like it was an
+interesting productivity idea because i
+really like some of the versions of
+using this device where i have my email
+on one side and a web browser on the
+other side and i'm writing things in the
+email based on what i'm reading on the
+other side in the web browser and you
+can still do that on the folding screen
+devices but it's just such a
+cognitive thing to have two screens and
+to have that separation there by a real
+bezel
+so that's why i was into the idea but i
+think genuinely
+it's
+there's almost no reason to get it's
+hard because they they did what we asked
+them to they even did like i think the
+uh little curved screen to get
+notifications while it's closed is a
+brilliant idea i think that was a really
+smart move but it
+like you said it's just
+i don't know and with the full cameras
+they make this seem like last year they
+kind of had this thing where is this
+your like dedicated phone or is this
+kind of like a companion device kind of
+thing like a word
+quote-unquote phone or whatever but this
+makes it feel like it's a real thing
+that it wants to replace your phone
+and i can't see many people doing that
+unfortunately
+yeah it's tough still feels great still
+a great piece of hardware i'll invite
+you guys in the comments to again leave
+your thoughts because i asked for this
+in the main video but we'll also see
+some stuff here over on waveform like do
+you think this form factor
+can work can it have any real advantage
+over the other stuff where you have an
+outside screen because that's the thing
+about all the other folding phones is
+you can take them out your pocket use it
+for a second check your notifications
+without opening it put it back
+they have varying levels of that
+functionality some of them you can take
+a quick selfie some of them you can
+dismiss notifications or even reply with
+your voice some of them have a whole
+screen on the like a whole like a whole
+phone like the z-fold is basically a
+whole phone on the outside this one
+nothing you have to open it and that's
+the difference let's i'm curious how
+about this
+i mean obviously fix all the software
+bugs and stuff like that what if this
+was a little bit less wide and did have
+a front screen so now you can use it
+normally front screen you can take
+pictures with the nicer camera on the
+back which we also i don't think we've
+tested the cameras yet on it because we
+haven't done the full review but we'll
+have to see a whole this will definitely
+be better than the old one we'll see how
+it stacks up to other phones yeah you
+can take regular pictures you can do
+your regular normal stuff but i do still
+feel like
+it's not so much that it doesn't have
+like the full bending screen but the two
+screens like holding like a book is
+still really comfortable and if you are
+doing some basic browsing or especially
+reading like i could see people who are
+really into e-readers and stuff like
+that yeah this could be awesome like
+this is a comfortable way to hold the
+phone it is bringing a new form factor
+but the problem is it's making all the
+normal everyday used phone stuff so much
+harder yeah
+1 500
+no thanks yeah that's the that's the
+cherry on top of the banana cream pie is
+that a thing not probably not
+but that's the cherry on top it cost 100
+bucks more than the last one which by
+the way was like selling for 900 off or
+a thousand dollars off which is
+pretty good sign that they're not
+selling very many
+um for whatever reasons obviously it
+didn't do very well but
+brand new 1500 bucks so
+it is what it is yeah i i i leave the
+comments section open to your thoughts
+on that one because that's one of the
+most like polarizing interesting things
+uh but one last thing for this week
+we have the rivian here yeah we had the
+rivian r1t
+here
+in the flesh the electric pickup truck
+from the california startup
+now
+the whole crew's seen it now you sat in
+it we've driven it around for a bit
+i've i've made a full 20 minute video
+somehow i didn't realize i had that much
+to say about this truck but i did and
+that was the most fun i've ever had
+driving a truck and if you put a gun in
+my head right now and said cybertruck or
+rivien
+i would honestly pick the rivian it is
+sick
+so fun i still think way too many people
+are excited for cyber truck and don't
+know what they're getting themselves
+into yeah as cool as cyber truck is and
+for the people that it's made for it
+will be great
+that is not a car a truck for the
+average person yeah like uh yeah it's
+massive f-150 lightning even very
+massive gmc makes that hummer obviously
+the hummer is massive
+so the number one thing the rivien has
+going for it is it's a compact pickup
+truck it's like a four and a half foot
+bed it's it's a very maneuverable truck
+relative to other trucks of course yeah
+but i oh man it's fun it's so fun you're
+not buying it if you are like a truck
+truck person if that makes sense you
+know like i do like that their marketing
+is this is more of like an adventure
+thing yeah the truck bed is a benefit
+yeah it's not this is not a work truck
+no no no yeah it's a it's a it's an
+adventure vehicle is what they call it
+basically
+um so wow i don't know if we even have
+enough time to go into all the details
+about it just real quick yeah definitely
+watch the video it's fun but like they
+have every little thing
+geared towards adventure from the colors
+we tested the blue one but uh there's
+some other kind of adventure colors i
+think and and on that they do this like
+yellow accent with their logo and the
+stuff on the side so yeah
+i like the blue and i love the blue with
+the yellow accent the yellow calipers
+the yellow brakes yeah everything looks
+so good so the design is kind of like
+this retro future thing and i included
+this tweet in the video and i think it's
+perfect someone said it looks like this
+truck is
+like 50 years old and brand new at the
+same time because it has this weird like
+like volkswagen bus type shape
+but it also is a huge light bar and leds
+and like a new truck look and it's
+electric so it's very it's interesting i
+it grew on me i didn't love it at first
+but it grew on me also it's still not
+i don't think it's a sexy trick i like
+aggressive i like aggressive looking
+things and not like crazy overly
+aggressive like cybertron stuff like
+that
+i'm not not a cyber trucker um
+so from the side profile
+absolutely love it it looks so good the
+light bar kind of like comes over to the
+side so you can kind of see it in the
+front and that gives it that kind of
+like harder edge meaner look to it while
+still being like you know not insanely
+boxy and but the front looks like it's
+like wearing glasses like a grandma so
+that yeah that's the only thing and i
+like it i'm not saying i don't like it i
+still
+i still like the design of it it just
+has this kind of like i don't know if
+tacky is the right word but it looks
+like it's trying to be an outlet
+and to me it's like we're from the
+future we're electrical
+plug me in
+and i don't
+know like that thinking of it all like
+that i don't love it
+but besides that little gripe i
+love this the bar the bar on the front
+yeah i love this the bar on the front is
+leds and when you plug it into charge it
+lights up green and pulses okay but
+still not as cool as the hummer that the
+lights like ticked up like a battery
+that was the coolest but that is still i
+could have sworn somewhere i saw i
+thought i saw that the rivian was going
+to do like a progress bar green and i
+guess like across the front yeah maybe
+that was a concept or something but that
+would have been cool but it just pulsed
+which is whatever it's pulsing and it's
+sitting there green um i've never gotten
+more looks and questions about anything
+i've driven differently ever i've driven
+the 720s
+daily i've driven it around regular
+streets i've driven
+the nsx i've driven obviously other
+teslas the cyber trucks gonna get the
+same thing but i drove this to like go
+get dinner i drove this around like my
+home neighborhood my neighbor has a
+truck immediately he was like what is
+that like the people just pointing from
+their cars and i can see them like oh
+what is that it's got to be the lights
+but it's also just the whole
+electric truck
+and just like the sportier i know there
+are sportier colors on trucks but like
+you don't see it as often you see so
+many black silver white trucks and
+having this like blue yellow accent
+truck it stood out differently it
+definitely stood out um the specs are
+pretty simple 314 miles of range you're
+gonna do you know public charging and
+home charging for now they're building
+out as of we as of right now they're
+starting to build out the ribbing
+adventure network which i would describe
+as like kind of like the tesla
+supercharger network but for rivien's oh
+really yeah i haven't seen it was more
+like ford passwords like we're using
+other things and you're getting um like
+information based on a different
+infrastructure yeah so they're building
+their own they're building their own
+charging infrastructure is it um what is
+that chat mo or
+c
+i think it's ccs ccs i think it's ccs
+and correct me if i'm wrong but i yeah
+it'll be just four rivians it'll plug
+into all the info will be in the app and
+everything it'll be like their own first
+party well-integrated network and it's
+the adventure network so it'll be in a
+lot of places not like tesla's where
+they're along the like road trip stuff
+but they're more in like adventure
+places maybe campsites maybe a lot of
+those uh stops on the way to campsites
+or popular camp locations so that's kind
+of a neat like version i'll be
+interested to see how that happens if it
+is like something where you're using you
+know electrifier america most of the
+time and they're giving you some extra
+you know
+like out in the wilderness kind of stuff
+but then you also have to think the
+super adventure things are really out in
+the wilderness where like yeah i mean
+like far from a charge it's i highly
+doubt they're going to get in any
+national parks or anything uh i think
+maybe one or two yeah i mean like i
+could see like yosemite at like the main
+like valley lodge area or something like
+that but most of these campsites like
+you're not getting sell signal out there
+you're you're barely getting running
+water and all the bathrooms in there
+like to now pop up be a startup and pop
+up these chargers seems a little uh
+tough but i guess those rv campers and
+stuff in a lot of those places that
+they'll give you electric too but
+we'll see how that does we'll see it's
+brand new none of them exist yet we're
+just getting that started but that's the
+idea but i think the 314 miles of range
+is the important spec that's pretty good
+and they have something called like a
+max package where it looks like in the
+future 400 miles yeah they're they're
+offering a ten thousand dollar upgrade
+for 400 plus miles but that's not
+shipping it i'll believe it when i see
+it okay i don't know when that's going
+to come out that would be it oh my that
+sounds great 10 grand for an extra 100
+miles sounds awesome i mean i'm already
+looking at this as a very expensive
+truck that it is yeah um so like in my
+my fantasy world where i'm getting this
+yeah of course i'm gonna spend an extra
+10 grand it starts at like 70. fyi so
+it's expensive it's an expensive it's a
+pricey truck but i'll also toss in quad
+motors torque vectoring 0 to 60 and 3
+seconds flat jesus christ this truck is
+fast it's wild it's hilarious that a
+truck can be that fast and i don't want
+to describe what i did on the highway in
+too much detail but it shouldn't be able
+to do what it does on the highway the
+whole eevee truck thing like yeah we
+we're now at the point where a lot of
+people have experienced like electric
+launch in like a car but the truck world
+is just gonna be confused like that's
+what's so weird about it i did a launch
+launch control yeah
+it's a pickup truck
+there are people who mod trucks that
+this does happen please comments we
+understand this sure can happen in a
+truck my grandfather's races pick up
+trucks yeah it is just not a common
+thing though and we all can agree with
+that that it's just going to be really
+weird when you pull to a light when
+somebody's like
+modded lancer or like sti or something
+and they're like pull off and just torch
+them in a like a pickup truck it'll be
+hilarious and silently too it's not like
+the old like my grandfather drag raced
+pickup trucks and actually he drag raced
+an old f-150 lightning i remember oh
+yeah which is kind of awesome it was
+like performance version but that's like
+a loud obvious thing that's happening
+where this would just be like
+like you just take off and it did
+so what was kind of interesting though
+is because it was on the off-road tires
+um which i do think they said get less
+range obviously but yeah 10 to 15 less
+road noise on that it's like it almost
+feels like you're you do have some noise
+obviously not
+uh like combustion engine noise but
+there was a lot of road noise when we
+had the windows open and you were really
+hitting it yeah you can you can hear it
+yeah but
+overall this truck like with the gear
+tunnel with the um it has like lights in
+the back it has like its own
+cover i forget what they called it
+yeah something like that it just had the
+bluetooth speaker the flashlight in the
+side
+just like the extra space under the
+seats the front trunk was good i still
+like the f-150 front trunk better
+because it lowers it down a little bit
+and you can kind of like sit on it um
+but like air compressor air compressor
+yeah but for me as somebody who
+flashlight yeah bluetooth speaker yeah
+it's um
+like for me as somebody who
+kind of thought about the f-150
+realize it's just too big as a commuting
+this feels like kind of now that in
+between of like
+i'm kind of on the fence and the
+commuting aspect of like a uh like
+crossover but like kind of want the the
+bed right like a truck bed would be
+awesome
+it that could commute and be fine i
+still wouldn't drive in like the city
+but for like my 50-minute commute yeah i
+i
+absolutely love caribbean it's totally
+converted i found it um i know the city
+question is obviously mostly a parking
+question but i found it very
+maneuverable because of the torque
+vectoring it had a pretty tight turning
+radius like i never had any problems
+parking it i don't drive a truck very
+much i was very impressed by that but um
+parking would still be i mean that's
+just
+yeah that's the reality of the city
+i think the gear tunnel is the coolest
+smartest thing that they could have done
+because it leans directly into the
+adventure stuff which is the rivian
+stuff
+but it's also just like extra storage
+and a cool eevee thing and just like for
+you and i we've both played ultimate
+my new hobby has the same thing where
+it's just like we play a sport where we
+have another pair of shoes cleats
+climbing shoes they smell
+miserable
+and you know you don't want to play with
+stories yeah yeah so
+literally sealed storage where i don't
+have to accidentally forget them in my
+trunk and then gag as i get into the car
+the next day sounds fantastic yeah so
+this is uh and you can get a camp
+kitchen attached to it you can attach
+like weight to it do we know if those
+are available
+and now
+i think i'm kind of thinking this
+because tesla's been our main ev thing
+and tesla really likes to sell you right
+off the bat and not give you options
+later
+camp stove you can get like later five
+thousand dollar option haven't seen it
+delivered yet but you can add it in the
+configurator awesome yeah so it's really
+cool five thousand dollars is a lot of
+money but
+the package it comes with like you
+should go read the package it has like
+your it has the stove it has like the
+little sink and the water container but
+it also comes with adam what's the
+company of all the
+snow peak never heard of the company
+before but a bunch of really really nice
+i'm talking like fifty to a hundred
+dollar mugs and and like camp cups oh
+yeah like cutlery yeah really really
+nice uh struck as fun i would love it i
+could totally see myself in the next
+couple years possibly picking it up
+y'all watch the video it's 20 minutes
+long we took it off-roading a little bit
+barely it's an air quote we took it off
+of a road
+it's off of a road okay i don't we had
+two we had a day and a half with it but
+like most fun i've ever had in a truck
+i'm a huge fan now i can't wait for that
+charging network to build out so that's
+the rivien that's been quite a week
+quite a week who knows how long is that
+episode it's probably going to go crash
+like
+no i'm going to go directly on a plane
+to go play frisbee it's going to be good
+but uh that's been it for a week
+whatever this is of tectober we'll be
+back next week as we usually are but
+definitely stay tuned for those reviews
+we talked about and for additional
+videos because they never stop it's that
+time of year either way thanks for
+watching
+catch you on the next one
+peace
+waveform was produced by adam molina we
+are partnered with vox media and our
+introduction music was created by vain
